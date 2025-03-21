@@ -1,5 +1,6 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+from typing import Optional
 import pandas as pd
 
 app = FastAPI(
@@ -20,28 +21,35 @@ app.add_middleware(
 # Load the reference CSV file
 df = pd.read_csv('mock_insurance_data_100.csv')
 
-@app.get("/")
+@app.get("/recommend")
 async def get_recommendations(
-    Full_Name: str,
-    Age: int,
-    Budget_in_INR: float,
-    Zip_Code: str,
-    Email: str,
-    Emergency_Services: bool,
-    Preventive_Care_and_Screenings: bool,
-    Hospital_Stays_and_Treatments: bool,
-    Prescription_Medication: bool,
-    Smoking_Status: str,
-    Pre_existing_Health_Conditions: bool
+    Full_Name: str = Query(..., description="Full name of the user"),
+    Age: int = Query(..., description="Age of the user", ge=0),
+    Budget_in_INR: float = Query(..., description="Budget in INR", ge=0),
+    Zip_Code: str = Query(..., description="Zip code"),
+    Email: str = Query(..., description="Email address"),
+    Emergency_Services: str = Query(..., description="Emergency Services (true/false)"),
+    Preventive_Care_and_Screenings: str = Query(..., description="Preventive Care and Screenings (true/false)"),
+    Hospital_Stays_and_Treatments: str = Query(..., description="Hospital Stays and Treatments (true/false)"),
+    Prescription_Medication: str = Query(..., description="Prescription Medication (true/false)"),
+    Smoking_Status: str = Query(..., description="Smoking Status (Smoker/Non-Smoker)"),
+    Pre_existing_Health_Conditions: str = Query(..., description="Pre-existing Health Conditions (true/false)")
 ):
     try:
+        # Convert string boolean values to actual booleans
+        emergency = Emergency_Services.lower() == 'true'
+        preventive = Preventive_Care_and_Screenings.lower() == 'true'
+        hospital = Hospital_Stays_and_Treatments.lower() == 'true'
+        prescription = Prescription_Medication.lower() == 'true'
+        pre_existing = Pre_existing_Health_Conditions.lower() == 'true'
+
         # Find matching policies from the CSV
         matching_policies = df[
             (df['Budget in INR'] <= Budget_in_INR) &
-            (df['Emergency Services'] == Emergency_Services) &
-            (df['Preventive Care and Screening'] == Preventive_Care_and_Screenings) &
-            (df['Hospital Stays and Treatments'] == Hospital_Stays_and_Treatments) &
-            (df['Prescription Medication'] == Prescription_Medication) &
+            (df['Emergency Services'] == emergency) &
+            (df['Preventive Care and Screening'] == preventive) &
+            (df['Hospital Stays and Treatments'] == hospital) &
+            (df['Prescription Medication'] == prescription) &
             (df['Smoking Status'] == Smoking_Status)
         ]
 
@@ -58,6 +66,15 @@ async def get_recommendations(
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+# Add a root endpoint that shows API info
+@app.get("/")
+async def root():
+    return {
+        "message": "Welcome to Insurance Policy Recommendation API",
+        "usage": "Use /recommend endpoint with query parameters",
+        "example": "/recommend?Full_Name=John%20Doe&Age=35&Budget_in_INR=150000&Zip_Code=400001&Email=john@example.com&Emergency_Services=true&Preventive_Care_and_Screenings=true&Hospital_Stays_and_Treatments=true&Prescription_Medication=true&Smoking_Status=Non-Smoker&Pre_existing_Health_Conditions=false"
+    }
 
 if __name__ == "__main__":
     import uvicorn
