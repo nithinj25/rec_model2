@@ -1,72 +1,61 @@
-from fastapi import FastAPI, HTTPException, Security, Depends
-from fastapi.security.api_key import APIKeyHeader, APIKey
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
 import pandas as pd
 
 app = FastAPI(
     title="Insurance Policy Recommendation API",
-    description="Simple API to get insurance policies based on user parameters",
+    description="Insurance policy recommendations based on CSV reference data",
     version="1.0.0"
 )
 
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins
+    allow_origins=["*"],
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all methods
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-# Add a root endpoint
+# Load the reference CSV file
+df = pd.read_csv('mock_insurance_data_100.csv')
+
 @app.get("/")
-async def root():
-    return {
-        "message": "Welcome to Insurance Policy Recommendation API",
-        "endpoints": {
-            "/recommend": "POST - Get insurance policy recommendations",
-            "/docs": "GET - API documentation"
-        }
-    }
-
-# Define the input model based on required parameters
-class UserInput(BaseModel):
-    Full_Name: str
-    Age: int
-    Budget_in_INR: float
-    Zip_Code: str
-    Email: str
-    Emergency_Services: bool
-    Preventive_Care_and_Screening: bool
-    Hospital_Stays_and_Treatments: bool
-    Prescription_Medication: bool
-    Smoking_Status: str  # "Smoker" or "Non-Smoker"
+async def get_recommendations(
+    Full_Name: str,
+    Age: int,
+    Budget_in_INR: float,
+    Zip_Code: str,
+    Email: str,
+    Emergency_Services: bool,
+    Preventive_Care_and_Screenings: bool,
+    Hospital_Stays_and_Treatments: bool,
+    Prescription_Medication: bool,
+    Smoking_Status: str,
     Pre_existing_Health_Conditions: bool
-
-@app.post("/recommend")
-async def recommend_policies(user: UserInput):
+):
     try:
-        # Here you would add your logic to read from your existing CSV
-        # and return matching policies based on user parameters
-        
-        # Example response format
-        return {
-            "recommendations": [
-                {
-                    "Insurance_Company": "Example Insurance Co",
-                    "Policy_Name": "Example Policy",
-                    "Budget_in_INR": user.Budget_in_INR,
-                    "Features": {
-                        "Emergency_Services": user.Emergency_Services,
-                        "Preventive_Care_and_Screening": user.Preventive_Care_and_Screening,
-                        "Hospital_Stays_and_Treatments": user.Hospital_Stays_and_Treatments,
-                        "Prescription_Medication": user.Prescription_Medication
-                    }
-                }
-                # Add more recommendations as needed
-            ]
-        }
+        # Find matching policies from the CSV
+        matching_policies = df[
+            (df['Budget in INR'] <= Budget_in_INR) &
+            (df['Emergency Services'] == Emergency_Services) &
+            (df['Preventive Care and Screening'] == Preventive_Care_and_Screenings) &
+            (df['Hospital Stays and Treatments'] == Hospital_Stays_and_Treatments) &
+            (df['Prescription Medication'] == Prescription_Medication) &
+            (df['Smoking Status'] == Smoking_Status)
+        ]
+
+        # Convert matching policies to list of recommendations
+        recommendations = []
+        for _, policy in matching_policies.iterrows():
+            recommendations.append({
+                'Policy_Name': policy['Policy Name'],
+                'Insurance_Company': policy['Insurance Company'],
+                'Budget_in_INR': float(policy['Budget in INR'])
+            })
+
+        return {'recommendations': recommendations}
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
