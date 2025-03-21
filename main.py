@@ -8,6 +8,17 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Add a root endpoint
+@app.get("/")
+async def root():
+    return {
+        "message": "Welcome to Insurance Policy Recommendation API",
+        "endpoints": {
+            "/recommend": "POST - Get insurance policy recommendations",
+            "/docs": "GET - API documentation"
+        }
+    }
+
 # Define the input model based on required parameters
 class UserInput(BaseModel):
     Full_Name: str
