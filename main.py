@@ -5,7 +5,7 @@ import pandas as pd
 
 app = FastAPI(
     title="Insurance Policy Recommendation API",
-    description="Insurance policy recommendations based on CSV reference data",
+    description="Insurance policy recommendations based on complete dataset",
     version="1.0.0"
 )
 
@@ -18,8 +18,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load the reference CSV file
-df = pd.read_csv('mock_insurance_data_100.csv')
+# Load your complete dataset
+try:
+    # Replace 'your_complete_dataset.csv' with your actual CSV filename
+    df = pd.read_csv('your_complete_dataset.csv')
+    print(f"Loaded dataset with {len(df)} records")
+except Exception as e:
+    print(f"Error loading CSV: {e}")
+    df = pd.DataFrame()
 
 @app.get("/recommend")
 async def get_recommendations(
@@ -43,7 +49,7 @@ async def get_recommendations(
         prescription = Prescription_Medication.lower() == 'true'
         pre_existing = Pre_existing_Health_Conditions.lower() == 'true'
 
-        # Find matching policies from the CSV
+        # Find matching policies from the complete dataset
         matching_policies = df[
             (df['Budget in INR'] <= Budget_in_INR) &
             (df['Emergency Services'] == emergency) &
@@ -53,13 +59,22 @@ async def get_recommendations(
             (df['Smoking Status'] == Smoking_Status)
         ]
 
+        # Sort by budget to get the most cost-effective options
+        matching_policies = matching_policies.sort_values('Budget in INR')
+
         # Convert matching policies to list of recommendations
         recommendations = []
         for _, policy in matching_policies.iterrows():
             recommendations.append({
                 'Policy_Name': policy['Policy Name'],
                 'Insurance_Company': policy['Insurance Company'],
-                'Budget_in_INR': float(policy['Budget in INR'])
+                'Budget_in_INR': float(policy['Budget in INR']),
+                'Features': {
+                    'Emergency_Services': bool(policy['Emergency Services']),
+                    'Preventive_Care_and_Screening': bool(policy['Preventive Care and Screening']),
+                    'Hospital_Stays_and_Treatments': bool(policy['Hospital Stays and Treatments']),
+                    'Prescription_Medication': bool(policy['Prescription Medication'])
+                }
             })
 
         return {'recommendations': recommendations}
