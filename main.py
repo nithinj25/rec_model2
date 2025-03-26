@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
+from fastapi.responses import JSONResponse
 import json
 import os
 
@@ -35,24 +36,19 @@ except Exception as e:
 
 @app.get("/recommend")
 async def get_recommendations(
-    Full_Name: str = Query(..., description="Full name of the user"),
-    Age: int = Query(..., description="Age of the user", ge=0),
-    Budget_in_INR: float = Query(..., description="Budget in INR", ge=0),
-    Zip_Code: str = Query(..., description="Zip code"),
-    Email: str = Query(..., description="Email address"),
-    Emergency_Services: str = Query(..., description="Emergency Services (true/false)"),
-    Preventive_Care_and_Screenings: str = Query(..., description="Preventive Care and Screenings (true/false)"),
-    Hospital_Stays_and_Treatments: str = Query(..., description="Hospital Stays and Treatments (true/false)"),
-    Prescription_Medication: str = Query(..., description="Prescription Medication (true/false)"),
-    Smoking_Status: str = Query(..., description="Smoking Status (Smoker/Non-Smoker)"),
-    Pre_existing_Health_Conditions: str = Query(..., description="Pre-existing Health Conditions (true/false)")
+    Full_Name: str = Query(...),
+    Age: int = Query(...),
+    Budget_in_INR: float = Query(...),
+    Zip_Code: str = Query(...),
+    Email: str = Query(...),
+    Emergency_Services: str = Query(...),
+    Preventive_Care_and_Screenings: str = Query(...),
+    Hospital_Stays_and_Treatments: str = Query(...),
+    Prescription_Medication: str = Query(...),
+    Smoking_Status: str = Query(...),
+    Pre_existing_Health_Conditions: str = Query(...)
 ):
     try:
-        # Debug print statements
-        print("Received request with parameters:")
-        print(f"Budget: {Budget_in_INR}")
-        print(f"Emergency Services: {Emergency_Services}")
-        
         # Convert string boolean values to actual booleans
         emergency = Emergency_Services.lower() == 'true'
         preventive = Preventive_Care_and_Screenings.lower() == 'true'
@@ -60,27 +56,29 @@ async def get_recommendations(
         prescription = Prescription_Medication.lower() == 'true'
         pre_existing = Pre_existing_Health_Conditions.lower() == 'true'
 
-        # Print first few rows of dataframe for debugging
-        print("First few rows of dataset:")
-        print(df.head())
+        # Print debug information
+        print(f"\nUser requirements:")
+        print(f"Budget: {Budget_in_INR}")
+        print(f"Emergency Services: {emergency}")
+        print(f"Smoking Status: {Smoking_Status}")
+        print(f"Pre-existing Conditions: {pre_existing}")
 
-        # Find matching policies with more detailed error handling
-        try:
-            matching_policies = df[
-                (df['Budget in INR'] <= Budget_in_INR) &
-                (df['Emergency Services'] == emergency) &
-                (df['Preventive Care and Screening'] == preventive) &
-                (df['Hospital Stays and Treatments'] == hospital) &
-                (df['Prescription Medication'] == prescription) &
-                (df['Smoking Status'] == Smoking_Status)
-            ]
-            print(f"Found {len(matching_policies)} matching policies")
-        except KeyError as e:
-            print(f"Column not found: {e}")
-            raise HTTPException(status_code=500, detail=f"Invalid column name: {e}")
+        # Find matching policies with more flexible criteria
+        matching_policies = df[
+            (df['Budget in INR'] <= Budget_in_INR * 1.2) &  # Allow 20% higher budget
+            (df['Emergency Services'] == emergency) &
+            (df['Preventive Care and Screening'] == preventive) &
+            (df['Hospital Stays and Treatments'] == hospital) &
+            (df['Prescription Medication'] == prescription)
+            # Removed Smoking Status check to make it more flexible
+        ]
 
-        # Create recommendations
-        recommendations = {
+        print(f"\nFiltering results:")
+        print(f"Total policies in dataset: {len(df)}")
+        print(f"Matching policies found: {len(matching_policies)}")
+
+        # Create response structure
+        response_data = {
             'user_info': {
                 'Full_Name': Full_Name,
                 'Age': Age,
@@ -100,7 +98,7 @@ async def get_recommendations(
 
         # Add matching policies to recommendations
         for _, policy in matching_policies.iterrows():
-            recommendations['recommendations'].append({
+            response_data['recommendations'].append({
                 'Policy_Name': policy['Policy Name'],
                 'Insurance_Company': policy['Insurance Company'],
                 'Budget_in_INR': float(policy['Budget in INR']),
@@ -112,15 +110,11 @@ async def get_recommendations(
                 }
             })
 
-        # Save recommendations to JSON file
-        filename = f"recommendations_{Full_Name.replace(' ', '_')}_{Age}.json"
-        with open(filename, 'w') as f:
-            json.dump(recommendations, f, indent=4)
-
-        return recommendations
+        # Return JSON response
+        return JSONResponse(content=response_data)
 
     except Exception as e:
-        print(f"Error in get_recommendations: {e}")
+        print(f"Error: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 # Add a root endpoint that shows API info
