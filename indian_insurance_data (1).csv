@@ -1,0 +1,1001 @@
+Full Name,Insurance Company,Policy Name,Age,Budget in INR,Zip Code,Email,Emergency Services,Preventive Care and Screening,Hospital Stays and Treatments,Prescription Medication,Smoking Status,Pre-existing Health Conditions
+'Kavita Gulati',IFFCO TOKIO General Insurance,'Motor Own Damage',38,20000,110076,kavitangulati@gmail.com,True,False,False,False,Non-Smoker,False
+Ajay Kumar,LIC,LIC New Endowment Assurance,30,23000,400091,ajaykumar@gmail.com,False,False,True,True,Non-Smoker,False
+Saurabh Kumar,LIC,LIC New Endowment Assurance (20 P.A.Y.),35,200000,125001,SaurabhKumar@gmail.com,False,True,True,False,Non-Smoker,False
+Sidhant Rawat,SBI Life Insurance,SBI Life - Smart Invest Plus,38,300000,320003,sidhant.rawat@gmail.com,False,False,False,False,Non-Smoker,False
+K M Chandramohan,Bajaj Finserv,Term Plan,55,75032,611019,kmchandramohan@gmail.com,True,False,True,True,Non-Smoker,True
+Ashok Kumar,ICICI Lombard General Insurance Company Limited,Car Own Damage (Cod) Cover,43,15000,560006,ashok.kumar@gmail.com,False,True,True,False,Non-Smoker,False
+Uparaj Uppala,Liberty Videocon General Insurance Company Limited,Liberty Videocon General Insurance Company Limited - Personal Accident Insurance for Member - Comprehensive Plan,23,600000,500016,uppala.uparaj@gmail.com,False,False,False,True,Non-Smoker,False
+Mohd Umar,HDFC ERGO General Insurance Company Limited,HDFC ERGO Personal Accident Plan,40,3352,410104,umar.mohd@gmail.com,False,False,False,False,Non-Smoker,False
+Sarvajit K. Tamhane,HDFC ERGO GENERAL INSURANCE CO LTD,Householder's Personal Accident Policy,40,250000,400005,sarvajit.tamhane@gmail.com,True,False,True,True,Non-Smoker,False
+Deepak Kumar,National Insurance Company Limited,National Security (Family),34,230000,400018,deepakkumar1987@gmail.com,True,True,True,True,Non-Smoker,False
+Narayanan Gopalakrishnan,Bajaj Allianz General Insurance Co.,Bajaj Allianz General Insurance Co. - Individual Health Insurance - e-Care Comprehensive Individual Health Insurance (GP - GOLD) - 00232000053498,27,270000,600006,narayanangopalakrishnan@bajajallianz.com,True,True,True,False,Non-Smoker,False
+Swarup Kumar,LIC,New Endowment Assurance,33,200000,400032,ruphu057@gmail.com,True,True,True,False,Non-Smoker,False
+Priyadharshini K,Bajaj Allianz General Insurance Company Limited,Motor Insurance (Own Damage),36,90000,560017,priyadharshini.k@bajajallianzgeneral.com,True,False,False,True,Non-Smoker,False
+Shahid Mahmood,Sukhom Insurance,Critical Illness Plan,45,50000,470004,shahidmahmood@sukhominsurance.in,True,False,True,True,Non-Smoker,True
+Kuttan Thoduparambil Gopinath,LIC,LIC New Endowment Assurance - 2,61,120000,688008,ktgopi@gmail.com,False,True,False,False,Smoker,False
+Hari Om Gupta,Exide Life Insurance,Smart Health Plan,32,150000,400078,haritour67@gmail.com,True,True,True,True,Non-Smoker,True
+Akshay Kumar,EXIDE LIFE INSURANCE COMPANY LIMITED,Smart Retirement Plan,35,150000,231405,akshaykumar@gmail.com,False,True,False,True,Non-Smoker,False
+Sephi Jacob,National Insurance Company Ltd.,National Insurance Company Limited - Sephi Jacob,32,24000,600001,sephi.jacob@gmail.com,True,True,True,True,Non-Smoker,False
+Girish Dattatray Chavan,Cigna TTK Health Insurance Company,Cigna TTK Health Insurance,30,36000,400017,girishdchavan@gmail.com,False,False,False,True,Non-Smoker,False
+Rohit S,ICICI Prudential Life Insurance Co. Ltd.,ICICI Prudential Life Insurance Co. Ltd. - ICICI Pru Smart Life (Unit Linked),26,25000,400022,rohitkann69@gmail.com,False,False,False,False,Non-Smoker,False
+Vinay Umesh Nirgudkar,New India Assurance,New India Assurance Bike Insurance,39,18000,414218,vinay.nirgudkar@gmail.com,True,False,False,False,Non-Smoker,False
+Shiva Sankar,Bharti AXA General Insurance,Comprehensive Insurance,38,18000,950014,shivashankar@gmail.com,True,True,False,True,Non-Smoker,False
+Kanta Yadav,Oxford Health Insurance,FAMILY PLAN 1000000,26,1318,483001,kanta.yadav@email.com,True,False,True,False,Non-Smoker,False
+Dipak Kesharwani,HDFC ERGO General Insurance,HDFC ERGO Car Insurance,47,23000,400045,Dipak@HDFCERGO.com,True,True,True,True,Non-Smoker,False
+Kalpana Goyal,Max Life Insurance,Max Life Smart Protection Plan,28,300000,110049,kalpanagoyal@example.com,False,False,True,True,Non-Smoker,False
+Dhananjay Shivkumar,Star Union Dai-ichi Life,Enhanced Maturity Plan,31,100000,400037,dhananjay.shivkumar@gmail.com,False,True,False,True,Non-Smoker,False
+Arvind Guru,Bharti Axa General Insurance,Private Car,36,12700,400063,arvind.guru24@gmail.com,False,False,True,False,Non-Smoker,False
+BROOKS DANIEL,LIC,LIC NEW CHARGE PENSION PLAN,54,800000,400019,daniel.brooks29@gmail.com,True,True,True,True,Non-Smoker,False
+Vishnu Rathnakaran,INDIAN OVERSEAS INSURANCE COMPANY LTD,POLICY NO. 519055160489,30,130900,600101,vishnu@ioic.co.in,True,False,True,True,Non-Smoker,False
+Dinesh Rajpal,Apollo Munich Health Insurance,Apollo Munich Health Insurance\u2019s Family Health Optima (Rest of India) Plan,42,22500,400094,dinesh.rajpal@yahoo.com,True,False,False,True,Non-Smoker,False
+Chandramouli,ICICI LOMUR,ICICI LOMUR - EEA - GI-V100-0109-16,54,291000,632001,chandramouli@gmail.com,False,False,True,False,Non-Smoker,False
+Gurdeep Singh,New India Assurance Company Limited,New India Assurance Company Limited - LIC - Gurdeep Singh,40,530000,120025,gurdeep.singh@hotmail.com,False,True,False,True,Non-Smoker,False
+Rohan Datta,Phoenix General Insurance Company Limited,Rohan Datta(456789)/Rohan Datta,33,30000,400001,rohan.datta@example.com,False,False,False,True,Non-Smoker,False
+Haimanti Ray,Liberty Life Insurance,Liberty Life Insurance - Haimanti Ray,26,100000,400001,haimanti.ray@gmail.com,True,False,True,True,Non-Smoker,False
+Sarita Parmar,HDFC Life Insurance Company,Sarita Parmar WholeLife Plan - 2478958,55,12000,301406,saritaparmar@gmail.com,True,False,False,True,Non-Smoker,False
+Pranab Mukherjee,New India Assurance,New India Assurance,58,5000,700006,pranabmukherjee123@gmail.com,True,False,True,True,Non-Smoker,False
+K.K. Srikanth,HDFC LIFE,HDFC LIFE - iSelect Balanced Plan L1,38,600000,603107,srikanth.k.k@gmail.com,True,False,True,False,Non-Smoker,False
+Nishant Kumar,Bajaj Allianz General Insurance Company Limited,Motor Insurance,40,23900,110049,nishant.kumar@yahoo.com,False,False,True,True,Smoker,False
+Satyam Tiwari,Future Generali India Insurance Company Limited,PLAN-3045-050047-0001-00000015,21,30000,400052,satya@tiwari.com,True,False,True,True,Non-Smoker,False
+Krishnaveni Subramanian,Reliance General Insurance,Premier Cover,29,15000,600020,krishnavenisubramanian@gmail.com,False,True,True,False,Non-Smoker,False
+Kaustubh Shrinivas Suryavanshi,Bharti AXA General Insurance,Comprehensive Car Insurance,36,15000,400086,kaustubh.suryavanshi@yahoo.co.in,True,True,True,True,Non-Smoker,False
+Debashish,SBI Life Insurance Company Limited,Term Plan,28,330000,400001,debashish@gmail.com,True,True,True,False,Non-Smoker,True
+Mrs.,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz General Insurance Company Limited - Car Insurance,35,19800,910083,sanjay@gmail.com,False,False,True,False,Non-Smoker,False
+Rohit S Bhatia,LIC - Life Insurance Corporation of India,NEW - LIC - LIC NEW INDIA ASSURANCE COMPANY LIMITED - LIFE INSURANCE,27,100000,110086,rsbhatti6@gmail.com,False,False,True,False,Non-Smoker,False
+Krishna Murthy,Kotak Mahindra Insurance,Kotak Mahindra Life Insurance,41,40000,200005,krishna_murthy123@yahoo.com,True,False,True,True,Non-Smoker,False
+Akshay Pandey,Reliance General Insurance Company Ltd.,Reliance General Insurance - Car Insurance,35,9044,110001,akshay.pandey@example.com,False,False,True,True,Non-Smoker,False
+Kanika Tyagi,Bharti Axa General Insurance Company Limited,Bharti AXA Mega Health Optima,33,145000,700112,kanikatyagi@gmail.com,True,True,True,True,Non-Smoker,False
+Saraswathi Ravi,Reliance General Insurance Co. Ltd.,Reliance General Insurance Co. Ltd. - Car - Comprehensive Third Party Fire & Theft,32,170000,282011,sharaths@hotmail.com,True,False,False,True,Non-Smoker,False
+Prajita Prakash,Reliance General Insurance Company Limited,Reliance General Insurance Personal Accident Policy,20,3469,400012,prajitaprakash@gmail.com,True,True,True,True,Non-Smoker,False
+Ashish,SBI Life Insurance Company,SBI Life - Easy Term Plan,43,300000,110016,ashishkumar@sbiinsurance.in,True,True,False,True,Non-Smoker,False
+Srivathsan Suresh,ICICI Lombard,ICICI Lombard Swapnil Ramesh,39,200000,600044,sureshsrivathsan@gmail.com,True,False,True,True,Smoker,False
+Rishi Sinha,State Bank of India,Life Insurance - Protection Plan,37,200000,400029,Rishi.Sinha@hotmail.com,True,True,True,True,Non-Smoker,False
+Arun Kumar,Life Insurance Corporation of India,New Endowment Assurance,34,120000,600001,arun_kumar@indiatimes.com,True,False,True,True,Non-Smoker,False
+Ravi Teja,SBI Life Insurance Company Limited,SBI Life Smart Secure Plus,42,250000,560017,ravitejaprabhu@gmail.com,True,True,False,False,Non-Smoker,True
+Akshay Shetty,New India Insurance Company Limited,New India Insurance Company Full Term Life Policy,33,223000,400009,akshayshetty@gmail.com,False,False,True,False,Non-Smoker,False
+Amit Jha,Royal Sundaram Insurance Company Limited,Individual (Life) Policy,25,34100,483213,amit.jha@royalsundaram.in,False,False,False,False,Non-Smoker,False
+Vikram Singh,TATA AIG General Insurance,Tata AIG Enhanced Motor Insurance,46,25000,640001,vikramsingh123@gmail.com,True,True,True,False,Non-Smoker,False
+Sukla Malik,Orient Insurance,Individual Life Cover - 150000,38,1150,580003,suklamalik@gmail.com,True,False,False,True,Non-Smoker,False
+Vijay Ghosh,National Insurance Company Limited,Policy Owner 1640370,28,158000,400099,ghoshvijay@nationalinsurance.com,True,True,False,False,Non-Smoker,False
+Sushil Kumar,New India Assurance Company Limited,NIA-UAE-123456789-0000003-123,38,300000,611005,sushilkumar@gmail.com,False,False,True,True,Non-Smoker,False
+Karan Joshi,Bajaj Allianz General Insurance Company Limited,Term Insurance Plan,45,500000,813018,karan.joshi@gmail.com,True,True,True,False,Non-Smoker,True
+Rajkumar,LIC,LIC Jeevan Vikas II,43,7191,560039,rajkumar@lic.com,False,False,False,False,Smoker,False
+Chandrashekhar Gopal,Bajaj Allianz,Bajaj Allianz Smart Term Plan,27,550000,400054,chandruxs@gmail.com,False,False,False,True,Non-Smoker,False
+Kinjal S. Shah,Future Generali India Insurance Company Limited,Future Generali Life Insurance,46,720000,400074,kinjal@gmail.com,True,False,False,True,Non-Smoker,True
+Arvind Kumar,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited - ULIP-1005,37,300000,483001,arvindkumar1986@gmail.com,False,False,True,True,Non-Smoker,True
+Kamlesh Mishra,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz General Insurance Co. Ltd.,38,15000,400015,kamleshmishra@bajajallianz.com,True,True,True,True,Smoker,True
+Mamata Banerjee,New India Assurance Company,New India Assurance - Motor Third Party Policy,66,9500,700013,mamata@hotmail.com,True,True,True,True,Non-Smoker,True
+Ajit Pal Singh,InCred Life Insurance Company Limited,Income Protection Plan,28,30000,483203,ajitpalsingh@gmail.com,True,True,True,False,Non-Smoker,False
+Babita Chaudhari,L&T General Insurance Company Limited,L&T General Insurance Company Limited,35,100000,413001,babitachaudhari@gmail.com,True,True,True,False,Non-Smoker,False
+Ram Raghavendra,Reliance General Insurance Company Limited,"Reliance General Insurance Company Limited, Two Wheeler Comprehensive Insurance Policy",40,9975,641311,rags2ram@gmail.com,True,False,False,True,Non-Smoker,False
+Rahul Sujata,Future Generali India Insurance Company Limited,Future Generali Personal Accident Insurance Plan,40,11200,110095,rahuls@futuregeneraligroup.com,False,True,False,True,Non-Smoker,False
+Uday Kumar,Cholamandalam Uni-Health Insurance,Kumar Family Term Plan,35,170000,600002,uday.kumar@gmail.com,False,False,False,True,Non-Smoker,False
+Shyam Kumar Mishra,Future Generali India Insurance,Life Insurance (Protect your family even in your absence),28,300000,798009,shyamkumar.mishra@gmail.com,True,True,True,True,Non-Smoker,False
+Krishan Kumar,Max Life Insurance,Max Life Insurance,36,780000,110052,krishan.kr01@gmail.com,False,False,True,True,Non-Smoker,False
+Karanvir Singh,Reliance Standard Life Insurance,Reliance Standard Life Insurance - Karanvir Singh,26,482000,110057,karanvir.singh@gmail.com,True,True,True,False,Smoker,True
+Nagaraj,LIC,LIC New Jeevan Akshay 10 Pay,32,200000,560038,nagaraj@gmail.com,False,True,True,False,Smoker,False
+Nitu Arora,MS Generali Insurance,MS Generali Mediclaim,42,200000,110041,nitu.arora@gmail.com,False,False,True,False,Non-Smoker,True
+Ajay Kumar,Royal Sundaram General Insurance Co. Ltd.,Royal Sundaram - Smart Health Insurance,35,77900,452003,ajay.kumar@gmail.com,False,False,True,True,Non-Smoker,False
+Vandana Singh,New India Assurance,Term Insurance Plan,40,270000,400095,vandana@gmail.com,False,True,True,False,Non-Smoker,False
+Amit Kumar,Bajaj Allianz General Insurance Co. Ltd,Corporate Group Cover Policy,39,234000,281008,amitkumar@bajajallianz.com,False,True,False,False,Non-Smoker,False
+Vijay Kant,LIC,LIC New Endowment Plan,30,10000,421107,vijaykant@yahoo.com,False,False,False,True,Smoker,False
+Savitri,TCS Insurance Company,TCS Life Insurance Policy,46,318000,100030,savitri@tcsinsurance.com,True,True,True,True,Non-Smoker,False
+Vivekanand,Bajaj Allianz,Vivekanand - SmartMile - Car - AY 2022-23 - OD 24/10/2022,35,45000,400025,vivekanand.r@example.com,True,False,False,False,Non-Smoker,False
+Satya Sai,Birla Sun Life Insurance,Satya Sai - LIC - Bima Shree 1000 Plan - FY2020-2021,32,5000,782011,Satyasai190@gmail.com,False,True,False,False,Non-Smoker,False
+Rajat Srivastava,Reliance General Insurance,COMPREHENSIVE MOTOR INSURANCE,36,4968,110082,rajat.srivastava@gmail.com,True,False,False,True,Non-Smoker,False
+Kundan Chopra,Reliance General Insurance Company Limited,Contractors All Risks Insurance Policy,46,159000,110062,kundan.chopra@gmail.com,True,True,True,True,Non-Smoker,False
+Amit Kumar,Max Life Insurance,Max Smart Plan,37,500000,110001,amitkumar@gmail.com,False,True,True,True,Non-Smoker,False
+Ranjith Kumar,SBI Life Insurance Company Ltd,SBI Life Junior Pension Plan,35,250000,641013,ranjithkumar@gmail.com,True,False,True,False,Non-Smoker,False
+Vikash Kumar,HDFC Life,HDFC Life - 419554346190448901,27,10000,600069,vikashkumar@gmail.com,True,True,True,True,Non-Smoker,False
+Bhupinder Singh,National Insurance Company Limited,National Money Back Plan,41,17000,110073,bhupinder.singh265@gmail.com,False,False,False,True,Non-Smoker,False
+Prakash Kumar,Reliance General Insurance Company Limited,Term Plan,35,200000,400001,prakashkumar@gmail.com,True,False,False,True,Non-Smoker,False
+Anju Padmanabha,LIC India,New Economy Life Insurance,44,220000,461001,anju.padmanabha@gmail.com,True,True,True,True,Non-Smoker,True
+Rajesh Kumar,HDFC ERGO,Multi-Year Top Up Health Insurance,34,300000,400001,rajesh_kumar1@gmail.com,True,True,True,True,Smoker,False
+Krishna Gopal Pandey,National Insurance Company Limited,National Arogya Plus,31,18000,313001,krishnagopalpandey@gmail.com,True,False,True,False,Smoker,False
+Sachin   Tendulkar,ICICI Prudential Life Insurance,ICICI Prudential Life - Smart Health Insurance,32,33200,411014,sachin.tendulkar@gmail.com,True,False,True,False,Smoker,False
+Sanchita Kundu,Yamaha Insurance,EDGE 2 WHEELER INSURANCE YAM 2023,30,22800,801007,sanchitakundu144@gmail.com,True,True,True,True,Non-Smoker,False
+Anand Kishore,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz Personal Accident Policy,24,16000,400001,anand.kishore@gmail.com,True,True,False,False,Smoker,False
+Krishna Kumar,National Insurance Company Limited,National Insurance Company Limited - Vehicle Insurance Policy,48,12768,600002,krishnkumar@hotmail.com,False,False,True,True,Non-Smoker,False
+Manoj Kumar,New India Assurance Company Limited,New India Assurance Company Limited LIC,31,200000,635007,manojkumar@gmail.com,True,False,True,True,Non-Smoker,False
+Dinesh Raj,Bajaj Allianz Life Insurance Company Limited,Expert Advantage+ Plan,46,400000,110067,dinesh.raj@bajajallianzlife.com,True,True,True,True,Non-Smoker,False
+Gaurav Kumar Shrivastava,Aditya Birla Sun Life Insurance,Aditya Birla Sun Life Smart Savings,47,50000,411012,gauravshrivastava@gmail.com,False,False,True,True,Non-Smoker,False
+Sushil Kumar,ICICI Prudential Life Insurance,Smart Life Insurance,27,500000,411010,sushil1995@gmail.com,False,True,True,True,Non-Smoker,False
+Satyam Rajeev Swaminathan,Max Life Insurance,Max Life Smart - First,25,500000,627002,satyam.rajeev.swaminathan@maxlife.com,True,False,False,True,Non-Smoker,True
+Amol Srinivas,Future Generali India Insurance,Mediclaim Policy,33,2000,400083,amol.srinivas@gmail.com,True,False,True,True,Non-Smoker,True
+Mohammed Shamoon,National Insurance Company,National Insurance Company - New Car Insurance,29,450000,441102,shamoon.mohammed@gmail.com,True,True,True,True,Smoker,False
+Jalaj Desai,Reliance General Insurance Company Limited,Motor Third Party Insurance,34,191000,400023,jalaj.desai@gmail.com,True,False,True,True,Non-Smoker,False
+Siddhartha,Tata AIG Life Insurance Company Ltd,Tata AIG Life Insurance Company Ltd - Smart Life,33,120000,759002,siddhartha@yahoo.com,True,True,True,True,Non-Smoker,True
+Vinay Kumar Singh,Bajaj Allianz Life Insurance,Aishwarya Plan,33,10000,201301,vinaykumarsingh@gmail.com,False,True,True,False,Non-Smoker,False
+Suresh,Bajaj Allianz General Insurance Company,Bajaj Allianz Smart Term Plan,28,70000,411001,suresha@gmail.com,True,False,True,True,Non-Smoker,False
+Vinay Kumar,ICICI Prudential Life Insurance,Life Insurance Plan-1234567890,41,250000,483202,vinaykumar@iciciprudential.com,False,True,False,True,Non-Smoker,False
+Kanak Das,Bharti AXA Life Insurance Company,Bharti Smart Invest Plan,46,300000,621001,kana2015@yahoo.com,True,False,True,True,Smoker,False
+Krishan Kumar Shukla,Max Life Insurance Company Limited,Max Life Smart Term Plan,36,600000,400085,krishan.kumarshukla@yahoo.com,False,False,False,True,Non-Smoker,False
+Vikram Singh,Bajaj Allianz,Indiabulls Housing Finance Limited - Individual Life Insurance,21,214800,400004,vikramsingh024@gmail.com,True,True,True,False,Non-Smoker,False
+Shanta Devi,Max Life Insurance Company Ltd,Max Life Insurance Company Ltd - Max Life Individual Term Plan,45,288000,411003,shantadevi@maxlifeinsurance.com,True,False,True,True,Non-Smoker,False
+Mandira Ghosh,Reliance General Insurance Company Limited,Car Own Damage Plan,34,19000,700044,mandira@ghosh.com,True,True,True,True,Non-Smoker,False
+Gopal Bharath,LIC-Lakshmi,New Endowment Assurance Policy,44,131800,623005,gopalbharath@gmail.com,False,True,True,False,Non-Smoker,False
+Sasank Kumar Anupam,Saraswat Co-operative Bank General Insurance Company,SARASWAT MASTER MOTOR COVER,26,195000,483314,sasank.anupam@gmail.com,True,False,False,False,Non-Smoker,False
+Kamlesh Kumar Soni,SBI Life Insurance Company Ltd.,SBI Life Smart Plan,53,240000,400040,kamlesh.soni@gmail.com,False,False,True,True,Non-Smoker,False
+Gurunath Rao,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Smart Retirement Plan (Unit Linked),33,100000,410001,gurunath.rao@bajajallianzlife.com,True,False,True,False,Smoker,False
+Varun Kalra,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance - Protect Plus,33,175000,160015,vkalra@gmail.com,False,True,True,True,Non-Smoker,False
+Rakesh Gowda,Reliance General Insurance,Term Insurance,25,375000,370016,rakeshgowda@gmail.com,False,True,False,True,Non-Smoker,True
+Keshav Prasad,SBI General Insurance,BI_WEB_NCR_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY_PAY,35,295000,221309,keshavprasad@gmail.com,True,True,True,True,Non-Smoker,False
+Siddhartha Varma,Max Life Insurance Company Ltd.,Savings-244-Life-Plan,46,800000,400033,sidhartha_varma@yahoo.com,True,True,True,True,Non-Smoker,False
+Jaydeep Choudhary,Future Generali India Insurance Company Limited,Future Generali - Health Secure Plan,38,70000,110077,jaydeep.choudhary@gmail.com,True,True,True,True,Smoker,False
+Rahil Ahmed,Bharti AXA General Insurance,Bharti AXA Group Term Plan,30,200000,252003,rahil.ahmed45@gmail.com,False,False,True,True,Non-Smoker,False
+Udai Chand,Reliance General Insurance Company Limited,Motor Insurance - Third Party,54,19300,411020,udai@gmail.com,True,False,False,False,Non-Smoker,False
+Suren Shivkumar,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz STAR Motor Insurance,35,111800,400052,surenshivkumar@gmail.com,False,True,True,False,Non-Smoker,True
+Mohan Nair,Cigna TTK Health Insurance Company,Bronze Plan,44,8547,682031,mohannair03@gmail.com,False,False,False,True,Non-Smoker,False
+Vinod Jaiswal,Bajaj Allianz General Insurance,Global-Mediclaim-Fam-55000-120-0-0-0,35,32000,481404,vinod.jaiswal@outlook.com,False,False,True,True,Non-Smoker,False
+Nitish Kumar,LIC,LIC New Endowment Assurance Plan,27,24000,110059,nitishkumar@yahoo.com,False,False,False,False,Non-Smoker,True
+Sanchit Kakkar,Bajaj Allianz General Insurance,Bajaj Allianz General Insurance - Comprehensive Car Insurance - New,30,35000,110025,sanchit.kakkar@yahoo.com,True,False,False,False,Non-Smoker,False
+Priyanka Kulkarni,Future Generali India Life Insurance,Smart Start - Smart Beginning,27,246000,400072,priyankakulkarni@futuregenerali.com,False,True,True,True,Non-Smoker,False
+Shyam Sundar,Reliance General Insurance Company Limited,Motor Insurance Policy,45,2047,400030,shyamsundar@india.com,True,True,False,False,Non-Smoker,False
+Pranav Nawaratna,LIC,LIC New Endowment Assurance Plan - 87,27,108000,400017,pranavnawaratna@gmail.com,False,True,True,True,Non-Smoker,True
+Sanjay Kothari,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Smart Plan 400,30,100000,451352,Sanjay.Kothari@gmail.com,False,True,True,False,Non-Smoker,True
+Sidhant Sankhla,Reliance General Insurance,Reliance General Insurance,31,280000,321309,sidhant@gmail.com,True,False,True,True,Non-Smoker,False
+Hitesh Kumar,YODHA INSURANCE COMPANY,EDUCATIONAL POLICY,31,200000,400040,hiteshkumar813@gmail.com,False,True,False,False,Non-Smoker,False
+Shivangi Aggarwal,Reliance General Insurance Company Limited,Easy Own Damage Cover,24,300000,310040,shivangi.aggrwal@gmail.com,True,False,False,False,Non-Smoker,False
+Sonali Sharma,National Insurance Company Limited,National Insurance Company Limited Cheque Payment Protection Plan,27,2500,156007,sonali.sharma@gmail.com,True,True,True,True,Non-Smoker,False
+Kumar Vinay Kumar,Bajaj Allianz Life Insurance Company Ltd.,Smart Plan,36,100000,453301,vinaykumar@bajajallianz.com,True,False,True,False,Non-Smoker,False
+Bhanwar Singh,HDFC ERGO General Insurance Company Limited,Motor Own Damage with Liability,31,131500,461001,bhanwar.singh@gmail.com,True,True,False,False,Non-Smoker,False
+Ritik Shukla,Bajaj Allianz Life Insurance Company Limited,Invest 4G Plan,35,300000,400063,ritikshukla@gmail.com,False,True,True,False,Non-Smoker,True
+Sai Krishna,National Insurance Company Limited,NAVODHAN ENDURANCE,28,24000,600100,saikrishna@yahoo.com,False,False,True,False,Non-Smoker,False
+Sonal Agrawal,LIC of India,Savings Plan,35,220000,400019,sonal.agrawal@gmail.com,False,False,False,False,Non-Smoker,False
+Jaydev Shah,Bajaj Allianz Life Insurance Company,Smart Secure Plan,39,100000,390041,jaydevshah@bajajallianzlife.com,True,False,True,True,Non-Smoker,False
+Kavita Rao,Reliance General Insurance Company Limited,Reliance General Personal Accident Cover,25,10000,470001,kavita@gmail.com,False,True,True,False,Non-Smoker,True
+Kumar Suman,Axis General Insurance Company,Motor Vehicle Third Party Insurance,41,164000,400002,suman.kumar@gmail.com,True,False,False,False,Non-Smoker,False
+Vikram Prakash,L&T General Insurance,L&T Life Term Plus,30,180000,400077,vikram.prakash@gmail.com,False,True,False,False,Non-Smoker,False
+Prithviraj Bharadwaj,Aditya Birla Health Insurance,Aditya Birla Health Insurance,23,1350,400001,prithvirajbharadwaj@gmail.com,False,True,True,True,Non-Smoker,False
+Pankaj Kumar,New India Assurance,Motor Insurance,25,7240,400072,pankajkumar@yahoo.com,False,False,True,True,Non-Smoker,False
+K. Chinnaswamy,Bajaj Allianz Life Insurance Company Ltd,Bajaj Allianz Life Insurance Plus,45,216000,600002,kchinnaswamy@gmail.com,True,False,False,True,Non-Smoker,False
+KANHAIYA KUMAR,NATIONAL INSURANCE CO. LTD.,NEW POLICY,43,15000,400001,kanhaiyakumar@hotmail.com,True,False,False,True,Non-Smoker,False
+Vikramaditya Kansal,Bajaj Allianz Life Insurance,Bajaj Allianz Life Insurance,28,330000,110049,vikramaditya.kansal@bajajallianzlife.com,False,False,False,False,Non-Smoker,False
+Sarath Kumar,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited,Sarath Kumar,23,250000,682032,sarathkumar11988@gmail.com,False,True,True,False,Non-Smoker,False
+Shailesh Sondagar,State Bank of India,Shailesh Sondagar,36,277000,400001,sailushsondagar@gmail.com,False,True,False,True,Non-Smoker,False
+Santosh Kumar Khandelwal,Bharti AXA General Insurance,Bharti AXA Liquid Term Life Insurance,35,120000,201201,santoshkhandelwal@gmail.com,False,True,False,True,Non-Smoker,False
+Vipin Sahu,SBI General Insurance Company Limited,SBI Car Insurance,32,54000,782011,vipinsahu@gmail.com,True,True,False,False,Non-Smoker,False
+Rajesh Kumar,Reliance General Insurance,Reliance General Insurance Policy,38,500000,470001,rajeshkumar0403@yahoo.com,False,False,False,True,Non-Smoker,False
+Kumar Saurabh,New India Assurance,New India Car Policy,36,18000,481001,saurabhkumar@yahoo.com,True,True,True,False,Non-Smoker,True
+Ranjeet Singh,'LIC',LIC New Jeevan Anand,41,133300,110030,ranjeetsingh13@gmail.com,False,False,False,True,Non-Smoker,False
+M/S NK GOPALAN,LIC,SARAL SURAKSHA BISA,32,180000,600029,nkgopalan1989@gmail.com,False,False,True,True,Non-Smoker,False
+Jay Prakash,Reliance General Insurance Company Ltd,Motor Insurance for Private Cars,40,2145,400014,jayprakash@gmail.com,True,False,True,True,Non-Smoker,False
+Nithin Kumar,Reliance General Insurance,Comprehensive Two Wheeler Insurance,45,15000,400607,nithin@gmail.com,False,True,True,False,Smoker,True
+Abhimanyu Badhri,Bajaj Allianz General Insurance Co. Ltd.,Term Plan (An Indian insurance policy name),26,7900,600024,abhimanyubadhri@gmail.com,True,False,True,True,Non-Smoker,True
+Sushil Kumar,RAILWAYS,NEW LIFE,53,310000,403802,sushilkumar@yahoo.com,True,False,True,True,Non-Smoker,False
+Tirth Jain,Bajaj Allianz General Insurance,Bajaj Allianz - Smart Health Protect,24,240000,370002,tirth.jain@kit.edu,True,False,False,True,Non-Smoker,False
+Shivangi Sharma,Reliance Life Insurance Company Ltd,Pension Plan,33,400000,110027,shivangi.sharma@gmail.com,True,True,True,True,Non-Smoker,True
+Mrs. Shruti Sharma,Sahyadri General Insurance,Motor Own Damage,36,74345,400096,shrutisharma96@gmail.com,True,False,True,True,Smoker,False
+Gurupreet Kaur,Reliance General Insurance,Personal Accident Insurance,33,500000,342003,gurupreetkaur@gmail.com,True,False,True,True,Non-Smoker,False
+Abhijeet Tiwari,ICICI LOMBARD GENERAL INSURANCE COMPANY LIMITED,Policy for Two Wheeler,28,180000,400057,abhijeet.tiwari@gmail.com,True,False,False,False,Non-Smoker,True
+Rajesh Kumar,Reliance General Insurance Company Limited,Infinity Plus,38,5000,110094,rajeshkumar@gmail.com,False,True,True,True,Non-Smoker,True
+Ritika Mathur,Insurer1,Insurer1 - Health Plan,27,30000,460016,ritika@insurer1.in,False,True,True,True,Non-Smoker,False
+Vivek Shivprasad,ICICI Lombard General Insurance Company Limited,ICICI Lombard Car Insurance (Personal),41,300000,450014,vivek.shivprasad@gmail.com,False,False,False,False,Non-Smoker,True
+Umesh Kumar Sagar,TATA AIG General Insurance Company Ltd.,TATA AIG Car Insurance,29,3460,411102,umeshkumarsagar@gmail.com,False,False,True,True,Non-Smoker,False
+Kamal Kant Shah,Bajaj Allianz General Insurance,NEW FLOATER POLICY,35,900000,400014,kamalkshah9@gmail.com,False,False,False,False,Non-Smoker,False
+Subodh Rupesh Parate,SBI Life Insurance,Units Linked Insurance Plan,36,50000,400069,subodh.parate64@gmail.com,True,True,True,False,Non-Smoker,False
+Jagdish Singh,LIC,LIC Jeevan Umang,44,41700,160053,jagdishsingh@gmail.com,False,True,True,False,Smoker,True
+Vinay Prakash Choubey,National Insurance Company Limited,NATIONAL SENIOR CITIZEN PLAN,60,500000,335001,vinay.choubey@nationalinsurance.com,True,True,True,False,Non-Smoker,False
+Dilip Kumar,Aegon Life Insurance,Aegon Life Goal Assure,26,304000,450012,dilipkumar40@gmail.com,True,False,False,True,Non-Smoker,False
+Mahesh Chandra Sahu,LIC,LIC NEW ENTERPRISE 2016,38,425000,752019,ma_sahu@yahoo.com,False,True,False,True,Non-Smoker,False
+Anurag Kumar,HDFC ERGO GENERAL INSURANCE COMPANY LTD,Health Insurance,53,1135,400070,anuragkumar100@gmail.com,True,True,False,True,Non-Smoker,True
+Satya Jain,Bajaj Allianz General Insurance Company Limited,personal accident-2,27,12200,462012,satya.jain@gmail.com,False,False,False,False,Non-Smoker,False
+P RAVINDRANATH,SUN LIFE INSURANCE,Sun Life iProtect Accident & Hospital Cash Plan - 733938,39,325000,560017,pravindranath2000@gmail.com,False,True,True,True,Non-Smoker,False
+Ranjan Sarkar,LIC of India,Endowment Assurance,37,120000,700002,ranjan.sarkar@gmail.com,False,False,True,True,Non-Smoker,False
+Rohit Bhadane,Tata AIG General Insurance,Tata AIG General Insurance,32,11800,400051,rohitbhadane@gmail.com,True,True,False,True,Non-Smoker,False
+Krishna Gopal,Liberty General Insurance Company Limited,Liberty Commercial Car Insurance,31,24000,560086,krishna.gopal@yahoo.com,False,False,True,False,Non-Smoker,False
+Kelvin Prakash,Axis Bank,Axis Health Care Plan,27,5980,610052,kelvin.prakash@gmail.com,False,False,False,True,Non-Smoker,False
+Jagdish Kumar,Apollo Munich Health Insurance Company Limited,Apollo Munich - Health Plus (Floater),24,14500,411013,jagdishkumar@gmail.com,True,True,False,True,Non-Smoker,False
+Krishna Kumar,ICICI Lombard General Insurance Company Limited,SavvyVehicle,36,170000,110075,krishnakumar.kkrishnan@gmail.com,True,False,False,True,Non-Smoker,False
+James Alfred,New India Assurance,New India Individual Health Insurance Plan,38,200000,600098,jame28@gmail.com,True,True,True,True,Non-Smoker,False
+George Mani,National Insurance Company Limited,National Insurance-New Generation Plan,38,23100,682051,georgemani@yahoo.com,True,False,True,False,Non-Smoker,False
+Harpreet Singh,HDFC ERGO General Insurance Company Limited,Personal Accident,39,32800,110001,harpreet.singh@email.com,False,True,True,False,Non-Smoker,False
+Vikas Dhagat,Aditya Birla Health Insurance Co. Ltd.,Aditya Birla Health Insurance Co. Ltd. - Basic Health Plan,29,29400,390033,vikas.dhagat@yahoo.com,True,True,True,True,Non-Smoker,False
+Bharti Sharma,ICICI Lombard General Insurance Company Limited,COMPREHENSIVE-CAR-INSURANCE,36,180000,287001,bharti.sharma01@gmail.com,True,False,True,True,Non-Smoker,False
+Aaditya Kalia,Birla Sun Life Insurance,Policy on Life of Mr Aaditya Kalia,32,10000,390001,aadityakaliah@gmail.com,True,True,True,True,Non-Smoker,False
+Siddharth,BLAZE INSURANCE COMPANY LIMITED,GREAT FAMILY POLICY PLAN,28,220000,110052,siddharth@blazeinsurance.com,True,False,True,True,Non-Smoker,True
+Krishna Kumar,Bajaj Allianz Life Insurance,Bajaj Allianz Life Insurance,32,500000,600007,krishnakumar789@gmail.com,False,True,True,False,Non-Smoker,False
+Satyendra Kumar,Shriram City Union Finance Life Insurance,Shriram City Union Finance Life Insurance - Individual Protection - Shriram City Union Life - Life Insurance,33,214000,520001,kumar.satyendra@gmail.com,True,False,True,True,Non-Smoker,False
+Babai Rao,Royal Sundaram General Insurance Company Limited,ROYAL SUNDARAM ROYAL PRESTIGE LOYALITY GOLD PLAN,40,117344,400013,babai.rao@gmail.com,True,True,True,True,Non-Smoker,False
+Vinay Kumar,Reliance General Insurance Company Ltd,Reliance General Insurance Company Ltd - Car Insurance,25,1400,152014,vinaykumar16@gmail.com,True,False,True,True,Non-Smoker,False
+Shiv Nanda,Cigna TTK Insurance,Edelweiss Tokio Life - Wealth Assure,43,100000,400074,shivnanda@yahoo.com,False,True,False,False,Smoker,False
+Amarjeet Kaur,SBI Life Insurance Company Limited,SBI Jeevan Suraksha,31,400000,110023,amarjeetkaur@gmail.com,False,True,False,False,Non-Smoker,False
+Bhuvaneswari,Bajaj Allianz General Insurance Limited,Bajaj Allianz Standard Health Insurance,39,16000,600018,bhuvaneswari@gmail.com,True,False,True,True,Non-Smoker,False
+Aishwarya Padma,Bajaj Allianz,Personal Accident Policy,37,51000,640002,aishwarya.padma@gmail.com,True,False,True,True,Non-Smoker,False
+Sachin,Bharti AXA General Insurance,Motor Insurance,33,3000,110008,sachin@gmail.com,True,False,True,True,Non-Smoker,False
+Rajesh Kumar Srivastava,LIC,Life Insurance Plan,32,15000,201301,rjsrivastava@gmail.com,False,False,False,False,Non-Smoker,True
+Jisna Simon,Birla Sun Life Insurance,Real Life Insurance,36,70000,600024,jisnasimon@gmail.com,True,True,False,True,Non-Smoker,False
+Mohan C. Rathore,Kotak Mahindra Old Mutual Life Insurance Company,Kotak Mahindra Old Mutual Life Insurance Company - Kotak Smart Planner 45 - 10 Year Endowment Plan (Male),55,295000,301201,mohanrathore@kotakmutual.com,True,True,False,False,Non-Smoker,False
+Vishwas Dey,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Comprehensive Car Insurance,21,192000,400047,vishwasdey21@gmail.com,True,True,False,False,Non-Smoker,False
+Harish Kumar,New India Assurance,NEW INDIA SAVINGS PLAN,25,100000,800001,harishkumar123@gmail.com,False,False,True,True,Non-Smoker,False
+Kumar Srinivas P,National Insurance Company Limited,CAR INSURANCE POLICY,33,1101,560027,ksrinivas1988@gmail.com,True,True,True,True,Non-Smoker,False
+Krunal Chaudhari,SBI Life Insurance,SBI Life Smart Pro,29,20000,400020,krunalchaudhari@gmail.com,False,False,False,True,Non-Smoker,False
+Aditya Joshi,Kotak Mahindra Insurance,Kotak Life Aegis Plan,30,409000,400001,aditya.joshi@gmail.com,True,True,True,True,Non-Smoker,True
+Ritika Chauhan,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz Motorcycle insurance,20,200000,350012,ritikachauhan@gmail.com,True,True,True,True,Non-Smoker,False
+Tarun Kumar,Bajaj Allianz General Insurance Company Ltd,Personal Accident Policy,23,216000,632002,tarunkumar@bajajallianz.co.in,True,False,True,True,Non-Smoker,False
+K Kulkarni,Bharti AXA General Insurance,Motor Insurance,39,2244,400014,kulkarni.k@gmail.com,True,True,False,True,Non-Smoker,False
+Ashok Kumar,National Insurance Company Limited,National Family Health Plan,38,255000,680001,ashokkumar@nationalinsurance.co.in,True,True,True,True,Non-Smoker,False
+Ajinkya Dhawan,Aditya Birla Sun Life Insurance,Term Plan,25,300000,400026,ajinkya.dhawan@adityabirlasunlife.com,False,True,False,True,Non-Smoker,False
+Shweta Shukla,LIC,LIC New Endowment Assurance Plan,25,205000,400011,shwetashukla@gmail.com,True,True,True,True,Non-Smoker,False
+Kamal Kishore Dubey,New India Assurance Co. Ltd.,NEW INDIA ASSURANCE CO.LTD. - PROTECTION MEDICAL INSURANCE,32,73300,400031,kamal.dubey29@gmail.com,True,False,True,True,Non-Smoker,False
+Sneha Agarwal,LIC,Life Insurance,26,145000,400012,snehakhan@gmail.com,False,True,False,True,Non-Smoker,False
+Ashok Mahajan,L&T General Insurance,Motor Insurance,46,10000,110021,ashok.mahajan@gmail.com,True,False,True,True,Non-Smoker,False
+Rakesh Kumar,LIC New India Insurance Company Limited,MONEY BACK PLAN,31,115000,110073,rakeshkumar@gmail.com,True,False,True,True,Smoker,False
+Abhinav Singh,LIC,New Jeevan Akshay,30,450000,400001,abhinavsingh@yahoo.com,True,True,False,False,Non-Smoker,False
+Nikhil Mehta,SecureNow Insurance Brokers Pvt. Ltd.,SecureNow Car Insurance,48,302000,400001,nikhil.mehta@gmail.com,False,True,True,True,Non-Smoker,False
+Suman Singh,Mahindra Insurance Brokers,Personal Accident,46,300000,110065,sumansingh1234@gmail.com,True,False,False,False,Non-Smoker,False
+Sudhamaya Saha,Royal Sundaram General Insurance Co. Ltd.,Annual Health Check-Up Policy,35,7494,700076,sudhamaya.saha@gmail.com,False,True,True,True,Non-Smoker,False
+Devinder Singh,Bajaj Allianz Life Insurance,Bajaj Allianz Ultra Plus,26,273000,400072,devinder.singh33@gmail.com,True,False,False,False,Non-Smoker,False
+Ram Sharma,Bajaj Allianz General Insurance Company Limited,Term Life,45,130000,411012,ramsharm123@gmail.com,True,True,False,True,Non-Smoker,False
+Kajal Singh,LIC,New Endowment Assurance Policy,36,23000,400041,kajalsingh@gmail.com,False,True,False,True,Non-Smoker,False
+Rohit Raj,SBI Life Insurance,SBI Life e-Protect,32,176000,110001,rohitraj@email.com,False,False,False,True,Non-Smoker,False
+Krishnakumar Nair,ICICI Lombard General Insurance Company Limited,Motor Own Damage,32,200000,600001,krishnakumar.nair@gmail.com,True,False,False,True,Non-Smoker,False
+Dheeraj Kadam,Reliance Life Insurance,Smart Invest 5,36,100000,416109,dheeraj.kadam@gmail.com,True,True,True,True,Non-Smoker,False
+Neha Pratap,Reliance General Insurance,Motor Third Party,28,110000,400010,neha.pratap3@gmail.com,True,False,True,True,Smoker,False
+Sidharth K,Reliance General Insurance Company Ltd,Reliance General Insurance Company Ltd - MOP - 150000 - 10,27,2614,400078,sidharth.k@email.com,False,False,False,True,Non-Smoker,False
+Vishal Sharma,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance - Shubh Kshema,35,200116,320001,vishal@gmail.com,False,False,True,True,Non-Smoker,False
+Tanmay Machado,New India Assurance Co. Ltd,New India Health - Junior Plan,25,23000,400001,tanmaymachado@gmail.com,True,True,False,False,Smoker,True
+Karthik Prabhu,Future Generali India Insurance,Personal Accident and Accidental Death Insurance,28,61000,560027,2516483588@iitm.ac.in,False,True,False,False,Non-Smoker,False
+Ram Prasath,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Private Car Insurance,48,23700,600104,ramprasath.jayakumar42@gmail.com,False,False,True,True,Non-Smoker,False
+Amitabh Kumar,Bajaj Allianz Life Insurance Company Limited,SmartProtect Plus,35,500000,626009,amitabh.kumar@bajajallianzlife.com,False,True,False,True,Non-Smoker,False
+Santosh Kumar,SBI General Insurance Company Ltd.,Motor Own Damage,27,69000,480002,kumarsantosh1994@gmail.com,False,False,True,True,Non-Smoker,False
+John Brown,Bajaj Allianz General Insurance,Bajaj Allianz General Insurance-Savings Plan,35,30000,600109,john.brown@gmail.com,False,True,False,True,Non-Smoker,True
+Satish Kumar,Bharti AXA General Insurance,Individual Insurance Policy,42,1810,621003,satishkumar111@gmail.com,True,True,False,True,Non-Smoker,False
+Rohit Bhandari,Reliance General Insurance,Reliance Health Shield Policy,46,12000,400001,rohit.bhandari@gmail.com,True,True,True,False,Smoker,False
+Nikhil Kumar,TATA AIG GENERAL INSURANCE COMPANY LIMITED,TATA AIG GENERAL INSURANCE COMPANY LIMITED - Health Insurance Policy - Individual Policy - TATA AIG - Individual Health Insurance Policy - 1000001000100,26,300000,400050,nikhilkumar13@gmail.com,True,False,True,True,Non-Smoker,False
+Rohit Srivastava,Future Generali India Insurance,Future Generali Young Star,22,36000,201203,rohit.srivastava@futuregenerali.com,False,False,True,False,Non-Smoker,False
+Nilesh Bhaskar Lokhande,Reliance Life Insurance,Smart Retirement Plan,39,235000,430005,nilesh.lokhande@gmail.com,True,True,True,False,Non-Smoker,False
+Ashok Kumar,LIC,LIC YIJAN,28,40000,400001,ashokkumar@gmail.com,False,False,False,True,Non-Smoker,False
+Subha Karthik,Bharti AXA Life Insurance,Accelerated Pension Plan,28,500000,600085,subha.karthik@gmail.com,True,False,True,True,Non-Smoker,True
+Rajesh Kumar,LIC,New Jeevan Nidhi,33,250000,400003,rajeeshkumar@gmail.com,False,True,True,True,Non-Smoker,True
+Paramjit Singh,LIC,LIC Keyman (15),39,200000,110021,paramjit.singh@gmail.com,True,True,False,True,Non-Smoker,False
+Amit,National Insurance Company Limited,National Insurance Company Limited - National I-Plus,35,10000,400039,amit@gmail.com,False,False,True,True,Non-Smoker,True
+Meenakshi Rani,National Insurance Company Limited,Health Secure,35,25000,411036,meenakshirani@gmail.com,True,True,False,True,Non-Smoker,False
+Rahul Patil,Bajaj Allianz Life Insurance Co. Ltd.,Bajaj Allianz Smart Retirement Plan,33,10000,411006,rahulpatil123@gmail.com,False,True,True,True,Non-Smoker,False
+P.Lakshmi,TATA AIA LIFE INSURANCE COMPANY LIMITED,TATA AIA TERM PLAN,34,600000,650001,plakshmi@gmail.com,True,False,False,True,Non-Smoker,True
+Harry Lalitpal Singh,LIC Pension Fund Limited,LIC Pension Plan (LPP),40,1500,900091,harry.lalitpal@gamil.com,False,True,True,True,Non-Smoker,False
+Neha Saxena,Future Generali India Insurance Company Limited,Future Generali Life Insurance - Future Flexi Money Back Plan,36,8500,110078,neha.saxena@gmail.com,True,True,False,True,Non-Smoker,False
+Rahul,Max Life Insurance,Max Life Wealth Shield Plan (300+),31,500000,400069,rahul.kumar@example.com,False,False,True,False,Non-Smoker,False
+Dhurmu Mukut,NICICLIFE - New India,Whole Life Plan,41,600000,748001,dhurmu.mukut@gmail.com,False,True,True,False,Smoker,False
+Vishal Bhatia,Orient Insurance,IMPS,31,2000,110092,vishal.bhatia@gmail.com,True,False,True,False,Non-Smoker,False
+Mithilesh Kumar,Reliance Capital Life Insurance Company Limited,Reliance Capital Life Insurance Company Limited - Mithilesh Kumar,26,800000,400052,mithileshkumar@gmail.com,True,True,True,True,Non-Smoker,False
+Gunasheela,New India Assurance Company Ltd,New India - Group Mediclaim Policy,25,2116,411022,gunasheela@newindia.co.in,False,False,True,False,Non-Smoker,False
+Ramana Kumar,National Insurance Company Limited,National Health Plus,34,250000,750015,ramanakumar98@gmail.com,True,False,True,False,Non-Smoker,False
+Mukesh,LIC,New Term Plan,36,250000,400007,mukeshdave2@yahoo.com,False,True,False,True,Non-Smoker,False
+Saurabh Pandey,LIC,LIC New Endowment Plan,21,500000,201101,saurabhpandey@gmail.com,True,True,True,True,Non-Smoker,True
+Akash Sahoo,HDFC ERGO General Insurance Company Ltd,HDFC ERGO Car Insurance,29,19000,751030,akash@sahoo.com,False,False,False,True,Smoker,False
+Amit,Axis Bank,Axis Bank car insurance,35,15000,641016,omkar.anand56@gmail.com,True,True,False,True,Non-Smoker,False
+Ramakrishna Acharya,ICICI Lombard General Insurance Company,ICICI Lombard Accidental Death and Disability Insurance,23,10000,400028,ramakrishna.acharya@gmail.com,True,False,False,True,Non-Smoker,False
+Kalpana K Bhatt,Bajaj Allianz General Insurance Company Ltd,Bajaj Allianz Health Insurance - Personal Accident Plan,29,148000,400084,kbhatt@hotmail.com,False,False,False,False,Non-Smoker,False
+Rupesh,DHANABANK GENERAL INSURANCE COMPANY LIMITED,Motor Insurance Policy,27,112000,600017,rupesh21@gmail.com,True,True,False,True,Non-Smoker,False
+Rakesh Kumar,Max Life Insurance,LD 4000 Pure Cover - 01,35,500000,700021,rakeshkumar@yahoo.com,True,True,True,True,Non-Smoker,False
+Crishna Reddy,Bharti AXA Life Insurance Company Limited,Bharti AXA Life Insurance Company Limited - Tax Relief Plan,30,250000,650005,crishna.reddy@gmail.com,False,False,False,False,Non-Smoker,False
+Krishna Bhagwan Bansal,Bharti AXA Life Insurance,Smart Savings Plan,30,100000,110016,krishnabhagwan@gmail.com,True,True,True,True,Non-Smoker,False
+Girish V Khandagale,SBI Life Insurance Company Limited,SBI Life Smart Protector Plus,28,350000,411001,girish.khandagale@gmail.com,False,True,False,True,Non-Smoker,False
+Ranjan R.,LIC,Life Insurance Corp of India - LIC - Jeevan Sampathi,25,112000,621201,ranjan.r@inbox.com,False,False,True,False,Smoker,False
+Maitreyi Jha,New India Assurance,Term Insurance Plan,25,300000,411023,maitreyi.jha@newindia.co.in,True,True,True,True,Non-Smoker,False
+Premkumar,Reliance General Insurance Company Limited,Farmers Agri Crop Insurance,49,146000,411026,premkumar@reliancengineer.com,False,False,False,False,Non-Smoker,False
+Krishna Kumar,National Insurance Co. Ltd.,National E-Term,35,325000,636107,krishnakumar@national.co.in,True,False,True,True,Non-Smoker,True
+Sushil Kumar,LIC of India,Sushil Kumar - LIC of India - IDF - 209767 - 18-Feb-1998,25,100000,411021,ksushilsingh2004@gmail.com,True,False,True,False,Non-Smoker,False
+Hanuman Prasad,LIC,LIC New Jeevan Akshay,22,29300,120076,hprasad@yahoo.com,False,False,True,False,Non-Smoker,False
+Dinesh Garg,MAX BUPA HEALTH INSURANCE COMPANY LIMITED,Max Bupa Smart Health Insurance Plan,38,200000,110050,dinesh.garg@gmail.com,True,False,True,True,Non-Smoker,False
+Mohan Roy,LIC,LIC Individual Annuity Plan - 86,47,200000,600007,mohanroy@gmail.com,False,False,False,False,Non-Smoker,False
+Rajesh Kumar,Bajaj Allianz General Insurance,Individual Mediclaim Policy,39,600000,400106,rajeshkumar@bajajallianz.com,True,True,True,True,Non-Smoker,False
+Niya Anand,Birla Sun Life Insurance,Birla Sun Life iSelect Flexi Plus,36,100000,400006,NIYA.ANAND@GMAIL.COM,False,False,True,True,Non-Smoker,True
+Rajkumar,The New India Assurance Co. Ltd.,New India - Wagon R,31,155000,600056,rajkumar704@yahoo.com,False,True,False,False,Non-Smoker,False
+Sagar Pratap Singh,Reliance General Insurance Company Ltd.,Reliance Term Plan,31,243000,110075,sagar.pratap.singh@gmail.com,False,True,True,False,Non-Smoker,False
+Ram Singh,Life Insurance Corporation of India (LIC),Endowment Insurance Policy,25,5000,201001,ramsingh@gmail.com,True,False,True,False,Non-Smoker,False
+Kartikeya Singh,Bajaj Allianz General Insurance,Personal Accident Plan,28,400000,400056,kartikeyasingh@gmail.com,False,False,False,True,Non-Smoker,False
+Meena Kumari,Bajaj Allianz General Insurance Co. Ltd.,SCOOTYPIE PLUS INSURANCE,31,24000,110050,meena.kumari@bajajallianz.co.in,False,False,True,False,Non-Smoker,False
+'Debjyoti Mukherjee',Max Life Insurance Company Limited,Max Accelerator,33,300000,110044,debjyotimukherjee@gmail.com,True,False,True,False,Smoker,True
+Punjabi,Bajaj Allianz General Insurance,Bajaj Allianz Life Amrit Insurance Plan,35,30400,639471,rajeshpandey21@gmail.com,False,False,False,False,Non-Smoker,False
+Mukesh Singh,Bharti AXA Life Insurance,Smart Secure Term Plan,32,30000,110024,mukesh.singh@gmail.com,True,True,True,True,Non-Smoker,False
+Sujata Lakshmi,HDFC ERGO General Insurance Company Ltd.,HDFC ERGO Smart Driver Insurance,58,24440,392013,sujatalakshmi@gmail.com,True,False,True,False,Non-Smoker,False
+Rajesh Kumar,LIC of India,New Jeevan Anand,55,120000,110077,rajesh_kumar@hotmail.com,True,True,True,True,Non-Smoker,True
+Rohit Luthra,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance,35,120000,110049,rohitluthra@gmail.com,False,True,False,False,Non-Smoker,True
+Kishore Kumar,SBI Life Insurance Company Limited,SBI Life Smart Connect,37,350000,201308,kishorekumar@gmail.com,True,True,True,True,Non-Smoker,True
+Kamal Prakash,Reliance General Insurance Company Ltd,Motor Combined Liability and Personal Accident,28,300000,400080,kamal.prakash@reliancinsurance.com,True,False,False,True,Non-Smoker,False
+Sankar,Max Life Insurance,Max Life Max Smart Plan,41,250000,971201,sankar@email.com,True,False,False,False,Non-Smoker,False
+Chaitanya Pratap Singh,ICICI Lombard General Insurance Company Limited,ICICI Lombard - Comprehensive Car Insurance (POL 35),44,105000,400054,chaitanysingh@gmail.com,False,False,True,True,Non-Smoker,False
+Sushant Jha,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited - Smart Savings Plan,25,500000,400050,sushantjha2@gmail.com,False,False,False,True,Non-Smoker,True
+Abdul Rashid,YES Bank General Insurance,YES Bank General Insurance - Personal Accident & Accidental Death Insurance Policy,27,25000,560067,abdul.rashid@yesbank.com,False,False,False,False,Non-Smoker,False
+'Dr. Gaurav Bhushan','MAX BUPA HEALTH INSURANCE',Max BUPA Personal Accident policy,35,298000,400065,gaurav.bhushan@gmail.com,False,True,True,True,Non-Smoker,False
+Abdul Majid,Reliance General Insurance Company Limited,Motor Insurance,56,110000,400067,majid.abdul@gmail.com,True,False,False,False,Non-Smoker,True
+Vijay Gohil,Reliance,Income Protect,28,8000,392005,vgohil123@gmail.com,False,False,False,True,Non-Smoker,False
+Ashish Krishna,SBI Life Insurance,Smart Wealth Plan,27,200000,400035,ashish.krishna18@gmail.com,False,False,False,True,Non-Smoker,False
+Karan Singh,IndiaFirst Life Insurance,SMART PLAN,43,250000,402001,karansingh@indiafirstlife.com,True,True,True,True,Non-Smoker,False
+Gopal Krishna,National Insurance Company Limited,National Insurance Company Limited - National Travel Insurance,35,1000,110074,gopal.krishna@nationalinsurance.co.in,True,True,False,False,Smoker,False
+M.N.Khan,ICICI Prudential Life Insurance,Invest4Growth Plan,39,110000,400034,khan.mohammednadeem@gmail.com,False,False,False,True,Non-Smoker,False
+Debarati Sinha,Future Generali India Insurance Company Limited,Motor Insurance,47,22250,250002,debarati.sinha@futuregenerali.co.in,False,True,False,False,Smoker,False
+Ravi Kumar,Reliance General Insurance,Reliance Comprehensive Motor Insurance,27,45000,400070,ravi.a.kumar1@gmail.com,False,False,True,False,Non-Smoker,False
+Anand Rohit,HDFC ERGO GENERAL INSURANCE COMPANY LIMITED,Motor Insurance,32,11160,400076,anand_rohit@yahoo.com,True,True,True,True,Non-Smoker,False
+Raj Mohan,HDFC ERGO General Insurance Company Limited,Motor Insurance Policy,43,93000,600027,rajmohan@gmail.com,True,True,False,True,Smoker,False
+Sahil Srivastava,LIC India,LIC New Jeevan Akshay II Plan,27,112000,110025,sahilsrivastava@gmail.com,True,True,True,False,Non-Smoker,False
+Rohit Sharma,Future Generali India Insurance,Future Generali Flexi Term Plan,38,440000,110064,rohit_sharma123@gmail.com,False,False,False,True,Smoker,False
+Vidya Rajan,SBI Life Insurance Company Limited,SBI Life Insurance Policy,23,100000,400002,vidyaramayya04@gmail.com,True,True,True,True,Non-Smoker,False
+Rahul Sharma,Oriental Insurance Company Limited,Oriental Motor Group Insurance,40,320000,370001,rahulsharma@yahoo.com,False,False,True,True,Non-Smoker,False
+Bhavishya R.,GIC Housing Finance Ltd,GIC Housing Finance Ltd - Life Cover,24,1312,454203,bhavishya.r@orange.fr,False,False,False,False,Non-Smoker,False
+Rajkumar Kashyap,SBI Life Insurance Company Limited,SBI Life Smart Win Plan,28,39000,350025,rajkumar.kashyap13@gmail.com,True,True,False,True,Non-Smoker,True
+Vishwanathan Bhaskaran,Max Life Insurance,Max Life - Max Life Standard Term Insurance - Loyalty Benefits,31,500000,600026,vishwanathann@gmail.com,False,True,True,False,Non-Smoker,False
+Shubhanshu Kumar,National Insurance Company Limited,National Insurance Company Life Insurance Policy,48,466000,201202,shubhanshukumar@gmail.com,True,False,True,True,Non-Smoker,True
+Gloria Fernando,Oriental Insurance,POLICY-207,29,162000,411043,gloriafernando@gmail.com,True,False,True,False,Non-Smoker,False
+Rama Krishna,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance - Plan name,33,347000,637004,kumar.rama8@gmail.com,True,True,True,True,Non-Smoker,False
+Raman Dheeraj,HDFC ERGO GENERAL INSURANCE LTD,HDFC ERGO GENERAL INSURANCE LTD,28,21000,400073,ramandheeraj@gmail.com,False,True,True,True,Non-Smoker,False
+Srihari,National Insurance Company Limited (NICL),National Insurance,41,580000,560028,srihari@gmail.com,False,True,False,True,Smoker,False
+Sanjeev Kumar,SBI General Insurance Company Limited,Motor Policy,27,1000,400028,Sanjeev.kumar@sbi.co.in,False,False,False,True,Non-Smoker,False
+Rakesh Kumar Sharma,Future Generali India Life Insurance,Future Generali India Life Insurance - Future Generali India Life Insurance - A+A+ (ICRA),36,47500,400051,rakesh.sharma@gmail.com,True,False,True,True,Non-Smoker,True
+'Prateek','HDFC LIFE INSURANCE COMPANY LIMITED',HDFC LIFE TAX PLAN,32,20000,110059,prateek@gmail.com,False,False,False,False,Non-Smoker,False
+Krishna Murali,HDFC Life Insurance Company Ltd,HDFC Life Smart Plan - Save & Protect,30,30000,613545,krishna.murali18035@gmail.com,True,True,True,True,Smoker,False
+Gokul Krishna,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Car Insurance,25,15000,562001,gokulkrishna@gmail.com,True,True,True,True,Non-Smoker,False
+Naina,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Smart Saver,29,27000,400103,naina.sharma@gmail.com,False,False,False,True,Non-Smoker,False
+Pramod,LIC,LIC Individual New Endowment Assurance Plan - 2001,36,180000,411018,pra.ramod@gmail.com,False,False,False,False,Non-Smoker,False
+Ram Kumar,Lic India Insurance,Lic India Life Cover,34,120000,110033,ramkumar1234@gmail.com,True,True,True,True,Smoker,False
+Jitendra Sharma,Reliance General Insurance Company Limited,Reliance Health Benefit Plan,26,2000,110001,jitendra.sharma@gmail.com,True,False,True,True,Non-Smoker,False
+Abdul Nabi,Apollo Munich Health Insurance Co. Ltd.,Senior Citizen Family Health Insurance,59,550000,400004,abdulnabi@gmail.com,False,False,False,False,Smoker,False
+Sudhakar,Bharti AXA General Insurance,Bharti AXA General Insurance - Car Insurance,48,300000,480013,sudhakar@bhartiaxa.com,True,False,False,False,Non-Smoker,False
+Raj Arora,Western India Vegetable Products Insurance Co. Ltd.,Western India Vegetable Products Insurance Co. Ltd.,48,220000,201101,raj.arora@westernindia.com,True,False,True,True,Non-Smoker,True
+Rishi Srivastava,Reliance Standard Life Insurance Company Limited,PROTECTION POLICY-2,34,10000,400068,rishi.srivastava@gmail.com,True,True,True,True,Non-Smoker,False
+Sonu,Bajaj Allianz Life Insurance Company Limited,Bajaj Life - 1001,35,210000,800013,sonu@gmail.com,True,False,False,True,Non-Smoker,False
+Kamalpreet Kaur,Shikhar Insurance Co.,GRAND PRESTIGE,37,238000,122001,147102@shikharinsurance.com,False,False,True,False,Non-Smoker,False
+Rakhi Sharma,The New India Assurance Company Limited,TERM PLAN,48,250000,400101,rakhi.sharma@gamil.com,False,False,False,True,Smoker,True
+Karunakaran Arun,SBI General Insurance,SBI General Health Insurance,28,300000,600093,karunakaran.arun@xyz.com,False,False,True,True,Non-Smoker,False
+Siddharth Agarwal,Kotak Life Insurance,Protection Plus,35,4054,400022,sid@gmail.com,True,True,False,False,Non-Smoker,False
+Sanjay Kumar Narang,Max Life Insurance Company Limited,Smart Invest Plus Plan,61,200000,122002,sanjay.narang@yahoo.co.uk,True,True,True,True,Non-Smoker,True
+Ganga Prasad,Bajaj Allianz,Teen Plan,30,250000,700001,gangaprasad123@gmail.com,True,True,False,True,Non-Smoker,False
+Priya Kaur,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Insurance Company Limited - Jeevan Labh (UIN: 103N060V04),39,500000,050001,priyakaur@gmail.com,False,True,True,True,Non-Smoker,False
+Suresh Kumar Reddy,Sahara India Life Insurance,SAHARA SMART PLAN 510,43,200000,500016,sureshkumarreddy@gmail.com,True,False,True,True,Non-Smoker,True
+Kavita Singh,Reliance General Insurance Company Limited,Reliance Care Secure - 2100,45,245000,400003,kavita.singh80@gmail.com,False,True,False,False,Non-Smoker,False
+Aditya Prakash,Liberty General Insurance,Private Car Policy,41,100000,400023,adit@gmail.com,True,True,True,True,Non-Smoker,False
+Krishna Prasad,~~Aaditya Birla~~,Death Plus Accidental Death & Dismemberment,25,2055,450023,krishna.prasad@gmail.com,False,False,True,True,Non-Smoker,False
+Sandeep Thakur,LIC,LIC New Endowment Assurance - 20 PY,35,245000,400053,sandeepthakur@gmail.com,False,False,True,True,Non-Smoker,False
+Vaibhav Kesharwani,LIC,LIC New Endowment Plan-150,46,30000,400109,vaibhav@yopmail.com,True,True,False,False,Non-Smoker,True
+Bhaskar Bansal,Bharti AXA Life Insurance,Life Insurance Plan,40,289700,370001,bhaskar.bansal@bhartiaxa.com,True,True,True,True,Non-Smoker,False
+Mohit Nathani,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz General Insurance Company Limited - Standard Motor Insurance - Renewal 2002 - 2022 - 00593 - 02-06-2022,38,1297,400058,mohitnathani@gmail.com,True,True,False,False,Non-Smoker,False
+Debarati Bhattacharya,Reliance General Insurance Company Limited,Reliance General Insurance Health Care Policy,26,10000,400008,sdbhattacharya@yahoo.co.in,False,False,True,True,Non-Smoker,True
+Akshat Raghunathan,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz Car Care Plus,37,194000,110017,akshat.raga@gmail.com,False,True,False,True,Non-Smoker,False
+Sandeep Kumar,Bajaj Allianz General Insurance Company Limited,Life Insurance,29,15000,400029,sandeepkumar76@gmail.com,False,False,True,True,Non-Smoker,False
+Wilma Chaudhary,Royal Sundaram General Insurance Co. Ltd.,Car Insurance,34,33000,400087,wilma.chaudhary@gmail.com,False,False,False,False,Non-Smoker,False
+Babu Lal,Bharti AXA General Insurance,Motor,32,21900,400027,babu@bhartiaxa.com,True,True,False,False,Non-Smoker,False
+Kumar Ashish,LIC India,LIC NEW ENDURANCE 30000 000001035,29,30000,110077,ashishkumar@gmail.com,True,True,True,True,Non-Smoker,False
+Jainam Bhagat,Reliance General Insurance Company Limited,Reliance General Asset Protector,24,199000,400029,jainambhagat@yahoo.com,False,True,True,True,Non-Smoker,False
+Sahil Raj,Liberty Videocon General Insurance Company Limited,Liberty Videocon Motor Insurance,27,1900,400027,sahilraj@gmail.com,True,True,False,True,Smoker,False
+Farhan Ali,SBI Life Insurance,SBI Life Smart Platinum 2020,26,30000,110016,farhanali@gmail.com,True,False,True,True,Non-Smoker,False
+Daisy Vijay,SBI General Insurance,SBI General Insurance - SBI Car Insurance,59,21500,400075,daisyvijay4@gmail.com,True,True,True,True,Non-Smoker,False
+Poonam Tiwari,Phoenix General Insurance Company Ltd,Phoenix General Insuranc,32,11000,223005,poonamtiwari@gmail.com,True,True,True,True,Non-Smoker,False
+Naman Jain,Bajaj Allianz General Insurance,Home Insurance,56,34400,400003,nmjain@gmail.com,True,False,True,True,Non-Smoker,False
+Sidharth Jain,MAX Life Insurance,Sidharth Jain - MAX Life Insurance - 100011422,23,300000,480045,sidharth.jain@gmail.com,False,False,True,False,Non-Smoker,False
+Karma Arora,SBI LIFE,Select Protect,48,100000,481023,karmaarora@gmail.com,True,True,True,True,Non-Smoker,False
+Michael Joseph,LIC,New Endowment Plan,52,120000,650001,michael.joseph@gmail.com,False,False,True,False,Non-Smoker,False
+Hemant Shrivastava,New India Assurance Company Limited,NEW INDIA MEDICAL INSURANCE,33,359900,400031,hemantshrivastava@gmail.com,True,True,True,True,Non-Smoker,True
+Gowardhan Rao,Bajaj Allianz General Insurance Company Limited,Motor Insurance Policy,56,170000,221101,gowardhan.rao@gmail.com,False,True,True,False,Non-Smoker,False
+Rajesh Gopalan,ICICI Lombard,ICICI Lombard - Car Insurance,29,18000,641101,rajeshgopalan@gmail.com,False,False,False,True,Non-Smoker,False
+Anil Sharma,Reliance General Insurance Company Limited,Reliance General Insurance Company Limited,27,200000,400054,anilsharma@reliancetg.com,True,True,False,True,Non-Smoker,False
+Mohammad Rafiq,'LIC','LIC - New Jeevan Akshay',39,250000,570011,mohammadrafiq@gmail.com,True,False,True,True,Non-Smoker,False
+Sushmita Das,Indusind,Savings Plan,31,210000,400034,sushmitadass@gmail.com,True,True,True,True,Non-Smoker,False
+Pavitra N,New India Assurance Company Limited,NEW INDIA ASIA MUTUAL FUND,29,175000,400006,pavitrn@indiatimes.com,True,False,True,True,Non-Smoker,False
+Shashi Devi,Bharti AXA Life Insurance,Life Insurance Plan,35,200000,521201,shashidevi@bhartiaxa.in,True,True,False,True,Non-Smoker,True
+Krishna Prasad,Reliance General Insurance,Comprehensive 2 Wheeler Insurance,42,2897,462017,krishna.prasad@gmail.com,False,False,False,False,Non-Smoker,True
+Krishna Reddy,HDFC ERGO GENERAL INSURANCE COMPANY LIMITED,NRI Family Floater Policy,43,110000,500054,krishna.reddy@hotmail.com,True,True,True,True,Non-Smoker,True
+Mukesh Jain,LIC India,LIC-New-Endowment-Plus-Plan-105-S,44,33620,320050,mukesh105@gmail.com,False,True,True,True,Smoker,False
+Hussain,Ogilvy Insurance Brokers Private Limited,Ogilvy Insurance Brokers Private Limited Individual Health Insurance Policy_28102014_0003249,39,240000,483201,hussain.futures@gmail.com,True,True,True,True,Smoker,True
+Mrs. Roshni Joshi David,Bajaj Allianz General Insurance Company Limited,Roshni Joshi David,35,30000,400027,roshnidavid@gmail.com,False,True,True,False,Non-Smoker,False
+Ashok Kumar,LIC,LIC New Endowment Assurance Plan,35,25000,560043,ashokkumar014@gmail.com,True,False,True,False,Non-Smoker,True
+Sachin Joshi,Liberty Insurance,Liberty Income Protect Policy,32,400000,400085,sachinjoshi@gmail.com,True,True,True,False,Non-Smoker,False
+Nandini Ajay Bajaj,Aditya Birla Health Insurance Company Limited,Individual Floater Plan,30,87000,400042,nandinibajaj@adityabirla.com,True,True,True,True,Non-Smoker,False
+Ritwik Chakraborty,HDFC Life Insurance,HDFC Life Smart Term Plan,31,200000,400053,ritwikchakraborty89@gmail.com,True,False,True,True,Non-Smoker,False
+Sangeeta,Bharti AXA General Insurance Company Limited,Motor Policy,25,3240,442005,sangeeta@gmail.com,True,True,True,True,Non-Smoker,False
+Ravi Kumar,Bajaj Allianz General Insurance,Personal Accident,30,27500,635002,rkumar@gmail.com,False,False,False,False,Non-Smoker,False
+Kunal Dixit,SBI Life Insurance Company Limited,SBI Life - Smart Plan,42,100000,400054,kunal.dixit@gmail.com,True,True,False,False,Smoker,False
+Sneha,Bajaj Allianz General Insurance,Bajaj Allianz Health Insurance Plan - Silver,22,100000,350016,snehajoshi@gmail.com,False,False,False,False,Non-Smoker,False
+Mansi Parmar,L&T General Insurance,Personal Accident Insurance,31,170000,400014,mansiparmar1020@gmail.com,True,False,False,True,Smoker,False
+Nikhil Jagnani,LIC,NEW LIC PAYING ANNUITY BOND - 1999,25,300000,400074,nikhiljagnani@gmail.com,False,False,False,False,Non-Smoker,True
+Suresh Kumar,TATA AIG GENERAL INSURANCE,Tata AIG General Insurance Tata AIG General Insurance,46,100000,682001,sureshkumar1044@gmail.com,True,False,True,True,Non-Smoker,True
+Ram Gopal,National Insurance Company Limited,Term Plan 102,38,120000,110004,ramgopal@gmail.com,True,False,True,True,Non-Smoker,False
+Ashish Kumar,LIC,New Endowment Assurance Plan-103,35,240000,110076,ashishkumar24@gmail.com,True,False,True,False,Non-Smoker,False
+Dhanush Yadav,National Insurance Company Limited,PRIVATE HEALTH INSURANCE,42,401116,400013,dhanushyadav@gmail.com,True,True,False,False,Smoker,False
+Abhishek Kumar,HDFC ERGO GENERAL INSURANCE COMPANY LIMITED,Term Insurance Plan,34,150000,400056,abhishek.kumar@gmail.com,False,True,False,True,Non-Smoker,True
+Kalaiyarasan,LIC India,LIC New Jeevan Sampada II,49,40000,621117,Kalaiyarasan@gmail.com,True,True,True,True,Non-Smoker,True
+Sriman Ramesh Sharma,Scripbox Insurance Broking Private Limited,Ulip - 2037962023,31,36000,400055,ramesh@gmail.com,False,True,True,False,Non-Smoker,False
+Raman Gopal,ICICI Lombard,Motor Own Damage,39,5700,110042,ram.gopal@gmail.com,True,False,False,False,Smoker,False
+Santosh Gondaliya,INSURANCE COMPANY OF INDIA,HOME POLICY,33,220000,400012,santoshgondaliya@gmail.com,False,True,True,True,Non-Smoker,False
+Prem Kumar,Bajaj Allianz Life Insurance Company,Premier Plus Protect,41,150000,201102,prakumar@bajajallianzlife.com,True,False,True,True,Non-Smoker,False
+Anmol Chandra,Max New York Life Insurance Company,Max My Choice Plus Term Plan,44,592000,400001,anmolchandra@gmail.com,False,True,True,True,Non-Smoker,False
+Arkendu Das,New India Assurance,ORDINARY INVESTMENT POLICY,44,149900,753004,arkendu.das@newindia.co.in,True,True,True,True,Non-Smoker,True
+Aftab Usman,Bajaj Allianz General Insurance,Aftab Usman-Customer Policy,38,250000,410021,aftabusman@gmail.com,False,False,False,False,Non-Smoker,False
+Pratik,Kotak Mahindra Insurance,Kotak Mahindra - Life Insurance,40,100000,400076,pratik@gmail.com,False,True,True,True,Smoker,False
+Rajesh Kumar,LIC,LIC Jeevan Akshay,34,140000,110007,rajeshkumar1987@gmail.com,True,True,True,True,Non-Smoker,False
+Shubham Prateek,Future Generali India Life Insurance Co. Ltd.,Future Generali India Life Insurance Co. Ltd. - Smile Protection Plan,20,5000,400018,shubham.prateek@gmail.com,True,True,True,True,Non-Smoker,False
+Nagarjuna Rao,LIC of India,/New/LIC/11217/11680/145-204/New/LIC/11217/11680/145-204/2021-09-14/1121,46,650000,500001,nagarjuna@gmail.com,False,True,False,True,Non-Smoker,False
+Vinod Chandra,New India Assurance Co. Ltd.,NEW INDIA WHOLE LIFE INSURANCE,35,210000,783212,vinodchandramp@newindia.co.in,True,False,True,False,Non-Smoker,False
+Shaikh Aafaq,National Insurance Company Limited,Jeevan Suraksha Kavach,31,100000,110092,aafaq1992@gmail.com,True,True,True,True,Non-Smoker,False
+Rajendra Ved Prasad,Future Generali India Insurance Company Limited,Senior Citizen Health Insurance Plan,52,38600,356102,rajendravp74@gmail.com,True,True,True,True,Non-Smoker,False
+Samuel Rockwell,Reliance General Insurance Company Ltd.,Premium Waiver Rider,40,400000,444002,samuelrockwell@gmail.com,False,True,True,True,Non-Smoker,False
+Prakash Kumar,Bajaj Allianz GI,Individual Health Insurance,29,30000,110001,prakash.kumar@bajajallianz.com,True,False,True,False,Non-Smoker,False
+Mohammad Ashraf Khan,Reliance General Insurance Company Limited,PPB - Renewal,59,250000,221003,mohammadashrafl.khan@gmail.com,True,True,False,True,Non-Smoker,False
+Surya Narayanan,National Insurance Group,Personal Accident Policy,35,18800,560001,surya@gmail.com,True,True,False,True,Non-Smoker,False
+Yashasvini Rajesh Kumar,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz 4 Wheeler Motor Insurance - Regular,32,50000,400053,rajeshkumar@bajajallianz.com,True,False,True,False,Non-Smoker,True
+Pankaj Nanda,Life Insurance Corporation Of India,New Endowment Assurance Policy,24,20000,120001,pankajnanda@gmail.com,False,False,True,True,Non-Smoker,False
+Smita Mishra,Axis Bank Life Insurance,Smart Term Plan,34,950000,221305,smita.mishra@axisbank.com,True,False,False,False,Non-Smoker,False
+Dilip Kumar,TATA AIG General Insurance Company Limited,Mediclaim,48,3001,400053,dilip@yahoo.com,True,True,True,True,Non-Smoker,False
+Rakesh Mishra,Videocon General Insurance,Car Insurance,26,200000,221314,rakesh.mishra@gmail.com,True,False,False,True,Non-Smoker,True
+Anjana Choudhary,Future Generali India Insurance Company Limited,Future Generali India Insurance Company Limited - Individual Health Insurance Policy,25,3320,203302,anjana.choudhary@gmail.com,True,True,True,True,Non-Smoker,True
+Shreejit May,Bajaj Allianz General Insurance Co. Ltd,Private Car Insurance,38,21000,370001,shreejitmay@gmail.com,True,True,True,True,Non-Smoker,False
+Pradeep Kumar,ICICI Lombard General Insurance Company Limited,Car Own Damage (COMP),55,10000,400002,pradeepkumar@gmail.com,True,False,False,True,Non-Smoker,False
+Hemanth Kumar,Aegon Life Insurance,Smart Term Plan,40,300000,613117,hemanthkumar@gmail.com,True,True,True,True,Smoker,True
+Sakir Ahmed,HDFC Life Insurance Company Limited,HDFC Life - Aegis Plan - Death and Disability Benefit,30,250000,411024,sakir.ahmed@gmail.com,True,True,True,False,Non-Smoker,False
+Akshay Bhardwaj,INDIAN OCEAN INSURANCE CORPORATION LTD,Indian Ocean Health Insurance Policy,30,250000,110093,akshaybhardwaj23@gmail.com,False,False,False,False,Non-Smoker,False
+Ajay Kumar,Bajaj Allianz General Insurance Company Ltd,Smart Insurance,34,24000,400048,ajaykumar87@gmail.com,True,False,True,True,Non-Smoker,False
+Sagar Goyal,Reliance General Insurance Company Limited,Motor Insurance,27,14610,110044,sagargoyal@gmail.com,True,True,True,True,Non-Smoker,True
+Sudhir Datta,ICICI Prudential Life Insurance Company,YESMAMA,35,165000,400104,sudhir.datta@gmail.com,False,False,True,True,Non-Smoker,False
+Nishant Paul,Bharti AXA General Insurance Limited,Super Senior Citizen Personal Accident Cover,58,150000,400001,nishant.paul@blr.bhartiaxa.com,False,True,True,True,Non-Smoker,False
+Shreya Gupta,Axis Bank,Axis Bank Health Shield,26,4000,411004,shreyagupta5@gmail.com,True,True,True,True,Non-Smoker,False
+Jayant Bhatt,Kotak Mahindra Old Mutual Life Insurance,Insurance Plan,45,250000,400073,jayant.bhatt@gmail.com,True,False,True,False,Non-Smoker,False
+Ritika KARAN,LIC,LIC JANASHREE,28,123000,400050,ritikakaran@gmail.com,True,False,True,False,Non-Smoker,False
+Santosh Naik,New India Assurance Co. Ltd.,New India Assurance Co. Ltd. Life Insurance Policy,50,100000,422006,santoshnaik1971@gmail.com,True,False,True,True,Non-Smoker,False
+Bhagirath Sahu,Bharati AXA General Insurance,Motor Insurance,26,94500,483527,bhagirath.sahu@gmail.com,False,True,True,True,Non-Smoker,False
+Nikhil Nishith,TATA AIG GENERAL INSURANCE CO LTD,Premium Insurance Policy,36,44900,390001,nikhilnishith@gmail.com,True,True,False,True,Smoker,False
+Samantha Rao,SBI General Insurance Company Limited,SBI General Personal Accident Policy,32,154000,400040,samantha.rao@gmail.com,False,False,True,True,Non-Smoker,False
+Sreevalsan P R,Research and Analytics Unit,New Endowment Assurance,33,112000,682502,spra23@yahoo.co.in,False,True,False,True,Non-Smoker,True
+Mohammed Naveen,Reliance General Insurance Co. Ltd.,Car Insurance,26,20000,110073,naveen.mohammed@yahoo.com,True,True,True,False,Non-Smoker,False
+Shashidhar,Cholamandalam MS General Insurance Company Limited,Motor Insurance,39,28000,570001,shashi007@gmail.com,True,True,True,True,Non-Smoker,False
+Vijay Krishna,Tata AIA Life Insurance Company,Tata AIA Life Smart Retirement Plan,39,500000,311002,vijaykrishna@tataaia.com,False,False,True,True,Non-Smoker,True
+Kishore Kumar,New India Assurance Co. Ltd.,New India Life - Endowment Assurance Plan,25,21000,820002,kishore.kumar@gmail.com,False,False,False,True,Non-Smoker,False
+Balaji Thiruvengadam,Non Life & General Insurance Company,Term Insurance Policy,25,132000,600055,balaji.thiruvengadam@gmail.com,False,False,False,False,Non-Smoker,False
+RAJESH KUMAR,NEW INDIA ASSURANCE COMPANY LIMITED,NEW INDIA ASSURANCE COMPANY LIMITED - INDIAN POLICY,47,27500,302002,rajeshkumar@gmail.com,False,False,False,True,Non-Smoker,False
+Peter Phillips,New India Assurance,Senior Citizens Health Policy,52,150000,480010,peterphillips@gmail.com,True,False,False,True,Non-Smoker,True
+Sunil Kumar Mishra,ICICI Lombard General Insurance Company Limited,Bike Insurance Policy,34,30000,650103,sunitkumar@gmail.com,False,False,True,True,Non-Smoker,False
+Ram Lal,ICICI Lombard General Insurance Company Limited,ICICI-Lombard-Comprehensive-Cover-for-Private-Car,34,200000,110001,ramlal@yahoo.com,True,False,True,True,Non-Smoker,False
+Anuja Joshi,Reliance General Insurance,Reliance General Comprehensive Two Wheeler Insurance,44,8250,400098,anujajoshi123@gmail.com,True,True,True,True,Non-Smoker,False
+Santosh Srivastava,HDFC ERGO General Insurance Company Ltd.,Motor Third Party Liability,33,22800,400002,santoshsrivastava123@gmail.com,True,False,False,True,Non-Smoker,False
+Sudeshna Dasgupta,ICICI Prudential Life Insurance,India First Investment Plan,25,6600,700024,sudeshna.dasgupta@gmail.com,True,False,True,False,Non-Smoker,False
+Chandrakant Kulkarni,Hindustan Insurance,MATERNITY BENEFITS,39,350000,413120,chandrakantkulkarni@hindustaninsurance.com,False,True,True,False,Non-Smoker,True
+Nandita,LIC,LIC Jeevan Akshay I,27,100000,310001,nandita.sheth@yahoo.com,False,False,True,True,Smoker,False
+Mridu Prasad,Bharti AXA General Insurance,Comprehensive Risk Cover,27,19950,400055,prasad.mridu@gmail.com,True,False,True,True,Non-Smoker,False
+Vijayraj Rana,ICICI Lombard General Insurance Company Limited,Auto Cover,44,45000,782001,vra@gmail.com,True,False,False,True,Non-Smoker,False
+Aditya Shankar,Federal Bank General Insurance Company Limited,ORDINARY MOTOR TP,42,29900,614110,adityashankar24@gmail.com,False,True,True,True,Non-Smoker,False
+Sachin Kumar,Star Health and Allied Insurance,Star Restore Policy,24,140000,400027,sachinkumar02@gmail.com,True,False,True,True,Non-Smoker,False
+Rajnish Vishwakarma,HDFC Life,HDFC Life Smart Plan (Top Up),29,25000,400053,rajnishvishwakarma@hdflife.com,True,True,False,True,Non-Smoker,False
+Pradeep Kumar,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz Personal Accident Policy,39,200000,122001,pradeep.kumar@gmail.com,True,False,False,True,Non-Smoker,False
+R. K. Chaturvedi,HDFC ERGO General Insurance Company Limited,HDFC ERGO LITE INSURANCE PLAN - 1ST DEATH & TPD,44,300000,400001,rkchaturvedi@gmail.com,False,True,False,True,Non-Smoker,False
+JASPREET SINGH,LIC,NEW LIC POLICY,26,200000,110079,jasp2022@gmail.com,False,True,False,True,Non-Smoker,True
+Ravi Krishna,Hindustan Insurance Company Limited,Hindustan Life Insurance Policy,33,622000,411026,ravikrishna123@gmail.com,False,False,False,True,Smoker,False
+Srinivasan,New India Assurance,Life Insurance,54,59977,635008,srini@newindia.com,False,False,True,False,Non-Smoker,False
+Rohan Aditya Shah,LIC India,New Life Insurance Plan,37,434000,400022,rohan.aditya.shah@gmail.com,False,False,True,True,Non-Smoker,False
+Ajay Kumar,SBI Life Insurance,SBI Life Maximise Health - Individual,39,170000,110021,ajaykumar@yahoo.com,True,True,True,False,Non-Smoker,False
+Hemant Aggarwal,HDFC Standard Life Insurance Company,Whole Life Insurance,30,300000,110030,hemantaggarwal@yahoo.com,True,False,False,True,Non-Smoker,False
+P. N. R. S.,NATIONAL INSURANCE CO. (INDIA) LTD.,POLICY 434636356,48,2000,812001,p.n.r.s@gmail.com,True,False,True,True,Non-Smoker,False
+Saroj Kumar,New India Assurance Company Limited,NEW INDIA ASSURANCE POLICY NO. 8641914168,60,100000,451227,sarojkumar@gmail.com,False,False,False,True,Non-Smoker,False
+Neha Singh,Ecclesiastical Insurance,Household Policy,25,5000,391001,neha.singh@gmail.com,True,False,False,False,Non-Smoker,False
+RICHARD ROY,LIC,LIC New Endowment Assurance,34,17512,400011,richardroy@gmail.com,False,False,True,True,Non-Smoker,True
+Krishnakumar K,LIC,LIC New Endowment Plan,45,16100,638017,krishnakumark@gmail.com,False,True,True,True,Non-Smoker,False
+Rohit Sharma,Religare,Family Floater Plan,31,34300,400008,rohitsharma@religare.com,True,False,False,False,Non-Smoker,False
+Sushma Sekhar,Bajaj Allianz General Insurance Co. Ltd.,Insurance (LGVV) Policy,34,34800,411001,sushma.sekhar@gmail.com,True,True,True,True,Non-Smoker,False
+Dhiraj Kumar,ICICI Lombard,Urban Persons,36,300000,758023,dhiirajkumar@yahoo.com,False,False,True,True,Non-Smoker,False
+Ganesh M,Tata AIG General Insurance Company Limited,TATA AIG Health Shield Plan - TATA AIG,33,1000,400049,ganeshm21@gmail.com,True,True,True,True,Non-Smoker,False
+Priyadarshini,SBI LIFE INSURANCE COMPANY LIMITED,SMART LIFE - 65,31,100000,416007,priyadarshini.karkera@gmail.com,False,True,True,False,Non-Smoker,False
+Kalpana,Bajaj Allianz,Bajaj Allianz - Long Term Care Critical Illness Plan,31,168000,242102,pradeep.kumar.s@gmail.com,False,True,False,False,Non-Smoker,False
+Rahul Murthy,New India Assurance,Motor Insurance,37,17500,560095,rahulmurthy@gmail.com,True,False,True,True,Smoker,False
+Sudhir Yadav,Exide Life Insurance Company Limited,Pension Plan,37,107000,424001,sudhir@yahoo.com,True,True,True,True,Smoker,False
+Priyank Kothari,Oriental Insurance Company,ORIENTAL INSURANCE COMPANY -MOTOR TRAFFIC ACT (MVA) THIRD PARTY INSURANCE,38,5213,400067,priyankus12@gmail.com,False,False,False,False,Non-Smoker,False
+Srishti,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz General Insurance Company Limited - 0001035102,52,200000,610017,srishti@example.com,False,False,True,True,Non-Smoker,False
+Sandeep Garg,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz - Mysore Auto Package,35,189000,201309,sandeep.garg@bajajallianz.com,True,False,True,True,Non-Smoker,False
+Krishna Taiwal,HDFC ERGO GENERAL INSURANCE,MRF Insurance,31,32200,400064,krishna.taiwal@gmail.com,True,False,True,True,Smoker,False
+Jatin Vyas,Reliance General Insurance,Motor 4W Policy,55,22500,380001,jatinvyas@gmail.com,False,False,True,False,Non-Smoker,True
+Vikas Bhatia,LIC of India,NEW LIC-WHOLIFE,34,120000,400036,vikasbhatia@gmail.com,False,False,False,False,Non-Smoker,False
+Rohit Kumar,Saraswathi General Insurance Company Ltd,Saraswathi General Insurance Company Ltd - Motor Third Party,32,2600,110094,rohit@gmail.com,False,True,False,False,Non-Smoker,False
+Sadhana Bindal,HDFC ERGO,Term Plan,30,118000,400048,sadhana.bindal@gmail.com,False,True,True,False,Non-Smoker,False
+Rajendra Kumar,LIC of India,Jeevan Suraksha Bima Sanchalan,37,16400,110029,rajendra.kumar@yahoo.com,False,False,True,False,Non-Smoker,False
+Bhagavan R,Axis Bank,Axis General Insurance Company Limited - Motor TP Policy,28,98000,600002,bhagavanr1994@gmail.com,True,True,True,False,Non-Smoker,False
+Suman Chawla,Lic India Insurance Company Limited,LIC - Private Car Policy - TATA NEXON 2017,35,300000,300099,suman.chawla@gmail.com,True,True,True,True,Non-Smoker,True
+Karunesh Chauhan,New India Assurance,Dividend Benefit Policy,25,9600,201302,karunesh008@gmail.com,True,True,True,True,Non-Smoker,False
+Jagdish Kumar Bhardwaj,Kotak Mahindra Life Insurance Company Limited,Kotak Mahindra Life Insurance Company Limited - Kotak eWealth Life Goal Plus,34,400000,110042,jagdish.bhardwaj@indianinsurances.com,False,False,False,False,Smoker,False
+Sudhakar K,Bajaj Allianz General Insurance Company Limited,Motor Insurance,41,25000,600096,sudhakar_k@yahoo.com,False,True,True,False,Non-Smoker,False
+Sukikanta Das,Bharati Axa Life Insurance Company Limited,Bharati Axa Newage Plan,38,3000,751022,sudip@indian.com,False,False,True,False,Non-Smoker,False
+Pradeep Kumar,HDFC Life Insurance Company Limited,HDFC Life - HDFC Life Goal Assure,29,40000,424001,pradeepkumar@gmail.com,False,True,True,True,Non-Smoker,False
+Shiva Prasad,Dhan Lakshmi Life Insurance Co. Ltd,INDIA TERM 18,32,330000,555903,shiva.prasad@yahoo.com,False,False,True,False,Non-Smoker,False
+Johnny Joseph Anitha,National Insurance Company Limited,POLICY 199656,73,100000,600077,johnnyjosephanitha@nationalinsurance.in,False,True,False,True,Smoker,False
+Karan Seth,State Bank of India,State Bank of India New Guarantee Plan,34,160000,202204,karan_seth@email.com,False,True,True,True,Non-Smoker,True
+Siddhartha Bhimsen Pawar,ITC General Insurance,COMPREHENSIVE POLICY,30,3300,400001,siddhartha.pawar@gmail.com,True,True,True,True,Non-Smoker,False
+Vikas Sharma,SBI Life Insurance Company Limited,Pension Plan,45,500000,462046,vikas.sharma@gmail.com,False,True,True,True,Non-Smoker,True
+Dharmendra,Know Risk Insurance Brokers,Know Risk Motor Insurance,34,61500,400023,dharmendra@knowrisk.com,True,False,False,True,Non-Smoker,False
+Sumit Bharadwaj,National Insurance Company Limited,INDIAN PLANTATIONS'S GOLDEN JUBILEE HOUSING SCHEME,32,20000,400023,sumitbharadwaj71@gmail.com,False,False,True,True,Smoker,False
+Kiran Patel,Kotak Mahindra General Insurance Company Limited,[Name of Policy],39,1350,481007,Kiran@gmail.com,False,True,False,False,Non-Smoker,False
+Anurag Prakash,National Insurance Company Limited,National Family Term Plan,35,275000,411038,anuragprakash@national.co.in,True,False,False,True,Non-Smoker,False
+yegneshwaran,LIC of India,LIC NEW WORLD UNIT LINK END INVESTMENT PLAN,40,360000,613213,jey@gmail.com,True,False,True,True,Non-Smoker,True
+Sushmita Dutta,Birla Sun Life Insurance,Sushmita Dutta New Life Insurance Plan,27,300000,750017,sushmita.dutta@gmail.com,False,False,True,True,Non-Smoker,True
+Sai Shankar,New India Assurance Company,Rigid Wrap Term Plan,24,112200,500004,saisankar1995@gmail.com,True,False,True,True,Non-Smoker,False
+Jitendra Singh,ICICI Lombard General Insurance,Motor Insurance,35,31000,122002,jitendra@gmail.com,False,False,False,False,Non-Smoker,False
+Vijay Krishna Kumar,LIC,LIC New Jeevan Akshay,29,50000,560038,vijaykrishnakumar@gmail.com,False,False,False,True,Non-Smoker,False
+Sidhartha,National Insurance Company Limited,National Bond,29,196000,560061,sidhartha.kannan@gmail.com,False,False,True,True,Smoker,False
+Prakash Kulkarni,Reliance General Insurance Company Limited,Prakash Kulkarni,35,300000,400013,prakash.kulkarni@gmail.com,False,True,False,False,Non-Smoker,False
+Bhagirath Prasad Singh,RAJASWALI GRANITE AND MINERALS,New Policy,36,5000,400046,bhagirathp1986@gmail.com,True,False,False,True,Non-Smoker,True
+Megha Bhardwaj,LIC of India,LIC New Endowment Assurance,28,240000,110017,meghabhardwaj33@gmail.com,False,True,False,True,Non-Smoker,False
+Rajkumar,LIC,New Endowment Assurance Plan 2019,35,130000,691101,rajkumar.pawar@gmail.com,True,True,True,True,Non-Smoker,False
+Vinay Patil,NOW FIRST GENERAL INSURANCE COMPANY LIMITED,Motor Insurance Cover,32,1600,400002,vinay@gmail.com,True,True,True,True,Non-Smoker,False
+Himanshu Khandelwal,National Insurance Company,National Smart Super Plus,37,278000,481008,hkhandelwal@national.co.in,True,True,True,False,Non-Smoker,False
+Guruprasad,ICICI Prudential Life Insurance Company Limited,Tanishq Life Insurance Policy,21,150000,600029,tanishq.life.insurance@gmail.com,True,True,True,True,Non-Smoker,False
+Vishnu Prasad,Swaabhiman General Insurance,Individual Policy,41,223000,663020,vishnu.prasad@example.com,True,True,True,True,Non-Smoker,False
+Shubham Rathore,HDFC Life Insurance Company,HDFC Life - iSuper Saver,37,200000,110092,shubhamrathore@gmail.com,False,True,False,True,Non-Smoker,False
+mohanlal elavanal,ICICI Lombard General Insurance,Motor Own Damage,55,216000,682031,mohanlalelavanal@gmail.com,True,False,False,False,Non-Smoker,True
+Dushyant Rai,National Insurance Company Ltd,Kisan Swabhiman,39,150000,770008,dushyantrai@gmail.com,True,True,False,False,Non-Smoker,True
+Surya Krishna,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz General Insurance Company Limited,45,300000,560077,suryakrishna@gmail.com,False,True,True,True,Non-Smoker,False
+Soumitra Ghosh,National Insurance Company Limited,CONFIDENCE ENHANCEMENT PROTECTION,37,21986,741006,soumitra.ghosh@gmail.com,False,True,True,True,Non-Smoker,True
+Rajesh Mistry,SBI Life Insurance Company Ltd.,SBI Life Smart Protection Plan,32,100000,400105,rajesh.mistry@gmail.com,True,True,False,True,Non-Smoker,False
+Pradeep Kumar,HDFC Life,HDFC Life Maxi Plus,35,300000,600095,pradeepkumar.p@yahoo.com,True,True,True,True,Non-Smoker,False
+Sudhir Kumar,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Smart Term Insurance,29,150000,400062,sudhir29kumar@gmail.com,False,False,True,False,Smoker,True
+Jyoti Kumari,Reliance General Insurance Company Limited,SMILE FLOATER HEALTH POLICY,30,250000,400073,jyotikumari@email.com,False,False,True,False,Non-Smoker,False
+Vivek Pratap Singh,LIC,New Endowment Assurance (99 Years Old) Plan-II,30,250000,400059,vivekpratapsingh2001@gmail.com,True,True,True,True,Non-Smoker,False
+Krishna Kumar,LIC,Money Back Policy,43,250000,110064,krishna@licindia.com,True,False,True,True,Non-Smoker,True
+Rajesh Chouhan,'State Bank Of India Life Insurance Company Limited',State Bank of India (SBI) Smart Money,32,20000,301301,chouhan.rajesh@gmail.com,False,True,False,False,Non-Smoker,False
+Rajesh Mishra,Bajaj Allianz General Insurance,Bajaj Allianz General Insurance - Car Insurance - Comprehensive,30,25000,400001,rajeshmishra@gmail.com,True,True,True,True,Non-Smoker,False
+Megha Gupta,Reliance General Insurance Co. Ltd.,Pure Protection Plan,36,19750,320037,meghagupta@gmail.com,True,False,False,False,Non-Smoker,False
+Santhosh Babu,LIC,LIC New Endowment Assurance Plan,40,300000,611016,santhoshbabu1978@gmail.com,True,False,True,False,Non-Smoker,False
+Mr. Lakshmi Narayanan,Royal Sundaram General Insurance Co. Ltd.,MASTER REAL ESTATE,39,585000,600081,lakshmi.narayanan@gmail.com,True,False,False,False,Non-Smoker,False
+Nayan Ranjan Dash,'Bajaj Allianz General Insurance Co. Ltd.',Bajaj Allianz Shield,34,244000,751007,nayanrdash@gmail.com,True,True,False,True,Non-Smoker,False
+Pankaj Kumar,Bharti AXA Life Insurance Co Ltd,Bharti AXA Life Insurance Co Ltd Money Back Plan,25,10000,792017,pankaj@g.com,False,False,True,True,Non-Smoker,False
+Rajesh Kondawar,Aegon Life Insurance,Life Term Plan,43,300000,400067,rajesh.kondawar@aegonlife.com,True,True,False,True,Non-Smoker,False
+Rajesh Mallya,LIC,LIC New Financial Security Plan-101,35,325000,400018,rajesh.mallya@gmail.com,False,False,False,False,Smoker,False
+Lalitha Gopinathan,IAI Insurance,Health Policy,30,35000,600007,lalithagopinathan@gmail.com,True,False,False,False,Non-Smoker,False
+Rahul,Aditya Birla Health Insurance Company,Aditya Birla Health Insurance Company,32,10000,410029,rahul@yahoo.com,True,False,True,True,Non-Smoker,False
+Saroj Kumar,New India Assurance,INDIA TERM PLAN,33,500000,121001,sarojkumar@newindia.co.in,True,True,False,True,Non-Smoker,False
+Swaroop Chandra Swain,Max Life Insurance Company Limited,Max Life - Select Star Plus,28,300000,751001,swarup@gmail.com,False,True,True,True,Non-Smoker,True
+Ajay Kumar,Future Generali India Insurance Company Limited,Individual Term Insurance,35,300000,201005,ajaykumar@futuregenerali.co.in,True,False,True,True,Non-Smoker,False
+Bhagwan Prasad,HDFC Life Insurance Company Limited,HDFC i-Secure 500,32,50000,400003,bhagwanprasad@gmail.com,True,True,False,False,Non-Smoker,False
+Viswanath Radhakrishnan,NATIONAL INSURANCE COMPANY LIMITED (NIC),India First Term Assurance Plan,32,100000,621133,viswanath.radhakrishnan@nationalinsurance.co.in,False,False,False,True,Non-Smoker,False
+Rajnish Kumar,ICICI Lombard General Insurance Company Limited,Mr. Rajnish Kumar,45,24300,400001,rajnish.kumar1025@gmail.com,True,False,True,True,Non-Smoker,True
+Tushar Bharadwaj,Sudarshan Insurance Company,Sudarshan Life Assurance,27,5000,411016,tushar.bharadwaj@gmail.com,True,False,True,True,Non-Smoker,False
+Kavitha P,Kalinga National Insurance Company,Kalinga National Swasthya Care Plus,43,348000,635022,kavithap@kalinganat.com,False,True,True,True,Non-Smoker,False
+Satyanarayana,HDFC ERGO General Insurance Company Ltd.,HDFC ERGO PE - SCT 1500 P.P.R.,22,1260,122001,satyanarayanavarapurapu@gmail.com,True,False,True,False,Non-Smoker,False
+alok kumar,Reliance General Insurance,Term Insurance Plan,27,284000,827802,alokkumar3652@gmail.com,True,True,True,False,Non-Smoker,False
+Mohd,Kotak Mahindra Life Insurance Company Ltd,Kotak Mahindra Life Insurance Company Ltd - Protect Plus,37,150000,400057,karthikpatel1985@gmail.com,True,True,False,False,Non-Smoker,False
+Nandu R,GIC Housing Finance,Home Loan Insurance,55,141000,400056,nandur@email.com,False,True,True,False,Non-Smoker,True
+Krishna Kumar,LIC India,NEW LIC PLAN 99,57,320000,562103,krishna@gmail.com,True,False,True,True,Non-Smoker,False
+Niyati Nathu,Birla Sun Life Insurance,Birla Sun Life Insurance - Goal Assure Plan,34,500000,403682,niyatinathu@birlasunlife.com,False,False,True,True,Non-Smoker,False
+Aadiya Gajawat,Exide Life Insurance Company,Exide Life Smart Protect,38,100000,481001,aadiyagajawat@exide.co.in,False,False,True,False,Smoker,False
+Kuntal Singha,Bajaj Allianz General Insurance,Bajaj Allianz New Horizons - Health Insurance,56,300000,750010,kuntal.s89@yahoo.com,True,True,True,False,Non-Smoker,False
+Mohd Farhan,Bharti AXA General Insurance Company Limited,Bharti AXA SmartFarm Insurance,25,250000,500049,farhan@mail.com,False,True,False,True,Non-Smoker,False
+Santosh Kumar Gangwar,PSU,PSU - SANTOSH KUMAR GANGWAR (MALE) (SANTOSH KUMAR GANGWAR) - PUNJAB AND SIND BANK - 07-04-2000,45,300000,110073,santoshkumargangwar@yahoo.com,False,False,True,True,Non-Smoker,False
+Sudarsanam,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz General Insurance Co. Ltd. - Individual Accidental Death and Disability Benefit Policy,36,150000,670022,sudarsanam@bajajallianz.com,True,False,False,True,Non-Smoker,False
+Vishnu K,Kotak Life Insurance Ltd,Kotak Life - Kotak Life Insurance Ltd - Kotak Life Insurance Ltd,30,750000,400015,vishnuk333@gmail.com,False,False,False,False,Non-Smoker,True
+PRASHANT KUMAR,LIC,LIC New Endowment Assurance-63,46,300000,201003,prashantkum@gmail.com,False,False,False,True,Smoker,False
+Arun Kumar,HDFC Life Insurance Company Limited,Money Back Plan,28,150000,600001,arun.kumar@hotmail.com,True,True,True,True,Non-Smoker,True
+Prabhudas Chandrashekhar,Bajaj Allianz Life Insurance,"Prabhudas Chandrashekhar, Bajaj Allianz Life Insurance, 516844237509",44,200000,400077,prabhudas@gmail.com,False,True,True,False,Non-Smoker,True
+Krishna Murari Gaurav Bendre,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Wealth Plus,38,400000,400024,krishnagauravbendre@gmail.com,False,False,False,True,Smoker,False
+Mohanasundaram,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance – New Life Insurance Plan,32,200000,600090,mohanasundaram@gmail.com,False,True,True,True,Non-Smoker,False
+Jagdeep Singh,Blue Cross Health Insurance Co. Ltd.,Blue Cross Health Insurance Co. Ltd. Individual Medical Insurance Policy,55,6916,110026,jagdeep.singh@bluecross.com,True,False,True,True,Non-Smoker,False
+Gurudas,Odisha Life Insurance Company,ODHILIFE - Life Insurance,50,20000,486144,gurudas@odishalife.com,True,True,False,True,Non-Smoker,True
+Deepti Shivane,Bharti AXA Life Insurance Company Limited,Bharti AXA Smart Shield Super,27,200000,400092,deeptishivane@gmail.com,True,False,True,True,Non-Smoker,False
+Thomas James,Reliance General Insurance,Reliance General Insurance Individual Health Insurance,22,2668,453209,thomasjames@email.com,True,True,True,True,Non-Smoker,False
+Rajesh Menon,Bajaj Allianz Life,Bajaj Allianz Life New Dimension,40,192000,600035,rajeshmenon@gmail.com,True,False,False,True,Non-Smoker,False
+Satinder Singh,Reliance General Insurance,Reliance General Health Insurance Policy,35,200000,110048,satindersingh@gmail.com,True,True,True,True,Non-Smoker,False
+Susan,Bajaj Allianz General Insurance,Protect Plus,38,600000,641001,susan@gmail.com,False,False,True,False,Non-Smoker,False
+Seshadri G,Namasthe Insurance Company,Life Insurance Policy,31,600000,641023,seshag@namastheinsurance.com,False,True,False,True,Non-Smoker,False
+Juhi Kashyap,The New India Assurance Company Limited,POLICY10000000000100000000000146,37,125000,400092,jkhsh@email.com,True,False,True,True,Non-Smoker,False
+Pratiksha Singh,Bajaj Allianz Life Insurance Company,Term Plan with return of premium,30,300000,400038,pratiksha.singh@example.com,True,False,True,True,Non-Smoker,False
+Vinod Kumar,Bajaj Allianz General Insurance Co. Ltd.,Private Car/Actual Cash Value,38,29000,981116,vinodkumar@bajajallianz.com,True,False,True,True,Non-Smoker,False
+Gaurav,LIC,LIC New Endowment Plan,29,250000,120028,gaurav.srivastava@gmail.com,False,False,False,True,Non-Smoker,False
+Prashant Kishor,SBI Life Insurance Company Limited,SBI Life - New Vision,36,262000,400013,prashant.kishor@gmail.com,False,True,True,True,Non-Smoker,False
+Mir Alam,L&amp;T General Insurance Company Limited,Comprehensive Two Wheeler Plan,37,282000,110060,miralam@ltgeneral.com,False,True,True,False,Non-Smoker,False
+Sudha Dhawan,Apollo Munich Health Insurance Company Limited,Pearl Plan,35,29900,110065,sudha.dhawan@gmail.com,False,False,False,False,Non-Smoker,False
+Rajat Sinha,Reliance Life Insurance,Reliance Life Insurance - Life Secure Plus,35,200000,682011,rsinha@reliancelife.com,True,True,True,True,Smoker,False
+Mohammad Shohail,Kotak Life Insurance Co. Ltd.,New LIC Retirement Benefit Plan,31,11400,110034,mohammadshohail1990@gmail.com,True,True,False,False,Non-Smoker,False
+Anand Reddy,Star Health & Allied Insurance Co. Ltd.,Star Health Plus Gold,33,5618,400047,anandreddy@gmail.com,True,True,False,True,Non-Smoker,False
+Bhupinder Kaur,National Insurance Co. Ltd.,National Insurance Co. Ltd. - Bhupinder Kaur,35,50000,151001,bhupinderkaur@gmail.com,False,False,False,False,Non-Smoker,True
+Niranjan Mahinda,Bharti AXA General Insurance,Comprehensive Motor Cover,49,36132,122002,niranjannm@gmail.com,False,False,False,False,Non-Smoker,False
+Akshay Tanwar,ICICI Lombard General Insurance Company Limited,Car Insurance - ICICI Lombard General Insurance Company Limited,25,14200,150001,akshaytanwar123@gmail.com,True,True,False,True,Non-Smoker,False
+Vivek Kumar,LIC,LIC Jeevan Akshay Plus,27,150000,421202,vivek@gmail.com,True,False,True,True,Non-Smoker,False
+Nurul Islam,Bajaj Allianz,Senior Citizen Group Mediclaim,31,300000,424201,nurul.islam@bajajallianz.com,True,False,True,False,Non-Smoker,False
+John (John),National Insurance Company Limited,NEW PRIVATE MEDICAL INSURANCE,57,2205,400074,john@nationalinsurance.com,False,False,True,True,Non-Smoker,False
+Saurabh Anand,Cooperative General Insurance Company Limited,Cooperative General Insurance Company Limited-233N,27,400000,350012,saurabh.anand@gmail.com,False,True,True,True,Non-Smoker,False
+Kapil Sharma,Max Life Insurance,Protect 15000.00,45,2479,110007,kapilsharma@maxlife.com,True,True,False,True,Smoker,False
+Kishan Aswath,Tata AIA Life Insurance Company Ltd,Tata AIA Life Smart - A 1000,41,100000,110019,kishanaswath@gmail.com,True,True,False,True,Smoker,False
+Krishna Prasad,AIG Insurance Company,AIG Lifeline 102,28,36000,560050,krishna.prasad@gmail.com,False,True,False,False,Non-Smoker,False
+Kushagra Sharma,Bharti AXA General Insurance Company Limited,Motor Policy,37,115000,110021,kushsharma31@gmail.com,True,True,True,True,Non-Smoker,False
+Shubhankar Goswami,ICICI Lombard General Insurance Company Limited,Motor Liability Insurance,29,21000,110015,shubhankargoswami@gmail.com,True,True,False,True,Smoker,False
+Saroj Kumar Dash,New India Assurance,New India Life - Guaranteed Savings Plan,39,160000,752032,sarojkumardash03@gmail.com,True,False,True,False,Smoker,False
+Jay Abhishek,HDFC Life,HDFC Life Income Secure Plan,44,300000,400008,jay.abhishek@email.com,True,False,True,False,Non-Smoker,False
+Subramaniam Venkatraman,National General Insurance Company Ltd.,SUPER CAR INSURANCE,43,42400,601105,venkatraman.subramaniam123@gmail.com,True,False,False,True,Non-Smoker,False
+Rohit Kumar,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Smart Gold 3D Plan,42,500000,400037,rohitkumar@bajajallianzlife.com,False,True,True,False,Non-Smoker,True
+Elizabeth E. Hahn,Punjab National Insurance,Term Insurance Plan,29,195400,787049,elizabethehahn@punjabnational.com,True,True,False,False,Non-Smoker,False
+Suresh Kumar,PNB MetLife Insurance,idpl00893,28,530000,621001,sbkumar2013@gmail.com,False,True,True,True,Non-Smoker,False
+Mohini Jassi,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Motor Own Damage Plan - Non Comprehensive,19,4659,391002,mohinijassi@gmail.com,False,False,True,True,Non-Smoker,False
+Sreya Sharma,LIC of India,LIC NEW WORLD PLAN 1995-2015,41,250000,421102,sreyasharma1982@gmail.com,False,False,True,False,Smoker,False
+Rahul Raj,Exide Life Insurance Company Limited,Exide Life Tailor made Child Plan,37,434000,123001,rahulraj@gmail.com,True,True,True,False,Non-Smoker,False
+Kumaran Raja,GIC Housing Finance,Premium Protection Policy,43,550000,600001,raja.kumaran@gmail.com,False,True,True,True,Non-Smoker,False
+Surya Prakash,Lic India,LIC New Endowment Plan,33,200000,635001,surya5791@gmail.com,False,True,True,True,Non-Smoker,False
+Suresh Kumar,National Insurance Company Limited,NEW CAR INSURANCE,40,4620,751002,sureshkumar11@yahoo.com,False,True,True,True,Non-Smoker,False
+Akash Pal,LIC,LIC New Endowment Assurance,29,225000,411037,akashpal@gmail.com,False,False,False,True,Non-Smoker,False
+Prem Krishna,SBI Life Insurance Company Limited,SBI Life Smart Pay 15,32,600000,400078,prem.krishna@gmail.com,True,False,True,False,Non-Smoker,False
+Ramakrishna,SBI General Insurance Company,SBI General Motor Insurance,31,8225,613004,krishna@gmail.com,True,True,True,True,Non-Smoker,False
+Prakhar Srivastava,ICICI Lombard General Insurance Company Ltd.,Personal Accident Policy,26,7958,201301,prakhar.srivastava@gmail.com,True,True,False,False,Non-Smoker,False
+Jamuna Narayanan,Axis Insurance,Bike Insurance,56,15000,600049,jayashree.narayanan@gmail.com,True,False,False,True,Non-Smoker,False
+Satish Kumar,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz NRI Saving Plan,47,500000,560075,satish.kumar@gmail.com,False,False,True,True,Non-Smoker,False
+Santosh Kumar,LIC,LIC New Endowment Plan,38,100000,201102,santoshkumar@yahoo.in,False,False,False,True,Smoker,False
+Dipak Kumar Dutta,LIC,New Endowment Assurance Plan,38,45000,400062,dipakkumardutta@gmail.com,True,True,True,True,Non-Smoker,True
+Vinay Kumar,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Air Emergency Overseas Travel Insurance,41,2355,770002,vkumar36@gmail.com,False,True,False,False,Non-Smoker,False
+Rohit Choudhary,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz General Insurance Co. Ltd.,39,300000,400023,rohit.choudhary@bajajallianz.com,True,False,False,True,Non-Smoker,False
+Dharmendra Singh,Indian Insurance Company,India Term,39,200000,131002,dhar@indianinsurance.com,True,False,True,True,Non-Smoker,False
+Siddharth K,Reliance Mutual Fund,Reliance Mutual Fund,34,50000,400002,sid@gmail.com,False,False,True,True,Non-Smoker,False
+Santosh Verma,Bajaj Allianz Life Insurance Company Limited,Santosh Verma - Bajaj Allianz Life Insurance Company Limited,33,150000,110017,santosh.verma@gmail.com,False,False,False,False,Non-Smoker,False
+Manoj Govind,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz First Choice - 7961652847,34,376000,411023,manojgovind@yahoo.com,False,True,False,True,Non-Smoker,False
+Amit,Lic India Insurance Company Limited,Lic India Personal Accident Insurance,41,200000,466027,amit21@gmail.com,False,False,True,False,Non-Smoker,False
+Gurmeet Singh,L&T General Insurance Company Ltd.,Motor Own Damage (MOD) - Own Damage,36,230000,950102,gurmeet.singh20@yahoo.com,True,True,True,False,Smoker,False
+Dharmesh Tiwari,Liberty General Insurance,Motor Own Damage,32,151000,400062,dtiwari@gmail.com,False,False,True,True,Non-Smoker,False
+Saroj Kumar Sangwan,National Insurance Company Limited,MOTOR INSURANCE,41,150000,122003,sarojkumarsangwan@nationalinsurance.co.in,False,False,True,False,Non-Smoker,False
+Aggarwal,Bharti AXA Life Insurance Company Limited,Bharti AXA Life Insurance Company Limited - BL-PAB-PP-136045,26,290000,310001,bhartiofficial@gmail.com,False,True,False,True,Non-Smoker,False
+Satya Narayan Routray,Bajaj Allianz General Insurance Company Limited,Bajaj Infinity Top-up,30,500000,751003,satya.routray@gmail.com,True,True,False,False,Smoker,False
+Pushparaj Mishra,Future Generali India Insurance Company Limited,Future Generali Individual Health Insurance,21,330000,400001,pushparaj.mishra75@yahoo.com,True,True,True,True,Non-Smoker,True
+Kavitha Sivasankar,Sanjeevani Insurance,Sanjeevani Senior Citizen Plan,52,500000,600063,kavithasivasankar@gmail.com,True,True,True,True,Non-Smoker,False
+Dev Nath Choudhary,National Insurance Company Limited,Pension Plan,62,300000,462020,devnathchoudhary@gmail.com,False,False,False,False,Non-Smoker,False
+Rajesh K,LIC of India,Life Insurance Corporation Of India,25,4000,400018,rajeshk@licindia.co.in,True,True,True,True,Non-Smoker,False
+Aditya Bhatia,LIC,LIC New Endowment Assurance Plus,39,500000,400049,aditya.bhatia@licindia.com,True,True,True,True,Non-Smoker,False
+Debabrata Sinha,SBI Life Insurance,Thrust Term Plan,44,250000,400008,debabrata.sinha@xerox.com,False,False,True,True,Non-Smoker,False
+Ajaya Kumar,LIC of India,NEW CORPORATE,31,44000,600033,ajayakumarp@gmail.com,True,True,True,True,Non-Smoker,False
+Hiranandani,Axis Bank,Axis Bank IRDA 100000-Life Insurance,27,30000,400001,Hiranandani@axisbank.co.in,False,False,True,True,Non-Smoker,False
+Dhananjay Biju,Reliance General Insurance Company Limited,"Dhananjay Biju, Private Individual, MA42764",28,144000,600002,dhananjaybiju@yahoo.com,True,True,False,False,Non-Smoker,False
+Raghavendra Rao,ICICI Prudential Life Insurance,ICICI Prudential - Smart Life,38,192000,560008,raghavendra.rao@gmail.com,False,False,True,True,Smoker,False
+Ram Sharma,LIC,New Endowment Assurance Plan,35,40000,110064,ramsharma@gmail.com,True,False,False,False,Non-Smoker,False
+Sonam Kumari,MAX Life Insurance,Max Life Young Star 20,25,370000,110021,sonamkumar1997@yahoo.com,True,False,True,False,Non-Smoker,False
+Sarabjit Singh,United India Insurance Company Limited,UNITED INDIA INSURANCE COMPANY LIMITED,37,500000,152010,sarabjitsingh@gmail.com,True,False,True,True,Non-Smoker,False
+Sudhanshu Agarwal,TATA AIG General Insurance Company Limited,TATA AIG - General Insurance Policy,32,625000,421012,sudhanshu2001@yahoo.com,False,False,False,False,Non-Smoker,False
+Anirban Chakraborty,New India Assurance,POLICY_1000_1000,36,100000,700080,anirbanchakraborty84@gmail.com,True,True,True,True,Non-Smoker,False
+Siddhesh Balwant,National Insurance Company Limited,National Insurance Company Limited - Mega Protect,30,180000,410006,siddharth.kokate@gmail.com,False,True,False,False,Non-Smoker,False
+Charu Daga,The New India Assurance Company Limited,NEW INDIA BHARATI SUPER SAVER,36,243000,320021,charudaga@yahoo.com,True,False,True,True,Non-Smoker,False
+Kaushik,Future Generali India Insurance Company Limited,Future Generali India Insurance Company Limited - MEDICLAIM GOLD,50,40500,932201,ca020055@futuregeneraligroup.com,True,False,True,False,Non-Smoker,True
+Vaishnavi,ICICI Lombard General Insurance Company Limited,Motor Insurance Policy,31,12000,400089,vaishnavi.natarajan@gmail.com,False,False,False,False,Non-Smoker,False
+Nisha Dhingra,Reliance General Insurance,Motor Own Damage,32,100000,110017,nishadhingra@gmail.com,True,False,True,False,Smoker,False
+Rajat Kumar,Reliance General Insurance Co. Ltd.,Reliance Hospital Cash Insurance Plan,43,150000,410001,rkumar19@yahoo.com,True,False,True,True,Non-Smoker,True
+Durga Prasad,SBI Life Insurance Company Limited,SBI Life - Smart Secure,39,200000,154105,durga.prasad@gmail.com,True,False,True,False,Non-Smoker,True
+Ankur Jain,Axis Bank,Insurance Policy,24,1300,110001,ankurjain@axisbank.com,True,False,True,False,Smoker,False
+Karthik Jagadeesh,MAX New York Life Insurance Company,SUPER SAVER PLAN,41,28019,600041,kartikjag@gmail.com,True,False,True,False,Non-Smoker,False
+Mohammad,Bharti AXA General Insurance Company Limited,Motor Insurance Policy,36,4000,430001,mohammad@bharti-axa.in,True,False,False,True,Non-Smoker,False
+Manjunath N S,Bajaj Allianz General Insurance Company Limited,Individual Health Policy - Premium,34,3500,560055,manjunathns@gamil.com,False,True,False,True,Non-Smoker,True
+Arpit Agrawal,LIC,LIC New Endowment Assurance (88121),40,272000,400052,arpitagrawal54@gmail.com,False,False,False,False,Smoker,False
+Santosh Kumar,SBI Life Insurance,SBI Life Smart Income Plan,39,500000,403203,santosh@gmail.com,True,True,True,False,Non-Smoker,False
+Raman Shukla,National Health Insurance Company of India,National Health Insurance Company of India - Smart Plan,36,1053,400027,ramanshukla@nationalhealthinsurance.in,True,True,True,False,Smoker,True
+Sanjay Kumar,Loyal,New Motor Policy (New Policy Number: INP2206856),46,370000,110042,sanjaysingh419@gmail.com,True,True,True,False,Non-Smoker,False
+Rangasamy S Murugan,Aditya Birla Sun Life Insurance,Life Insurance Plan,59,55000,601003,rangasamy.murugan@adityabirla.com,False,False,True,True,Non-Smoker,False
+Anjali Shinde,ICICI Lombard General Insurance Company Limited,ICICI Lombard Car Insurance,34,14000,400047,anjali.shinde.anjali@gmail.com,True,False,True,True,Non-Smoker,False
+Kiran,National Insurance Company Limited,Oil Tanker Insurance,34,500000,200001,kiranraj089@gmail.com,False,True,False,True,Non-Smoker,False
+Sibi Siby,SBI General Insurance,final,25,30000,682002,sibi.siby@gmail.com,True,True,True,True,Non-Smoker,False
+Subhash Chandra Patel,SBI Life Insurance Company Limited,SBI Life Smart Wealth Plan,32,112000,400006,subhash.chandra.patel@gmail.com,False,False,True,True,Non-Smoker,True
+Rajesh Kumar,SBI General Insurance Company Limited,Rajesh Kumar,40,195000,721201,rajeshkumar@yahoo.com,False,False,False,False,Non-Smoker,False
+Dhanunjay,Bajaj Allianz General Insurance Company Limited,Medical Insurance,24,150000,400056,dhanunjay@gmail.com,False,False,False,False,Non-Smoker,False
+Dharamdas Vijaykumar Kadam,The New India Assurance Company Limited,Personal Accident Insurance Policy,22,2000,391701,dharamdas.vijaykumar@gmail.com,False,True,False,True,Non-Smoker,False
+Rohit Parashram Survase,Everest Insurance,Everest Insurance - Vehicle Insurance,31,3403,412101,rohit.survase@gmail.com,False,True,False,True,Non-Smoker,False
+Sudarshan,SBI Life Insurance Company Limited,Protect Plus,28,250000,560023,sudarshan.prabhu@gmail.com,True,False,True,True,Non-Smoker,False
+Nandan Kumar,The Oriental Insurance Company Limited,Motor Insurance,37,50000,260001,nandan.kumar@gmail.com,True,False,True,True,Non-Smoker,False
+Arun Kumar,LIC of India,LIC New Endowment Assurance,43,400000,600007,arunkumar@gmail.com,False,False,True,True,Smoker,False
+Rohit Chakraborty,SBI Life Insurance,SBI Life Active Current,48,480000,110001,rohit.chakraborty@gmail.com,True,True,True,True,Non-Smoker,True
+Vishnu Prasad,Bharti AXA Life Insurance,Achiever-Plus,38,174000,444006,vishnuprasad@bigbasket.com,True,False,True,False,Non-Smoker,True
+R Ganesh,Oriental Insurance Company Ltd.,Term Plan,38,500000,600013,rganesh@gmail.com,True,False,False,False,Smoker,True
+Gurjot Singh Sandhu,LIC India,LIC - New Endowment Assurance,30,230000,160029,gurjotssandhu@gmail.com,False,False,False,False,Smoker,False
+Rajeev Kumar,LIC,New Economy,32,620000,410001,rajeevkumar180@gmail.com,False,False,False,False,Non-Smoker,False
+Mahipal Saini,Human Care Insurance,Digital Term Plan,27,149700,169001,mahipalsaini@humancare.com,True,True,False,True,Non-Smoker,False
+Rajasekharan,Bharti Axa General Insurance,Insurance for Business Travel,42,140100,640064,sarojjayarajan@gmail.com,True,False,False,True,Non-Smoker,False
+Piyush Kumar,LIC,LIC New Jeevan Anand,27,200000,400073,piyuskumar67@gmail.com,False,True,True,True,Non-Smoker,False
+Sushmita Gosh,Max Life Insurance Company Ltd,Max Life iSelect - GST - 10 Lacs,38,225000,736008,SushmitaGosh@hotmail.com,False,False,False,True,Non-Smoker,False
+Tommy Stephen,LIC OF INDIA,INDIVIDUAL TERM ASSURANCE ON LIFE OF TOMMY STEPHEN,32,143000,600101,tstephen91@gmail.com,True,True,True,True,Non-Smoker,False
+Siddharth Dutta,New India Assurance,Annual Renewal Policy,50,2100,600034,Sidddutta@gmail.com,True,True,True,True,Non-Smoker,False
+Kumar Kishan Shukla,Reliance General Insurance Company Limited,Reliance Health Plan,26,250000,400001,Kishan.shukla@gmail.com,False,False,True,False,Non-Smoker,False
+Ram Chandran,SBI General Insurance Company,Medical Insurance,44,5000,600077,ramchandran@gmail.com,True,True,True,True,Non-Smoker,True
+Sreejith Vijesh,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance - ICICI Pru Smart Lite Policy,27,200000,690001,sreejithvijesh@gmail.com,True,False,True,False,Non-Smoker,False
+Ashish,Bajaj Allianz General Insurance,Bajaj Allianz General Insurance,28,300000,400069,ashish07@gmail.com,True,True,True,True,Non-Smoker,False
+Neha Kularia,Reliance General Insurance,Motor Insurance,29,50000,400002,neha.kularia@gmail.com,True,False,True,True,Non-Smoker,False
+Krupa Shivam,SBI Life Insurance Company Limited,Standard Life Insurance Policy,28,119000,400056,ksivam7@gmail.com,False,True,True,True,Non-Smoker,False
+Nagendra Lakshminarayana,INDIAN OIL INSURANCE CO. LTD.,OIL - ACCIDENT AND SICKNESS INSURANCE,33,41900,400054,nagendra.lakshminarayana@indianoil.in,True,False,False,True,Non-Smoker,False
+Rahul Pandey,Bajaj Allianz,Bajaj Allianz,37,24900,110013,rahulpandey@gmail.com,True,True,True,True,Non-Smoker,False
+Sita Devi,Liberty General Insurance,Motor Insurance,50,2700,110017,sita.devi@gmail.com,False,True,True,True,Non-Smoker,False
+Rakesh Thakur,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Personal Accident Insurance,33,22400,450001,rakeshthakur123@gmail.com,True,True,True,True,Smoker,False
+Rupesh Nigal,NATIONAL INSURANCE COMPANY OF INDIA LIMITED,National eShield,29,18000,400027,rupeshnigal30@gmail.com,False,True,False,True,Non-Smoker,False
+Akshay Vyas,Edelweiss Tokio Life Insurance,Edelweiss Tokio Life - Wealth Plus,33,350000,400052,akshay.vyas@edelweissgroup.com,False,True,False,True,Non-Smoker,False
+Rajesh Kumar,Reliance General Insurance Company Limited,PLANET 106,40,10600,400046,rajesh.kumar@y7mail.com,False,False,False,True,Non-Smoker,False
+Rahul Sharma,Birla Sun Life Insurance,Birla Sun Life Investment Plus,24,27500,110095,rahulsharma12@gmail.com,True,True,True,True,Non-Smoker,False
+Jaideep Biswas,New India Assurance,New India - New India Term Assurance,29,1500,800006,jaideepbiswas@gmail.com,True,False,True,True,Non-Smoker,False
+Krishna Kant,L&T General Insurance,Road King Comprehensive,28,298000,335009,kk_bapat@hotmail.com,False,False,False,True,Non-Smoker,False
+Ranveer Singh,LIC India,LIC Plan 580,42,100000,110027,ranveersingh@gmail.com,True,True,True,True,Non-Smoker,False
+Rahul Rathod,Oriental Insurance,Term Insurance,25,550000,421211,rahulrathod@gmail.com,True,True,True,True,Non-Smoker,True
+Durgesh,Bajaj Allianz General Insurance Co. Ltd.,Bajaj Allianz General Insurance Co. Ltd. - Car Insurance,49,280000,373201,durgesh@bajajallianz.com,True,True,True,False,Non-Smoker,False
+Abhishek Kumar,Reliance General Insurance Company Limited,Reliance General Insurance Company Limited - Abhishek Kumar,38,300000,160020,abhishek.kumar5@outlook.com,True,True,True,False,Smoker,True
+Aniruddha,Birla Sun Life Insurance,Birla Sun Life Smart Secure,38,45000,321304,aniruddhagaur42@gmail.com,False,False,True,False,Non-Smoker,False
+Ritika Ashutosh,Reliance General Insurance Company,Reliance Smart Plan,32,300000,481103,ritikasharma@gmail.com,True,True,True,True,Non-Smoker,True
+Adith Anand,Shriram General Insurance Company,CoverNote,36,23536,600020,adith.anand@gmail.com,False,False,False,True,Smoker,False
+Rajesh Garg,Kotak General Insurance Limited,Car Insurance Policy,52,1100,122001,rajeshdgarg@gmail.com,False,False,True,True,Non-Smoker,False
+Jay Patel,Kotak Mahindra Life Insurance,Protect Plus,38,200000,400068,jaypatel@gmail.com,False,True,True,True,Non-Smoker,False
+Siddhant Mishra,Bharti AXA General Insurance Co. Ltd,Motor Insurance Policy,30,15000,411004,siddhantmishra@gmail.com,True,True,True,False,Non-Smoker,False
+Sandip Ranjan Chakraborty,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited,Canara HSBC Oriental Bank of Commerce Life Insurance Company Limited - eRIDL-Term,37,220000,781202,sandip.chakraborty07@gmail.com,False,False,True,False,Non-Smoker,False
+Raj Singh,Reliance Standard Life Insurance Company,Reliance Standard Life Insurance Company New Horizon,31,100000,483204,raj.singh@gmail.com,True,False,True,False,Non-Smoker,False
+Satyanarayana,INDIAN OVERSEAS INSURANCE COMPANY LIMITED,Personal Accident Insurance,36,100000,160050,satyanarayana@ioicl.com,False,True,True,True,Non-Smoker,False
+Ashok Kumar,ICICI Lombard General Insurance Company Limited,ICICI Lombard Personal Accident Policy,22,1241,411014,ashokk@gmail.com,False,False,False,False,Non-Smoker,False
+Ram Prakash,ICICI Prudential Life Insurance Company,ICICI Prudential Smart Invest Plus,36,120000,110073,ramprakash2020@gmail.com,False,True,False,True,Non-Smoker,False
+Laxman Nishant,INSURANCE COMPANY OF INDIA,NEW INDIA - GOLD,58,150000,415201,laxman.nishant@yahoo.com,True,False,True,False,Non-Smoker,True
+Shubham Sharma,Reliance General Insurance,Motorcycle,19,25000,340005,shubhamsharma2001@gmail.com,True,False,False,True,Non-Smoker,False
+Soumya Ranjan,Reliance General Insurance,Reliance General - Home Insurance,36,500000,750081,soumyaranjan@gmail.com,True,True,True,True,Non-Smoker,False
+Krishna Murthy,LSG IFFCO TOKIO GENERAL INSURANCE COMPANY LIMITED,Motor Third Party Insurance,60,2333,641027,krishnamurthy123@gmail.com,True,True,True,False,Non-Smoker,False
+James Peter,Bajaj Allianz General Insurance,Bajaj Allianz Travel Insurance,44,10000,301202,jamespeter@gmail.com,True,True,True,True,Non-Smoker,True
+Kunjar Singh,Reliance General Insurance Ltd,Royalty Gold Policy,30,8700,132001,kunjarsingh@indianemail.com,True,False,True,True,Non-Smoker,False
+Anil Kumar,LIC (Life Insurance Corporation of India),LIC (Life Insurance Corporation of India) New Endowment Assurance Plan,40,250000,400063,ankumar@gmail.com,True,False,False,False,Non-Smoker,True
+Abhishek Singh,Cigna TTK Health Insurance,Health Insurance Policy,37,5075,560039,abhisheksingh@gmail.com,False,True,True,True,Non-Smoker,False
+Ram Sharma,Bharti AXA General Insurance,Bharti AXA Comprehensive Car Insurance,28,50000,400062,ramsharma189@gmail.com,True,True,True,True,Non-Smoker,False
+Aruna,Saraswati Co-operative Bank General Insurance,Motor Insurance,51,1590,400001,arunakar_hariharan@yahoo.com,False,True,False,False,Non-Smoker,False
+Deepak Kumar,New India Assurance,LIFE INSURANCE POLICY,22,180000,100014,deepakkumar@newindia.com,False,False,False,True,Non-Smoker,False
+Amit Kumar,Bharti AXA General Insurance,CAR INSURANCE POLICY,48,107500,110001,amitkumar12345@gmail.com,True,True,True,True,Smoker,False
+James Wilson,Future Generali India Insurance Company Limited,Future Generali Life Insurance Policy,24,500000,560025,wilsonjames00@gmail.com,True,True,True,True,Non-Smoker,True
+Vijay Kumar,LIC of India,New Endowment Assurance,55,112000,400070,vijaykumar@example.com,True,False,True,True,Non-Smoker,False
+Pragunakshi Sharma,National Insurance Company Limited,National Health Insurance,21,22000,411002,pragunakshisharma@gmail.com,True,True,True,True,Non-Smoker,False
+Chandrakant Manish Dhurat,LIC,LIC LIC New Endowment Plan,33,225000,400096,manish.dhurat@gmail.com,True,False,False,False,Non-Smoker,True
+Abhijit Sarkar,Bharti AXA Life Insurance Company Limited,Bharti AXA Life Smart Savings Plan,30,11400,700020,abhijit.sarkar@gmail.com,True,True,False,False,Smoker,False
+Himanshu Raj,United India Insurance Company Limited,United India Term Assurance Plan,32,19300,400013,himanshu.raj@gmail.com,True,False,False,False,Smoker,False
+Vasu Prabhakar,Future Generali India Insurance Company Limited,Vasu Prabhakar,32,215000,400021,vasu.prabhakar@gmail.com,True,True,True,True,Non-Smoker,False
+Venkata Ramanan,Reliance Life Insurance,Reliance Life Insurance SmartProtect Plus,34,30000,600065,venkataraman1988@gmail.com,False,False,True,False,Non-Smoker,False
+Sarva Pradeep,Bajaj Allianz General Insurance,Motor Own Damage,35,149000,400071,sarvapradeep9@gmail.com,True,False,False,True,Non-Smoker,True
+Vivek Singh,Bajaj Allianz General Insurance Company Limited,Bajaj Allianz Chubb Home Insurance,35,10000,321020,viveksingh@gmail.com,True,False,False,True,Non-Smoker,False
+Satyam Kumar Bhardwaj,Tata AIG General Insurance Company Limited,Tata AIG Smart Salary Protector,33,20000,411002,satya.bhardwaj@gmail.com,True,False,True,False,Non-Smoker,False
+Vijay Kumar,Reliance General Insurance,PoliCon Health,50,8800,641001,vijay.kumar01234@email.com,False,False,False,True,Non-Smoker,False
+Kadambini Dhar,SBI Life Insurance Company,SBI Life Saral Suraksha Kisan,26,120000,400001,kadambinidhar26@gmail.com,True,True,False,False,Non-Smoker,False
+Samar Varma,Max Life,MaxLife FlexiShield Life Insurance Plan,47,320900,122006,samarvarma@gmail.com,True,True,False,False,Smoker,False
+Shailesh Kumar Sharma,Exide Life Insurance Company Limited,Exide Life Insurance Company Limited - Smart Protection - Shailesh Kumar Sharma,32,30000,390017,shaileshkumarsharma@exide.com,True,False,True,True,Non-Smoker,False
+Rahul Kishore Kumar,Max Life Insurance Company Limited,Max Life Invest Plan,40,240000,641001,rahulkishorekumar662@gmail.com,True,False,False,False,Non-Smoker,True
+Anish Kumar Shukla,Bharti AXA General Insurance Company Limited,Personal Accident Policy,24,2040,452018,anishshukla1998@gmail.com,True,True,False,True,Non-Smoker,False
+Deepika Sharma,Reliance General Insurance,Reliance Motor (Motor Insurance),36,10000,450001,deepikasharma@gamil.com,True,False,True,True,Non-Smoker,True
+Adarsh Sarkar,LIC of India,LIC New Individual Jeevan Shakti,29,43000,926005,adarshsarkar@gmail.com,True,True,True,True,Non-Smoker,False
+Jyoti Shekhar Parida,GIC Housing Finance,URBAN HOUSING LOAN,37,168600,757017,jyoti.parida@gmail.com,True,False,False,False,Non-Smoker,False
+Rakesh,LIC,LIC Jeevan Akshay,40,100000,400075,rakesh@gmail.com,True,True,True,True,Smoker,False
+Aniruddha Paul,Bajaj Allianz General Insurance Company Ltd.,Individual Health Insurance Policy,28,25000,400055,aniruddhapaul@gmail.com,False,False,False,True,Non-Smoker,False
+Ravi Dharmendra,Liberty Videocon General Insurance Company,"Personal Accident Policy - Rs.70,000/-",41,1597,481001,ravidharma77@gmail.com,False,True,True,True,Non-Smoker,False
+Kanak Kishore Kumar,Life Insurance Corporation of India,NEW LIC ENDURANCE - 3 YEARS,22,100000,481224,kanakkishorekumar@gmail.com,False,True,True,True,Non-Smoker,False
+Jyothi Rajeev,National Insurance Company Limited,Income Insurance,34,230000,400063,jyothiraj@gmail.com,True,True,True,False,Non-Smoker,False
+Krishna Bharadwaj,LIC,LIC New Endowment Assurance Plus (Policy Numer: 11771501007419),30,17000,400031,krishna.bharadwaj@gmail.com,False,False,True,True,Non-Smoker,True
+Ramanujam Pillai,Royal Sundaram,Medical Insurance,39,18000,641308,ramanujam.pillai@gmail.com,False,False,True,True,Non-Smoker,False
+Gouri Shankar,LIC India,LIC NEW END 560 P,48,147500,845601,gouri.sankar@gmail.com,False,False,True,False,Non-Smoker,False
+Rahul kumar,SBI LIFE,SBI Life eShield Plus,22,26400,462101,rahulkumar9122@gmail.com,False,False,False,True,Non-Smoker,False
+Krishna Sai Vardhan Reddy,Bajaj Allianz General Insurance Company Ltd,Cover Plus,31,2500,500001,krishna.sai.v@gmail.com,True,False,True,True,Smoker,True
+Gopal Krishna Gokhale,ICICI Prudential Life Insurance,ICICI Pru - Child Future,39,500000,412202,gkrishnakrish@gmail.com,False,False,True,True,Non-Smoker,False
+Dipendra Khatri,LIC,LIC New Endowment (5 PY) Plan,38,100000,400064,dkhatri@gmail.com,False,False,True,True,Non-Smoker,False
+Rishabh Pandey,Reliance General Insurance,Reliance Healthy Family,33,200000,400015,rishabh@reliance.com,True,True,True,True,Non-Smoker,False
+Siddhartha Lahiri,LIC of India,LIC New Endowment Assurance,24,37400,201301,siddhartha.lahiri@gmail.com,False,False,False,False,Non-Smoker,False
+Akanksha Mathur,LIC,New Endowment Assurance Policy,26,220000,110017,akanksha.mathur@gmail.com,True,True,True,True,Non-Smoker,False
+Shankar Natarajan,Bharti AXA General Insurance,Bharti Insurance Floater,33,302000,600084,shankar.natarajan84@yahoo.com,False,True,True,True,Non-Smoker,True
+Ram Mohan,ICICI Lombard General Insurance Company Limited,ICICI Lombard- Micro Health Insurance,32,35000,400017,rammohan@gmail.com,True,True,False,True,Non-Smoker,False
+Nafisa Bibi,National Insurance Company Limited,Annual Health Insurance,36,24000,400027,nafisabibi@gmail.com,True,False,True,True,Smoker,False
+Sumeet Kumar,Max Life Insurance Company,Max Life Smart Retirement,29,120000,452012,sumeet.kumar@gmail.com,True,True,True,True,Smoker,False
+Mahipal Mal,Aditya Birla Health Insurance Company,Family Floater Lite V2,32,16000,400045,mahipalmal@gmail.com,False,False,False,True,Non-Smoker,False
+Mani Chavali,Bajaj Allianz Life Insurance Company Ltd.,Online term plan,41,53000,500082,manichavali@gmail.com,True,False,True,False,Non-Smoker,False
+Rajendra Singh,SBI General Insurance Company,SBI Car Insurance,34,12000,110025,rajendra.singh25@gmail.com,True,True,False,False,Non-Smoker,False
+Pramod Pujari,National Insurance Company Ltd,National e-money Insurance,35,20000,400099,pramodpujari@nationalinsurance.co.in,False,True,False,True,Non-Smoker,False
+Shweta Sharma,Max Life Insurance,Max My Future,26,600000,110075,shweta.sharma35@gmail.com,True,True,True,True,Smoker,False
+Rusha Ali,Niyogi Insurance,Niyogi Insurance Individual Term Assurance Policy,34,23000,411005,rusha.ali@gmail.com,True,False,True,True,Smoker,False
+Mina Maria,ICICI Lombard General Insurance,Comprehensive Car Insurance,44,59500,400025,mina@gmail.com,True,False,True,True,Non-Smoker,False
+Bhagyashree Mishra,Canara HSBC Oriental Bank Of Commerce Life Insurance Company Limited,CANARA HSBC OBC LIFE - TERM PLAN,26,186000,481405,bhagyashree.mishra@gmail.com,False,False,False,False,Non-Smoker,False
+Saraswathi Krishnamurthy,LIC,LIC New Jeevan Anand,28,200000,600001,saraswathikrishnamurthy@gmail.com,True,False,True,False,Non-Smoker,False
+Firoz Khan,Bharti AXA Life Insurance,Life Insurance - Income Plan,51,25000,411002,firozkhan@gmail.com,True,True,False,True,Non-Smoker,True
+Vinod Kumar Mishra,United India Insurance Company,UNITED INDIA INSURANCE COMPANY - SUPER POLICY,36,1340,400029,vinodkumarmishra@gmail.com,False,False,True,True,Non-Smoker,False
+Kapil Dev,INDIAN LIFE INSURANCE,SARAL 50PLUS BELLA,55,132000,483222,kapildev@indianlifeinsurance.com,True,False,False,False,Non-Smoker,False
+Neha Mohanty,SBI General Insurance,Health Insurance,25,1785,758005,nehamohanty@gmail.com,True,False,True,False,Non-Smoker,False
+Rashmi Gagroo,HDFC ERGO General Insurance Company Limited,HDFC ERGO - Comprehensive Car Insurance,47,10000,483204,rashmi.gagroo@gmail.com,False,False,False,False,Non-Smoker,False
+Aishwarya Patel,Kotak Mahindra Life Insurance,Kotak Smart Protection,29,210000,380002,aishwaryapatel@gmail.com,False,False,True,False,Non-Smoker,False
+Rohit Kumar,ICICI Lombard,Motor Insurance - Personal Accident Cover,48,200000,400020,rohitkumar@gmail.com,False,False,True,False,Smoker,False
+Abhay Ganesh Chaudhari,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Insurance Company Limited - Save 1000,37,225000,400074,abhay@gmail.com,False,True,True,True,Non-Smoker,False
+Hari Om,Bajaj Allianz General Insurance Company Limited,Motor Insurance,34,38200,560025,hariom@gmail.com,True,True,False,False,Non-Smoker,False
+Jayesh Gajera,LIC,LIC New Endowment Assurance,46,320000,400025,jayeshgajera@gmail.com,False,False,True,True,Non-Smoker,False
+Vishwanath Mishra,LIC,New Endowment Assurance Plan,28,70000,490201,vishwanathmishra@gmail.com,True,False,False,True,Non-Smoker,False
+Manish Sahani,SBI General Insurance,SBI General Flexi Health Plus,26,4000,110095,manish.sahani@gmail.com,False,False,True,True,Non-Smoker,False
+kumar keshav,Bajaj Allianz General Insurance Company Ltd,Bajaj Health Assist,47,2940,400026,kumarkeshav2000@gmail.com,True,False,False,False,Non-Smoker,False
+Parimal Kishore,Max Bupa Insurance,Max Bupa Health Plan,30,500000,400050,parimal@gmail.com,True,True,False,False,Non-Smoker,True
+Shriram,Bajaj Allianz General Insurance,Personal Accident Policy,34,21000,400034,shriram@bajajallianz.com,True,True,False,True,Non-Smoker,True
+Vijay Kant Trivedi,Reliance General Insurance,Reliance Aarogya Kadam,39,467000,400001,vijaykanttrivedi@reliancelife.com,False,False,False,True,Non-Smoker,False
+Ashish Singh,The New India Assurance Co Ltd,The New India Assurance Co Ltd (514181840) Individual Life Insurance Policy,29,301000,201315,ashishsingh19@gmail.com,True,False,True,True,Smoker,False
+Kaushik Kumar,Bajaj Allianz Life,BFN-1156-04-20-65-20-70-0-0-0-0,43,300000,440001,kaushikkumar@gmail.com,False,True,True,True,Non-Smoker,False
+Shri,ICICI Prudential Life Insurance Company Ltd,Orange Easy Start,32,425000,110030,prashant.raj2008@gmail.com,True,False,True,True,Non-Smoker,False
+Suman Chakraborty,HDFC Life Insurance,UBS Wealth Management Smid Cap Fund - Regular Plan,33,150000,800025,sumanc@hdfc-life.com,False,True,True,False,Non-Smoker,False
+Abhishek Kumar,Venus General Insurance,Car Insurance,23,72000,411027,akumar123@gamil.com,False,True,True,True,Smoker,False
+SANDEEP KUMAR,ICICI Lombard General Insurance Company Limited,COMPREHENSIVE INSURANCE POLICY,30,25000,521206,sandeepkumar028@gmail.com,False,False,False,True,Non-Smoker,False
+Jasmine,LIC,LIC New Endowment Assurance,24,73400,400024,jasmine@gmail.com,True,True,True,False,Smoker,False
+Narayanan S,SBI Life Insurance Company Limited,SBI Life Saral Term Plan,35,250000,641661,narayanan.s@gmail.com,True,True,True,True,Smoker,True
+Arun Kumar Tyagi,Reliance General Insurance,Reliance Accident Insurance,27,2335,110038,arun@gmail.com,False,False,False,False,Non-Smoker,False
+Jamie Ferreira,Muthoot Finance Limited,Muthoot Mediclaim Policy,36,150000,600063,jamieferreira@gmail.com,False,False,True,True,Non-Smoker,True
+Rohan Kamath,NEW INDIA ASSURANCE CO LTD,Term Insurance Plan,29,470000,400073,rohan.kamath@newindia.co.in,False,False,True,False,Non-Smoker,False
+S Narayan,Kotak Mahindra General Insurance Company Ltd,Standard Car Insurance - 2022-2023,25,24000,600088,snarayan@gmail.com,False,False,True,True,Non-Smoker,True
+Akhilesh Garg,Bajaj Allianz Life Insurance Co. Ltd.,Moneyback Plus,29,600000,201204,akhilesh@garg.com,True,True,True,True,Non-Smoker,False
+Sanjeev Chopra,National Insurance Company Limited,National Super Plus,55,30000,470001,SANJEEV_CHOPRA@YAHOO.COM,True,True,True,True,Non-Smoker,False
+Sachin,HDFC Life,HDFC Life Raksha Super,26,165000,110078,sachin.saini@gmail.com,False,True,False,False,Smoker,False
+Ankit Verma,SBI Life Insurance,SBI Life Smart Protect,34,8216,521104,ankitv1988@gmail.com,False,True,True,True,Non-Smoker,False
+Umesh Tiwari,NEW INDIA ASSURANCE COMPANY LIMITED,NEW INDIA ASSURANCE COMPANY LIMITED,26,20900,430048,umeshtiwari@gmail.com,True,False,False,True,Non-Smoker,True
+Kumar Om Prakash,National Insurance Company Limited,Motor Insurance,22,19200,110092,kumaromprakash83@gmail.com,True,False,False,True,Smoker,False
+Subhash Chandra,LIC of India,LIC New Jeevan Akshay II - 1362,36,100000,917210,subhashchandra@gmail.com,False,False,False,False,Non-Smoker,False
+Sundeep Bhojak,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance,45,500000,400095,sundeepbhojak@gmail.com,True,True,True,True,Non-Smoker,False
+Dinesh Kumar Singh,LIC,New Endowment Assurance Plan,43,20000,400006,dineshundesh786@gmail.com,True,False,True,False,Non-Smoker,False
+Surya,LIC,LIC-New-Jeevan-Aadhar-II,37,200000,400054,surya@email.com,False,False,True,True,Non-Smoker,False
+George Mathew,National Insurance Company,Life Insurance,27,26000,600056,george.mathew123@gmail.com,False,True,False,True,Non-Smoker,True
+Mukesh Kumar,LIC,LIC New Endowment Assurance Plan,31,2000,110050,mukeshkumar41@gmail.com,False,False,True,True,Non-Smoker,False
+Sahabuddin,Reliance General Insurance Co. Ltd,Motor Policy,34,4330,411046,sahabuddin@gmail.com,True,True,False,True,Smoker,False
+Vipul Jaiswal,ICICI Prudential Life Insurance,ICICI Pru Smart Plan,32,100000,400007,vipuljaiswal@gmail.com,False,False,True,True,Non-Smoker,False
+Mr. Abhishek Singh,Bajaj Allianz Life Insurance Co. Ltd.,Life Insurance,33,35000,481001,abhishek.singh08@gmail.com,False,False,True,True,Non-Smoker,False
+Sridevi Reddy,HDFC ERGO,Impact Accident Cover,20,18000,560077,sridevi.reddym@gmail.com,False,False,True,True,Non-Smoker,False
+Sudesh Gopal,Liberty General Insurance,Liberty General Health Policy,24,22000,220008,sudeshgopal@gmail.com,False,True,True,False,Non-Smoker,False
+Akshay Thomas,THE OHS HUMAN CAPITAL SERVICES PVT LTD,Employee Benefits,32,130000,410034,akshay.thomas@gmail.com,False,False,True,True,Non-Smoker,False
+Rohan Rathod,Reliance General Insurance Company Limited,Reliance Medical Platinum,30,120000,452005,rohanrathod@email.com,True,False,True,True,Non-Smoker,False
+Sandipan Bandyopadhyay,HDFC ERGO GENERAL INSURANCE COMPANY LTD,Motor Insurance (Car),25,22000,400001,sandipan.bandyopadhyay@hdfc.com,False,False,True,False,Non-Smoker,False
+Swapnil Pandey,IndusInd Bank Insurance,Term Insurance,24,216000,411047,swapnilpandey517@gmail.com,True,True,True,True,Non-Smoker,False
+James John,Bharti AXA General Insurance Company Ltd.,Bharti AXA Smart Own Damage,34,25000,110001,jamesjohn@bhartiaxa.com,True,True,True,True,Non-Smoker,True
+Prashanthi Ramesh,LIC,LIC PRUL,28,240000,671303,prashanthiramesh7@gmail.com,True,False,True,True,Non-Smoker,False
+Amit Kumar,LIC,LIC New Endowment Plan,29,20176,110001,amitkumar@gmail.com,True,False,False,True,Non-Smoker,False
+Rohit Mishra,Indian Life Insurance Company,Indian Life Insurance Company 2050 Plan,32,500000,400001,rohitmishra@indialifeinsurance.com,False,True,True,True,Non-Smoker,False
+Kishor Shinde,LIC,LIC MULTI-PAY TM (ULIP) - PLAN 177,42,300000,412204,kishor_shinde@example.com,False,True,True,True,Non-Smoker,False
+Keshav Kumar,Royal Sundaram General Insurance Co. Ltd.,Money Back Plan,35,340000,480001,keshav@kumar.com,True,False,True,True,Non-Smoker,False
+Sanjay Shrivastava,ICICI Lombard General Insurance Company Limited,ICICI Lombard Private Car Comprehensive - 001,38,100000,400066,sanjay.shrivastava@gmail.com,True,True,True,True,Non-Smoker,True
+Ram,ICICI Lombard General Insurance Company Limited,ICICI Lombard COMPLETE CAR INSURANCE PLAN,33,1000,456001,ram@gmail.com,True,False,True,True,Non-Smoker,False
+Harsh Chitlangia,Reliance General Insurance Company,Two Wheeler Insurance,28,30000,400094,harshchitlangia@gmail.com,True,True,False,False,Non-Smoker,False
+Akshay Gupta,SBI Life,SBI Life Smart Start,26,210000,411001,akshaygupta@gmail.com,True,False,True,True,Non-Smoker,False
+Rohit Mehta,Kotak Life Insurance,Kotak Smart Protect,34,10000,411018,rohit.mehta@gmail.com,False,False,False,True,Non-Smoker,False
+William D'Silva,Reliance General Insurance Company,Reliance General Insurance Health Cover,33,1199,400080,william.dsilva@gmail.com,True,True,True,False,Non-Smoker,False
+M. K. Sreekumar,Tata AIA Life Insurance Company Limited,Tata AIA Smart Term Plan,44,125000,610007,sreekumar.mk@gmail.com,True,False,True,True,Non-Smoker,False
+Ajay Kumar,Liberty Videocon General Insurance Company Limited,'New Motor Insurance Policy',42,1000,201201,ajay.kumar@gmail.com,False,False,False,True,Non-Smoker,True
+Surya Prakash,Tata AIA Life Insurance Company Ltd.,Term Plan,32,500000,400023,suryaprakash@tataaialife.com,True,False,True,True,Non-Smoker,False
+Chandrakant Narendra Vishwakarma,Reliance General Insurance Company Limited,Reliance - Health Plus,33,200000,413101,chandrakrant_narendra_vishwakarma@gmail.com,True,False,False,True,Non-Smoker,False
+Shubham Tejas Patil,Reliance General Insurance Company Limited,Term Insurance,29,100000,411010,shubhampatil250@gmail.com,False,True,True,True,Non-Smoker,False
+Shubham Mathur,Bajaj Allianz General Insurance,BAGIC - 1234567890 - Policy,31,245000,400065,shubhammathur@bajajallianz.com,False,False,True,True,Non-Smoker,False
+Ku. A. Dhanabalan,New India Assurance Co. Ltd.,NEW INDIA ASSURANCE CO.LTD.,54,300000,600103,dhanabalan@newindia.co.in,False,False,False,False,Non-Smoker,False
+Ramu Kumar,Birla Sun Life Insurance,Smart Plan,41,19875,632002,ramukumar61@gmail.com,False,False,True,True,Non-Smoker,False
+Vinayak Manik Kambli,Bajaj Allianz Life Insurance,Savings Plus,26,70000,400026,vinayak.manik.kambli@gmail.com,True,False,True,True,Non-Smoker,True
+Yashwanth Karthikeyan,Bajaj Allianz Life Insurance Company Ltd,Bajaj Allianz Smart Term Savings,41,100000,600074,yashwanth.karthikeyan@gmail.com,True,False,True,False,Non-Smoker,False
+Neha Nathani,Aditya Birla Sun Life Insurance,Smart Investor,45,300000,210018,neha1223@gmail.com,True,False,True,False,Non-Smoker,True
+Sudhir Kumar,NATIONAL INSURANCE COMPANY LIMITED,NATIONAL INSURANCE COMPANY LIMITED - SUPER SENIOR CITIZEN TERM INSURANCE PLAN,65,20000,400024,sudhirkumar@yahoo.com,True,True,True,True,Non-Smoker,False
+Kulwinder Singh,SRIVIDYA AXIS INSURANCE,SRIVIDYA AXIS INSURANCE - SAARTHI SUPER TERM - SAARTHI SUPER TERM,30,119800,110010,kulwinder.singh@gmail.com,True,False,False,False,Non-Smoker,False
+Kamal Kant Srivastava,NATIONAL INSURANCE,WHOLIFE 3D PLAN,36,1434,110003,KKSrivastava@gmail.com,False,False,True,True,Non-Smoker,True
+Prem Kumar,New India Assurance,Online Term Insurance Plan,41,200000,948001,premkumar74@gmail.com,True,True,False,True,Non-Smoker,True
+Rajesh Pawar,National Insurance Company Limited,National Insurance Company Limited - National Pension Plan,51,1292,413004,rajeshpawar@gmail.com,True,True,False,False,Non-Smoker,False
+Ajay Kumar,Bajaj Allianz General Insurance,Term Plan,37,300000,400055,ajay.kumar@gmail.com,False,True,False,True,Non-Smoker,False
+SATYADEV RAVI KUMAR,Bajaj Allianz Life Insurance Company Ltd,Jeevan Suraksha,33,500000,641055,kumarsatyadev2001@gmail.com,True,False,False,False,Non-Smoker,False
+Kiron Siddiqui,Life Insurance Corporation of India,Life Insurance Policy,34,250000,400006,kiron.siddiqui@gmail.com,False,True,True,False,Non-Smoker,False
+Deepak Singh,HDFC ERGO General Insurance Company Limited,HDFC ERGO 2 Wheeler Insurance,37,1560,400038,deepak.singh@rediffmail.com,False,True,True,False,Non-Smoker,False
+Sanjay Singh,Bajaj Allianz Life Insurance Company Limited,Bajaj Allianz Life Insurance Company Limited - Bajaj Allianz Life - Goal Assure - Limited Pay Plan - 5 Years - Plan - 30,29,117800,380001,san1993@gmail.com,False,False,False,False,Non-Smoker,False
+kumar shiv,MAX BUPA HEALTH INSURANCE,MAX BUPA HEALTH INSURANCE,38,6100,360008,kumarshiv@gmail.com,True,False,False,True,Smoker,False
+John Peter,ECHO,ECHO_Smart_Health_Plus,37,5000,471214,johnpeter@echo.com,True,True,True,True,Non-Smoker,False
+Sharmila Roy,Pragati Life Insurance,Smart Saver Life Plan,31,300000,750091,sharmila_roy@yahoo.com,False,True,True,True,Non-Smoker,False
+Sarah Williams,Reliance Life Insurance Company Limited,Online Term Plan,45,100000,400007,sarahwilliams@gmail.com,True,True,True,True,Non-Smoker,True
+Anand Surya,Reliance General Insurance Company Limited (Reliance General),Term Life Insurance,33,180000,400024,anand.surya@gmail.com,False,False,False,False,Smoker,False
+Kamini Chakrabarti,ICICI Prudential Life Insurance,ICICI Prudential Life Insurance - Smart Financial Planner - Benefit Plus,54,200000,600079,kamini.chakrabarti@gmail.com,True,True,True,True,Non-Smoker,False
+Rajeshwar Dharan,Oriental Insurance Company Limited,Oriental Insurance Company Ltd. (Motor),49,200000,400001,rajeshwar@orientalinsurance.co.in,True,True,True,True,Non-Smoker,True
+Manish Kumar Jain,Bajaj Allianz General Insurance Company Ltd.,Royal One,29,275000,110075,manishkumarjain110075@gmail.com,False,True,True,False,Non-Smoker,True
+Sachin  Agrawal,Bajaj Allianz Life Insurance Co Ltd,Bajaj Smart Pro,42,250000,454142,sachin.agrawa123@gmail.com,False,True,True,False,Non-Smoker,False
+Aditi Sarkar,Premier Insurance,Premier Life - Senior Citizen,38,200000,622003,aditi.sarkar@gmail.com,True,True,False,True,Non-Smoker,False
+Kassabala Sathish Kumar,Star Health and Allied Insurance Company Limited,Star Individual Shield Plan,25,3426,600094,kskumar13546@gmail.com,False,False,False,False,Non-Smoker,False
+Pradeep Kumar Jain,Citizens Insurance,POLICY NO: 0009576,48,23100,490025,pradeepjain@citizensinsurance.com,False,False,True,False,Non-Smoker,False
+Rajeev Chawla,HDFC Ergo,Home Insurance Plan,33,25300,110029,rajeevchawla@yahoo.com,True,True,True,True,Non-Smoker,False
+Premraj P.,Future Generali India Insurance Company Limited,Life Insurance,40,350000,160059,rajprem.bhat@hotmail.com,False,False,False,False,Non-Smoker,True
+Satish Kumar,New India Assurance,Aviation Liability Insurance,35,435000,110013,satishkumar1@gmail.com,False,True,False,True,Non-Smoker,False
+Kapil Lakshminarayanan,L&T Insurance,L&T Life Shield - Term Plan,34,250000,600037,kapillakshminarayanan@gmail.com,True,False,True,True,Non-Smoker,False
+Shivam Mittal,IFFCO-Tokio General Insurance,New Motor Insurance,29,30000,110001,shivam@gmail.com,True,False,False,True,Non-Smoker,False
+Kundan Kumar,National Insurance Company Limited,National Life Term Assurance Plan,45,20000,110069,kundankumar@gmail.com,True,False,False,False,Non-Smoker,False
+Mohan Kumar,Reliance General Insurance,Cover Care,23,283000,481312,mohankumar@gmail.com,False,False,True,True,Non-Smoker,False
+Sushil Sharma,SBI Life Insurance Company Ltd,SBI Life Smart term 5,37,210000,110037,sushil.sharma@gmail.com,True,False,False,True,Non-Smoker,True
+Siddhartha Girish,Nationwide,Car Insurance,22,1400,210014,sidhartha.girish@nationwide.com,True,True,True,True,Non-Smoker,False
+Rajesh Kumar,Bharti AXA Life Insurance,Smart Protect,38,300000,110016,rajeshkumar@gmail.com,True,True,True,True,Non-Smoker,False
+Renuka Sharma,LIC,LIC New Endowment Assurance,32,100000,400028,renukasharma@yahoo.com,True,True,True,True,Non-Smoker,False
+Babu Bhaskar,BSM INSURANCE,BABU BHASKAR,27,250000,560017,babubhaskar@gmail.com,True,True,True,True,Non-Smoker,False
+Krishna Bhaveshbhai Patel,National Insurance Company Limited,Online Term Insurance Plan,35,12000,440021,patel.k.b@gmail.com,True,True,False,True,Non-Smoker,False
+Satish Kumar,Bajaj Allianz Life Insurance Company Ltd,New Life Gold,38,480000,110015,satish.kumar@bajajallianzlife.com,True,False,True,True,Non-Smoker,True
+Sneha Vishwakarma,SBI Life Insurance Company Limited,SBI Life iSave Plan,28,20000,400099,snehavishwakarma@gmail.com,True,False,True,True,Non-Smoker,False
+Rajesh Nayar,LIC (Life Insurance Corporation of India),LIC-NEW-ENDOWMENT-PLUS-456,32,19930,370001,rajesh@gmail.com,False,True,True,True,Non-Smoker,False
+Sushant Kumar,National Insurance Company Ltd,POLICY 11702354,30,250000,400006,sushankumar123@gmail.com,True,False,True,False,Non-Smoker,False
+Ashwani Saini,ICICI Lombard,ICICI Lombard Apollo Heart,27,8080,110099,ashwani.saini@gmail.com,True,True,True,True,Non-Smoker,False
+Krishna Priya S,Cigna TTK Health Insurance Co. Ltd.,Cigna Care,46,345000,560094,krishna.priya.s@gmail.com,False,False,False,True,Non-Smoker,False
+Nandita Hari,Odisha State Cooperative Apex Insurance Company,Police,35,1500,751016,nanditah@odishacooperativeapexinsurance.com,False,False,False,False,Non-Smoker,False
+Ranjit Singh,Reliance General Insurance,Reliance Mediclaim-E-Health Package - 400000,27,400000,110021,ranjitsingh@email.com,True,True,True,True,Non-Smoker,False
+Rohit Datta,Max Life Insurance Company Limited,Life Insurance Max Life Insurance Company Limited,43,170000,400016,rohit.datta@outlook.com,False,True,True,False,Smoker,False
+Mukesh Kumar,LIC,New Endowment Assurance Plan,54,144100,110087,mukeshkumar@gmail.com,True,False,False,False,Smoker,True
+Siddharth Kulkarni,NEW INDIA ASSURANCE COMPANY LIMITED,NEW INDIA ASSURANCE COMPANY LIMITED - HR Policy,29,195000,400049,siddharth.kulkarni91@gmail.com,True,True,True,True,Non-Smoker,False
+Rachna Sharma,Future Generali India Insurance Company Limited,Floater Policy,36,400000,220001,rachna.sharma@gmail.com,True,False,True,True,Smoker,False
+Jashnita Bhat,Reliance General Insurance,Motor Insurance,41,24800,400028,jashnita.bhat@yahoo.com,True,False,False,False,Non-Smoker,False
+Ramesh Kumar,Birla Sun Life Insurance Company Limited,Smart Plan Plus,42,64000,160015,ramakumar.s@gmail.com,True,False,True,False,Non-Smoker,False
+Pallavi Bhatia,Maxlife,Maxlife - Max Protector,32,600000,400060,pallavi.bhatia@gmail.com,True,True,True,True,Non-Smoker,False
+Shyam Chowdhury,SBI Life Insurance,SBI Smart Protect Plus,49,445000,721014,shyam.chowdhury@gmail.com,False,True,True,True,Non-Smoker,False
+Jyoti Pawar,TATA AIG GENERAL INSURANCE CO LTD,TATA AIG GENERAL INSURANCE CO LTD - TATA AIG GENERAL INSURANCE CO LTD - NON MOTOR INSURANCE POLICY - POLICY CODE - 211500000015,42,156000,400605,jyotipawar@tataaig.co.in,True,False,False,False,Non-Smoker,False
+Rohit Ramesh Khandelwal,Reliance General Insurance,Motor Insurance,46,37500,400002,rohit.ramesh.khandelwal@rcamail.com,False,False,False,False,Non-Smoker,False
+Jagdish Kaur,Shriram Life Insurance,Shriram Life Standard L-E,58,300000,501005,jagdishkaur@shriramlife.com,True,False,True,True,Non-Smoker,False
+Prakash Kumar,LIC of India,SARAL KRISHI PENSION,50,300000,324420,prakashkumar@licindia.in,False,True,False,True,Non-Smoker,False
+Akshay Tiwari,Kotak Mahindra,Kotak 3D Plus,26,26700,400027,akshaytiwari.kotak@gmail.com,True,False,True,False,Non-Smoker,True
+'Himanshu Jhalani','ICICI Lombard General Insurance Company Limited',3_Wheeler_Comprehensive_Policy,49,15900,400014,himanshu.jhalani@gmail.com,True,False,True,True,Non-Smoker,False
+Nandini Ghosh,Bharti AXA General Insurance Co. Ltd,BHARTI AXA SILVER INDIVIDUAL HEALTH OPTION 1 YEAR,26,20001,751020,nandinighosh665@gmail.com,True,True,True,True,Non-Smoker,False
+Santosh Kumar,Bajaj Allianz Life Insurance Co. Ltd,Bajaj Allianz Life Smart Guarantee Plan,32,120000,510016,santoshkumar1@gmail.com,True,True,True,True,Non-Smoker,False
+Nikita Sarkar,COPAL,Coverage Plus,30,300000,400034,nikita.sarkar@gmail.com,False,False,True,True,Non-Smoker,True
+Srinivasan S,HDFC ERGO General Insurance Company Limited,Car Insurance,39,38000,560095,srinivasan.s@rediffmail.com,True,False,False,True,Non-Smoker,False
+Saurabh Vishnu,Coverfox,Term Plan,27,100000,400013,saurabh.vishnu@yahoo.com,False,False,False,False,Non-Smoker,False
+Vikram Krishna,Tata AIG Life Insurance,Tata AIG Life Insurance- Term Plan,31,150000,400001,vikramkrishna789@gmail.com,True,False,False,True,Smoker,True
+Prabhat Kumar Jha,'TATA AIG General Insurance Co. Ltd.',TATA AIG Smart Driver,28,130000,854006,prabhat.jha@gamil.com,False,True,True,True,Non-Smoker,False
+Sachin Kumar,LIC of India,New Endowment Assurance Plan,37,26000,400001,sachinsalian@gmail.com,False,True,True,False,Non-Smoker,False
+Sanjay Rathod,Canara HSBC Oriental Bank of Commerce Life Insurance,PRU LIFE - PRU LIFE - BROADGUARD - SOLUTIONS,35,200000,400067,sanjayrathod@gmail.com,True,True,True,False,Non-Smoker,False
+Satyam Sangwan,Axis Bank Life Insurance,Axis Bank Life Insurance - Axis MediLife,50,133000,160066,satyam.sangwan@axisbank.com,True,True,False,True,Non-Smoker,False
+Nandini Kumar,ICICI Lombard General Insurance Company Ltd.,Smart Ride Saver,29,25400,400059,nandini.kumar@gmail.com,True,False,True,True,Non-Smoker,False
+Dinesh Kumar,Max Life Insurance Company Limited,Smart Child Plan - 65,35,50000,400010,dineshkumar@maxlife.com,True,True,True,False,Non-Smoker,False
+Praveen Kumar,AXIS INSURANCE,Term Insurance,35,250000,400055,praveenkumar@axisinsurance.com,False,True,False,False,Smoker,False
+Komal Saurabh,Axis Bank,Personal Accident Policy,26,104000,400091,komalsaurabh@gmail.com,True,True,True,False,Smoker,False
+Pranav Suthar,Bharti AXA General Insurance Company Ltd.,Bharti AXA MOTOR TRIPLE PLAY SMART 3 WEEKLY PAY 12 MONTHS,30,1224,380030,pranavsuthar@gmail.com,False,False,False,False,Non-Smoker,False
+Chandrasekhar,Reliance General Insurance Co. Ltd,CAR/18458158,41,69000,560032,sdheeraj11@gmail.com,True,False,True,True,Non-Smoker,False
+Shouvik Ghosh,Bajaj Allianz General Insurance,Bajaj Allianz AMC 058856,44,275000,700030,shouvik.ghosh@jio.com,False,False,False,True,Non-Smoker,False
+Premila Singh,National Insurance Company Limited,National E-Mediclaim Policy,31,9520,400001,premilasingh@gmail.com,True,False,True,True,Non-Smoker,False
+Amitabh,Bharti AXA General Insurance Company Ltd.,Third Party Liability,30,300000,201301,amitabh@email.com,True,False,False,False,Non-Smoker,False
+Aniruddha Panda,Canara HSBC Oriental Bank of Commerce Life Insurance Co. Ltd.,Canara HSBC Oriental Bank of Commerce Life Insurance Co. Ltd. - Endowment Plan - 611620,33,450000,751036,aniruddha.panda@yahoo.com,False,True,False,True,Non-Smoker,False
+Rohit Kumar,Bajaj Allianz General Insurance Co. Ltd.,HONOUR CAR,24,950000,400014,rohitkumar@bajajallianz.com,True,False,False,False,Non-Smoker,False
+Ashwin Goyal,Bajaj Allianz Life Insurance Company Ltd,Bajaj Allianz Bank Bazaar Term Plan,38,600000,110072,ashwin.goyal@gmail.com,True,False,False,True,Smoker,False
+Suraj Kiran,Tata AIG General Insurance Company Limited,Kotak Mahindra Comprehensive Car Insurance,28,7500,110065,surajkiran23@gmail.com,True,False,True,True,Non-Smoker,False
+Anjali Srivastava,HDFC Life Insurance,HDFC Life i-Photo Plus Plan,30,140000,110041,anjanisrivastava@gmail.com,True,True,True,True,Non-Smoker,False
+Akshay Kumar,Axis Bank,Axis Bank Health Cover,36,2248,400014,akshaykumar@gmail.com,False,False,False,True,Non-Smoker,False
+Mahantesh Hegde,Edelweiss Tokio Life,Smart Save Plan,27,20000,560043,mahan@gmail.com,False,True,True,True,Non-Smoker,False
+Akash Kumar,NEW INDIA ASSURANCE COMPANY,NEW INDIA ASSURANCE ESI MEDICAL POLICY,36,140000,776804,akashkumar@newindia.co.in,False,False,False,False,Smoker,False
+Ramchandra,Aditya Birla Sun Life Insurance,easy insurance,27,300000,421001,krishna.manjunath@gmail.com,True,False,True,True,Non-Smoker,False
+Satya Narayan Mishra,Bajaj Allianz General Insurance,Bajaj Allianz General Insurance Personal Accident Insurance,35,2840,462013,snmishra1987@gmail.com,False,False,False,True,Smoker,False
+Vikram Kumar,SBI Life Insurance,SBI Balanced Benefit,32,30000,560002,vikramkumar21@gmail.com,True,False,False,True,Non-Smoker,True
+Pratiksha Doshi,Bajaj Allianz General Insurance Company Limited,Car Insurance,36,15000,400089,prathibha.doshi@gmail.com,False,False,True,True,Non-Smoker,False
+Gunjan Sharma,LIC,Life Insurance,24,200000,201302,gunjansharma@gmail.com,False,False,True,False,Non-Smoker,False
+Ranjit Singh,Kotak Mahindra General Insurance Company Limited,Kotak Mahindra General Insurance Company Limited - Person Accidental Death Insurance,25,18000,122005,ranjitsingh26@gmail.com,True,False,False,True,Non-Smoker,False
+Dushyant,Max Life Insurance Company Limited,Max Smart Plan,29,400000,400094,dushyant@maxlife.in,False,False,True,False,Non-Smoker,False
+Eeshwar Jain,New India Assurance,New India Assurance Non-Linked Group Pension Scheme,26,13000,411007,eeshwarjain11@yahoo.com,True,False,True,True,Non-Smoker,False
+Dinesh Kumar,National Insurance Company,National Life Insurance,29,16200,311001,dinesh.kumar@gmail.com,False,False,True,False,Non-Smoker,False
+Mr. Suresh Kumar,Reliance General Insurance,Reliance New Generation Online Car,42,45000,761001,sureshkumar@gmail.com,False,True,True,True,Non-Smoker,False
+Raja Shekar,Reliance General Insurance Co. Ltd.,Reliance Car Policy,38,15000,600071,raja.shekar@gmail.com,False,True,False,False,Non-Smoker,False
+Vikram Singh,Bajaj Allianz Life Insurance,Bajaj Allianz Life Insurance - Wealth Multiply,26,200000,452113,vikram.singh@gmail.com,True,True,True,True,Non-Smoker,False
+Sreeram Venkatesan,INDIAN OIL INSURANCE COMPANY LIMITED,Life Policy for Individual,32,500000,600004,sreeramvenkatesan@in.hotmail.com,False,False,True,True,Non-Smoker,False
+Saraswathi Raja,LIC,LIC New Endowment Assurance Plan 1962,66,330000,313205,saraswathi.raja@gmail.com,True,True,True,True,Non-Smoker,True
+Sonia Verma,Reliance General Insurance,Reliance General Insurance - Health & Accident Policy,24,1500,400031,soniaverma@email.com,False,False,True,False,Non-Smoker,False
+Vickram Vishwakarma,Phoenix Life Insurance Company Limited,Phoenix Liberty Life Insurance Plan,46,200000,400056,vickramvishwakarma@gmail.com,True,True,True,True,Non-Smoker,False
+K G Srinivas,L&T General Insurance Company Ltd.,IL&FS Project Term Insurance,39,425200,600037,kgsrinivas@gmail.com,False,False,False,False,Non-Smoker,False
+Santoshkumar,Oriental Insurance Co. Ltd.,POLICY SUM INSURANCE,46,1700,425401,Santoshkumar@orientalinsurance.co.in,True,True,True,False,Non-Smoker,False
+Balaji Balaji,LIC - Life Insurance Corporation of India,LIC Jeevan Anand,65,226000,636001,balajibalaji@gmail.com,True,False,False,True,Smoker,False
+Sanjay Shrivastava,Reliance General Insurance Co. Ltd.,Reliance Apollo Hospital Health Insurance Policy,45,110000,450016,Sanjayshrivastava@gmail.com,True,True,False,False,Non-Smoker,False
+Satya Kumar,Bharti AXA General Insurance,Motor Insurance,27,29560,320006,satya@mathworks.com,True,True,True,True,Non-Smoker,False
+Jaydev Bhagat,Reliance General Insurance Company Limited,Reliance Health Insurance Plan,44,1000,400015,jaydevbhagat@gmail.com,True,True,True,True,Non-Smoker,False
+SANJAY GUPTA,ICICI Lombard General Insurance Company Limited,Motor Insurance,48,140000,110011,sanjay.gupte@gmail.com,False,False,False,True,Non-Smoker,False
+Ashish,LIC of India,LIC - New Endowment Assurance (80C) - Non Smoking,27,130000,600091,ashish13@gmail.com,False,True,True,True,Non-Smoker,False
+Durgesh Kumar,Reliance General Insurance Company Ltd.,COVERPET,37,18900,400001,durgeshkumar95@gmail.com,True,False,True,True,Non-Smoker,True
+Sonam,L&T General Insurance Company Ltd,Motor Third Party Insurance,40,5000,110071,sonam.singh@example.com,True,True,False,False,Non-Smoker,False
+Prashant Singh,Apollo Munich Health Insurance Company Limited,Apollo Munich Health Plus - New,40,5999,800031,prashant.singh@email.com,False,False,True,True,Non-Smoker,False
+Ramakrishna Rao,Future Generali India Life Insurance Company Ltd,Future Generali - Future First,32,15000,571321,raoramakrishna@gmail.com,True,False,False,False,Non-Smoker,False
+Nicholas Daniel,Reliance General Insurance Company,Reliance Forte Health Insurance,21,3701,110047,nicholas.daniel@test.com,True,True,True,True,Non-Smoker,False
+Sumit Kumar,Indian National Insurance Company Limited,Individual Term Plan,33,400000,411040,sumit.kumar@gmail.com,True,True,True,True,Non-Smoker,False
+Ramesh Chandra,LIC of India,New Endowment Assurance Plan,35,2690,201001,james_mccarthy@gmail.com,False,True,False,False,Non-Smoker,True
+Vijay Kumar,INDIA INSURANCE,INDIA INSURANCE CUSTOMER GUARANTEE PLAN-2004,29,25000,110026,vijaykumar29@gmail.com,True,True,True,True,Non-Smoker,True
+Santosh Kumar Maurya,National Insurance Company Limited,National Insurance Company Limited-Ulip,35,800000,110022,santoshkumarmaurya@gmail.com,True,True,True,True,Smoker,False
+Rakesh Kumar,Pioneer Insurance Company,Pioneer Life,44,23677,400001,rakeshkumar23677@gmail.com,True,False,True,True,Non-Smoker,False
+Rajendra Bhattacharya,Kotak Mahindra Insurance Company Limited,Term Insurance,49,360000,400062,rajendrabhattacharya@gmail.com,False,False,True,True,Non-Smoker,True
+Sarah,Reliance General Insurance,Accidental Death & Disability (AD&D),20,1678,320021,sarahvarghese@gmail.com,False,True,True,False,Non-Smoker,False
+Sabirah,Bhagyanagar General Insurance Company Limited,Police Liability,38,20000,530092,sabirah@bhagyanagar.in,True,True,False,True,Non-Smoker,False
+Suresh S,ICICI Lombard,ICICI Lombard - Comprehensive Car Insurance,45,13000,621102,sureshs@xyz.com,True,True,True,True,Non-Smoker,False
+Asha Garg,ICICI Lombard General Insurance,Personal Accident,25,200000,400012,ashagarg5@gmail.com,False,True,False,False,Non-Smoker,False
+Samarth Kumar,Prudential ICICI Life Insurance Company Limited,Prudential ICICI Life Smart Secure Plus,23,2626,310023,samarthkumar@iitbombay.ac.in,False,True,True,True,Non-Smoker,False
+Akshay Gupta,National Insurance Company Limited,Individual Life Cover Plan,30,420000,400001,akshaygupta@nationalinsurance.com,False,False,False,False,Non-Smoker,False
+Joy N,Max Life Insurance Company,Max Life Insurance New 3D Plan,35,200000,600094,joy.n@gmail.com,False,True,True,True,Non-Smoker,False
+Saurabh Kumar,NIBL ACE Life Insurance Company Limited,NIBL ACE Life Optima,27,100000,400096,saurabhkumar@yahoo.co.in,False,False,True,True,Non-Smoker,False
+Nishant Srivastava,Vivak Insurance,Health Insurance,34,3500,244002,nishant25@gmail.com,True,False,False,False,Non-Smoker,True
+Pradeep Ramesh,CANARA HSBC OBC LIFE INSURANCE CO. LTD.,Smart Retirement Plan,32,200000,400078,pradeepramesh2912@gmail.com,False,True,False,True,Non-Smoker,False
+Rajendra Kumar,Axis Bank Life Insurance Company Limited,POLICY NO. 2018121347,35,100000,620010,rajendrakumar123@gmail.com,True,True,True,True,Smoker,True
+Mahesh Kumar,Star Health and Allied Insurance Co. Ltd,STAR HEALTH PREMIUM PRO,30,464000,411012,maheshkumar@example.com,True,True,True,True,Non-Smoker,False
+Ashwin Rajagopalan,Apollo Munich Health Insurance Company Limited,Apollo Munich Health Insurance - Silver,28,30000,600068,ashwin@gmail.com,True,False,True,True,Non-Smoker,False
+Narendra Modi,CIC First General Insurance Company Limited,CIC First New Car Insurance,54,10000,400001,narendra.modi@gmail.com,False,True,False,False,Non-Smoker,False
+Ramesh Goyal,Exide Life Insurance,Assure Smart 3D Plan,45,100000,110089,ramesh.goyal@gmail.com,False,True,True,True,Non-Smoker,False
+Nikhil R,Bajaj Allianz Life Insurance Company Limited,Simple Term Plan,37,6000,400104,nikhilr@gmail.com,False,True,False,True,Non-Smoker,False
+Sachin M Rao,Max Life Insurance,Max Life Max Saver,29,75000,400104,sachin.rao@maxlife.com,False,True,True,False,Non-Smoker,False
+Joshi,National Insurance Company Limited,National Term Insurance,30,245000,400073,joshisanket1990@gmail.com,False,True,True,True,Smoker,True
+Rishi,WISHIRL,WISHIRL - Rishi - Gurgaon - 40000 - Individual - 36750,26,40000,122006,rishis@wishirl.com,False,False,False,False,Non-Smoker,False
+KARAN SINGH,Bajaj Allianz Life Insurance,Bajaj Allianz Life Insurance,34,100000,600061,prabu265@gmail.com,False,False,False,True,Non-Smoker,False
+Rohit Kumar,LIC,New Endowment Assurance Plus,28,150000,411004,rohitkumar@gmail.com,True,True,True,True,Non-Smoker,False
+Sachin Wankhade,Reliance General Insurance,Reliance General Insurance New Delhi,40,500000,400024,sachin.wankhade@email.com,True,False,True,False,Non-Smoker,False
+Megha Vyas,Bharti AXA Life Insurance Co. Ltd.,Bharti AXA Health Shield Plan,32,10000,400062,megha.vyas@gmail.com,False,False,True,False,Non-Smoker,True
+Jayant Choudhary,Bajaj Allianz General Insurance Company Ltd,Jayant Choudhary's Personal Accident Plan,24,6000,481003,jayantchoudhary@gmail.com,True,False,True,True,Non-Smoker,False
+Manish Gautam,reliance general insurance co. ltd.,Motor Insurance,23,15000,120001,manishgautam@gmail.com,True,False,False,False,Non-Smoker,False
+Karol Singh,National Insurance Company Limited,MEDICAL INSURANCE,47,8100,110021,karol.singh@zzzzz.com,True,False,False,False,Non-Smoker,False
+Rajesh Kumar,Bharti AXA General Insurance,Bharti AXA Pro Personal Accident Plan,29,1199,400031,rajesh.kumar@bhartiaxa.in,False,False,False,True,Non-Smoker,False
+Sudhakar Reddy,New India Assurance Company,Retirement Plan,38,210000,500082,sudhakarreddy146@gmail.com,False,True,False,False,Non-Smoker,True
+Akash Rai,LIC,LIC Pension Plan,34,18300,370001,akashrai@gmail.com,False,False,False,False,Non-Smoker,False
+Ramkumar Yadav,Nationwide Insurance,Nationwide Insurance Plan,34,350000,798001,ramkumar.yadav@nationwide.com,False,True,False,True,Non-Smoker,False
+Shekharan S.,New India Assurance Co. Ltd.,New India Assurance Co. Ltd. Motor Insurance - Temporary Cover,27,40600,600102,shekharan.s@newindia.co.in,True,True,True,True,Non-Smoker,False
+Lakshmanan Vignesh,Kotak Mahindra Life Insurance,Kotak e-Super Saver,27,130000,600058,lakshmanan.vignesh@gmail.com,False,False,False,True,Smoker,True
+Shivendra Kumar,Tata AIG General Insurance,TATA AIG - SUPER SENIOR CITIZEN REAL PROTECTOR,58,387000,400039,shivendra.kumar@tataindia.com,False,False,False,False,Non-Smoker,False
+Krishna,Kotak Life Insurance Company Limited,Kotak Life - Kotak e+ Plan,29,100000,400001,krishna.l@kotaklife.com,False,False,False,False,Non-Smoker,False
+Krishnan Lal,HDFC ERGO General Insurance,HDFC ERGO Two Wheeler Insurance Policy,43,135000,400061,krishnanlal@gmail.com,False,False,False,False,Non-Smoker,False
+Krishna Prasad,BAJAJ ALLianz General Insurance Company Limited,Syndicate Bank Bajaj Allianz Health Insurance Plan,47,1350,550001,krishna.prasad@gmail.com,True,False,True,True,Smoker,False
+Pranav Kumar,Oriental Insurance,PLAN PROTECT 8080,27,50000,400063,pranav.kumar@gmail.com,False,False,False,False,Smoker,False
+Dipankar Panda,Bajaj Allianz Life Insurance Company Limited,iSave 25,36,150000,751019,dpanda@bajajallianzlife.com,False,True,True,True,Non-Smoker,False
+Kapil Nayak,Bharati AXA General Insurance,Motor Insurance,24,18000,400010,kapilnayak12@gmail.com,True,False,True,True,Non-Smoker,False
